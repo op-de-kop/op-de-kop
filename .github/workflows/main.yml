@@ -13,4 +13,5 @@ jobs:
       with:
         server: sftp.op-de-kop.nl
         username: 198511
+        port: 21
         password: ${{ secrets.deploy_password }}
