@@ -4,6 +4,8 @@ jobs:
   web-deploy:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
     steps:
     - run: echo ${{ secrets.deploy_username }}
     - name: 🚚 Get latest code
