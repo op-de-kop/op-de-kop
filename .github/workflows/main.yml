@@ -12,7 +12,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: sftp-1a.mijndomein-ws.nl/public/sites/www.op-de-kop.nl
+        ftp-server: sftp://sftp-1a.mijndomein-ws.nl/public/sites/www.op-de-kop.nl
         ftp-username: 198511
         ftp-password: ${{ secrets.deploy_password }}
         git-ftp-args: --insecure
