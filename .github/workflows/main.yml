@@ -14,6 +14,5 @@ jobs:
       with:
         ftp-server: sftp.op-de-kop.nl
         ftp-username: 198511
-        ftp-port: 22
         ftp-password: ${{ secrets.deploy_password }}
         git-ftp-args: --insecure
