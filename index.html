@@ -1,14 +1,88 @@
+<!DOCTYPE html>
+<html lang="nl">
+
 <head>
-  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-
+    <title>Op De Kop: acrobatiekvereniging in Utrecht</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+        .font-josefin {
+            font-family: "Josefin Sans", sans-serif
+        }
+    </style>
 </head>
-<body>
-  <div class="relative h-64 m-8 overflow-hidden rounded-lg bg-indigo-500">
-    <div class="relative z-30 w-5/6 px-6 py-8 text-white md:py-10 md:w-1/2">
-      <h2 class="text-5xl">Op de kop</h2>
-      <span></span>
+
+<body class="bg-gray-100 flex justify-center font-sm md:font-base font-normal leading-normal md:leading-relaxed">
+    <div class="container md:max-w-2xl p-3">
+        <header class="">
+            <nav class="flex flex-col md:flex-row justify-center">
+                <div class="md:w-1/2 p-3 grid center place-items-center font-josefin md:order-1">
+                    <h2 class="text-xl">Utrechtse</h2>
+                    <h1 class="text-4xl">Acrobatiekvereniging</h1>
+                </div>
+                <div class="flex-initial w-100 md:w-1/6 flex flex-col items-center md:order-2">
+                    <img src="img/logo.png" class="object-contain w-1/2 md:w-100" />
+                </div>
+                <ul class="md:w-1/3 p-3 ml-3 text-xl md:order-3">
+                    <li class="inline mr-2"><span><a class="hover:underline hover:text-red-500 focus:underline"
+                href="index.html">Home</a></span>
+                    </li>
+                    <li class="inline mr-2"><span><a class="hover:underline hover:text-red-500 focus:underline"
+                href="https://forms.gle/N7qFKKCv9d9PnFgh7">Register</a></span>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <div class="mb-3 md:w-100 md:flex md:flex-col md:items-center"><img src="img/lbh2h.jpg" class="rounded-2xl md:w-2/3" />
+            </div>
+            <section class="mt-8">
+                <p class="text-xl">Weekly classes starting on Wednesday September 15th, 19:30 - 21:00.</p>
+            </section>
+
+
+            <section class="mb-3 mt-8">
+                <h3 class="text-xl">NEDERLANDS</h3>
+                <p class="mb-2">
+                    Op De Kop is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een 8-tal acrobaten. We gaan vanaf 15 september wekelijks op woensdag lessen organiseren.
+                </p>
+                <p class="mb-2">
+                    De lessen zijn voor iedereen vanaf 16 jaar. Je hoeft géén ervaring met acrobatiek te hebben en je hoeft ook niet sterk of lenig te zijn, als je meedoet met de lessen komt dat vanzelf.
+                </p>
+                <p>
+                    Als je geïnteresseerd bent in de lessen laat het ons dan weten via
+                    <a class="text-red-500 focus:underline hover:underline" href="https://forms.gle/N7qFKKCv9d9PnFgh7">dit
+            formulier</a>.
+                </p>
+            </section>
+            <section class="mb-3 mt-8">
+                <h3 class="text-xl">ENGLISH</h3>
+
+                <p class="mb-2">
+                    Op De Kop (Upside Down) is a brand new acrobatics association in Utrecht founded by 8 acrobats. We're organising weekly classes from September 15 onwards.
+                </p>
+
+                <p class="mb-2">The classes are for everyone 16 years or over. You do NOT need experience with acrobatics, nor do you need to be strong or flexible. Taking classes will result in strength and flexibility.
+                </p>
+                <p>
+                    If you're interested in these lessons please let us know through
+                    <a class="text-red-500 focus:underline hover:underline" href="https://forms.gle/N7qFKKCv9d9PnFgh7">this
+            form</a>.
+                </p>
+            </section>
+        </main>
+        <footer class="m-4 flex items-center flex-col">
+            <div>
+                <img src="img/logo.png" class="object-contain rounded-2xl m-2" />
+            </div>
+            <p>
+                E-mail: info@op-de-kop.nl
+            </p>
+        </footer>
     </div>
-  </div>
-
-
 </body>
+
+</html>
