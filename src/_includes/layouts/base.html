@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="nl">
+  {% include "partials/head.html" %}
+
+  <body
+    class="
+      bg-gray-100
+      flex
+      justify-center
+      font-sm
+      md:font-base
+      font-normal
+      leading-normal
+      md:leading-relaxed
+    "
+  >
+    <div class="container md:max-w-2xl p-3">
+      {% include "partials/head.html" %} {% include "partials/header.html" %} {%
+      block content %}{% endblock %} {% include "partials/footer.html" %}
+    </div>
+  </body>
+</html>
