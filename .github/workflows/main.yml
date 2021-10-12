@@ -7,7 +7,7 @@ jobs:
     # if: github.ref == 'refs/heads/main'
 
     steps:
-    - run: npm ci
+    - run: npm install
     - name: installing package.json dependencies
       uses: mikeal/npx@master
 
