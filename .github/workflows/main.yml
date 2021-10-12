@@ -7,7 +7,11 @@ jobs:
     # if: github.ref == 'refs/heads/main'
 
     steps:
-    - run: npx run build
+    - run: npm ci
+    - name: installing package.json dependencies
+      uses: mikeal/npx@master
+
+    - run: npm run build
     - name: 🔨 building 11ty site..
       uses: mikeal/npx@master
 
