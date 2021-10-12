@@ -7,13 +7,18 @@ jobs:
     # if: github.ref == 'refs/heads/main'
 
     steps:
+    - name: Use Node v12
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12
+
     - run: npm install
     - name: installing package.json dependencies
-      uses: mikeal/npx@master
+      uses: actions/setup-node@v1
 
     - run: npm run build
     - name: 🔨 building 11ty site..
-      uses: mikeal/npx@master
+      uses: actions/setup-node@v1
 
     - run: echo ${{ secrets.deploy_username }}
     - name: 🚚 Get latest code
