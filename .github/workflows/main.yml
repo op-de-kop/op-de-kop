@@ -12,6 +12,9 @@ jobs:
       with:
         node-version: 12
 
+    - run: pwd
+    - name: pwd
+
     - run: npm install
     - name: installing package.json dependencies
       uses: actions/setup-node@v1
