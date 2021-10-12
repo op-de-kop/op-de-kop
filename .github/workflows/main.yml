@@ -4,9 +4,13 @@ jobs:
   web-deploy:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    # if: github.ref == 'refs/heads/main'
 
     steps:
+    - run: npx run build
+    - name: 🔨 building 11ty site..
+      uses: mikeal/npx@master
+
     - run: echo ${{ secrets.deploy_username }}
     - name: 🚚 Get latest code
       uses: actions/checkout@v2
@@ -14,6 +18,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
+        local-dir: ./dist
         ftp-server: sftp://sftp.op-de-kop.nl/public/sites/www.op-de-kop.nl
         ftp-username: 198511
         ftp-password: ${{ secrets.deploy_password }}
