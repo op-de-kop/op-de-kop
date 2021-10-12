@@ -14,19 +14,19 @@ jobs:
 
     - run: pwd
       name: pwd
-      uses: actions/setup-node@v1
+    - uses: actions/setup-node@v1
 
     - run: npm install
       name: installing package.json dependencies
-      uses: actions/setup-node@v1
+    - uses: actions/setup-node@v1
 
     - run: npm run build
       name: 🔨 building 11ty site..
-      uses: actions/setup-node@v1
+    - uses: actions/setup-node@v1
 
     - run: echo ${{ secrets.deploy_username }}
       name: 🚚 Get latest code
-      uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
