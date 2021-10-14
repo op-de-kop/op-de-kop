@@ -3,30 +3,15 @@ name: 🚀 Deploy website on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     # if: github.ref == 'refs/heads/main'
 
     steps:
-    - name: Use Node v12
-      uses: actions/setup-node@v1
-      with:
-        node-version: 12
-
-    - run: pwd
-      name: pwd
-    - uses: actions/setup-node@v1
-
-    - run: npm install
-      name: installing package.json dependencies
-    - uses: actions/setup-node@v1
-
-    - run: npm run build
-      name: 🔨 building 11ty site..
-    - uses: actions/setup-node@v1
-
-    - run: echo ${{ secrets.deploy_username }}
-      name: 🚚 Get latest code
     - uses: actions/checkout@v2
+      name: 🚚 Get latest code
+
+    - name: Build
+      uses: TartanLlama/actions-eleventy@v1.1
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
