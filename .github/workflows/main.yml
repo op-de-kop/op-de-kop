@@ -11,9 +11,7 @@ jobs:
       name: 🚚 Get latest code
 
     - name: Build
-      uses: TartanLlama/actions-eleventy@v1.1
-      with:
-        install_dependencies: true
+      uses: mfyz/actions-eleventy@master
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
