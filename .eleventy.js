@@ -9,24 +9,6 @@ module.exports = config => {
             "*": "nl-NL",
         },
     });
-
-    // Browsersync
-    // Redirect from root to default language root during --serve
-    config.setBrowserSyncConfig({
-        callbacks: {
-            ready: function(err, bs) {
-                bs.addMiddleware("*", (req, res) => {
-                    if (req.url === "/") {
-                        res.writeHead(302, {
-                            location: "/nl-NL/",
-                        });
-                        res.end();
-                    }
-                });
-            },
-        },
-    });
-
     // end i18n stuff
 
     // Filters
