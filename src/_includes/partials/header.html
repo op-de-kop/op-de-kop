@@ -7,17 +7,17 @@
     <div class="w-100 flex md:justify-center">
       <img src="/static/images/logo.png" class="rounded-2xl md:w-80" />
     </div>
-    <ul class="p-3 ml-3 text-xl md:border-b-4">
-      <li class="inline mr-2">
+    <ul class="p-3 ml-3 text-xl md:border-b-4 flex flex-row">
+      <li class="mr-2">
         <span
           ><a
             class="hover:underline hover:text-red-500 focus:underline"
-            href="/"
+            href="/{{locale}}/"
             >Home</a
           ></span
         >
       </li>
-      <li class="inline mr-2">
+      <li class="mr-2">
         <span
           ><a
             class="hover:underline hover:text-red-500 focus:underline"
@@ -26,12 +26,21 @@
           ></span
         >
       </li>
-      <li class="inline mr-2">
+      <li class="mr-2">
         <span
           ><a
             class="hover:underline hover:text-red-500 focus:underline"
-            href="/faq"
+            href="/{{locale}}/faq"
             >FAQ</a
+          ></span
+        >
+      </li>
+      <li class="mr-2 ml-auto">
+        <span
+          ><a
+            class="hover:underline hover:text-red-500 focus:underline"
+            href="/{{"en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}"
+            >{{"English" if locale == "nl-NL" else "Nederlands"}}</a
           ></span
         >
       </li>
