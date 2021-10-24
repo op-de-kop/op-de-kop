@@ -11,7 +11,7 @@ jobs:
       name: 🚚 Get latest code
 
     - name: Build
-      uses: mfyz/actions-eleventy@master
+      uses: nielsbom/actions-eleventy@patch-1
 
     - name: git status
       run: git status -uno --porcelain
