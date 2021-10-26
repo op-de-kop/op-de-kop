@@ -19,13 +19,10 @@ jobs:
     - name: debug
       run: ls -la dist/
 
-    - name: copy to root
-      run: cp -r dist/* ./
-
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-#        local-dir: dist/
+        local-dir: ./dist/*
         ftp-server: sftp://sftp.op-de-kop.nl/public/sites/www.op-de-kop.nl
         ftp-username: 198511
         ftp-password: ${{ secrets.deploy_password }}
