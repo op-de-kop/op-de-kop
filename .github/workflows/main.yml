@@ -26,5 +26,10 @@ jobs:
         ftp-server: sftp://sftp.op-de-kop.nl/public/sites/www.op-de-kop.nl
         ftp-username: 198511
         ftp-password: ${{ secrets.deploy_password }}
-        git-ftp-args: --insecure --remote-root public/sites/www.op-de-kop.nl
+        git-ftp-args: --insecure
+#        local-dir: ./dist/*
+#        ftp-server: sftp://sftp.op-de-kop.nl/public/sites/www.op-de-kop.nl
+#        ftp-username: 198511
+#        ftp-password: ${{ secrets.deploy_password }}
+#        git-ftp-args: --insecure --remote-root public/sites/www.op-de-kop.nl
 
