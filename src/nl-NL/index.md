@@ -20,21 +20,47 @@ Als je geïnteresseerd bent in de lessen laat het ons dan weten via
 
 <br/>
 
-## Wekelijkse lessen starten op op woensdag 15 September.
+## De volgende cursus start in januari 2022.
 
-Cursus september - december (14 lessen)
+Cursus januari - april (15 lessen)
+
+Eerste les: 12 januari
+Laatste les: 20 april
 
 Class 1 - 19:15 - 20:45 - Beginners
 
 Class 2 - 21.00 - 22:30 - Ervaren
 
-<br/>
-Lessen in januari komen binnenkort op de site
 
 <br/>
+Op 30 februari is er geen les vanwege schoolvakantie
 
-Kosten: € 154 per cursus
+Kosten: € 165
+- 25% korting voor Upas houders en studenten
+
+<br/>
+<br/>
+<br/>
+
+
+## En ook nog een kortere cursus tot de zomer.
+
+Cursus mei - juli (9 lessen)
+
+Eerste les: 11 mei
+Laatste les: 6 juni
+
+Class 1 - 19:15 - 20:45 - Beginners
+
+Class 2 - 21.00 - 22:30 - Ervaren
+
+Kosten: € 99
+<br/>
 
 - 25% korting voor Upas houders en studenten
+
+<br/>
+<br/>
+<br/>
 
 Cursus locatie: Amsterdamsestraatweg 3 Utrecht
