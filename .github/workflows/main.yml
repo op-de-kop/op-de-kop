@@ -5,25 +5,28 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-18.04
     # if: github.ref == 'refs/heads/main'
-
     steps:
-    - uses: actions/checkout@v2
-      name: 🚚 Get latest code
+      - uses: actions/checkout@v2
+        name: 🚚 Get latest code
+      - name: Build
+        uses: nielsbom/actions-eleventy@patch-1
+      - name: git status
+        run: git status -uno --porcelain
 
-    - name: Build
-      uses: nielsbom/actions-eleventy@patch-1
+      - name: debug
+        run: ls -la dist/
 
-    - name: git status
-      run: git status -uno --porcelain
+      - name: copy files
+        run: cp -r dist/* ./
 
-    - name: debug
-      run: ls -la dist/
+      - name: debug
+        run: ls -la ./
 
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@3.1.1
-      with:
-        local-dir: dist/
-        ftp-server: sftp://sftp.op-de-kop.nl/public/sites/www.op-de-kop.nl
-        ftp-username: 198511
-        ftp-password: ${{ secrets.deploy_password }}
-        git-ftp-args: --insecure --remote-root public/sites/www.op-de-kop.nl
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        with:
+#          local-dir: ./
+          ftp-server: sftp://sftp.op-de-kop.nl/public/sites/www.op-de-kop.nl
+          ftp-username: 198511
+          ftp-password: ${{ secrets.deploy_password }}
+          git-ftp-args: --insecure

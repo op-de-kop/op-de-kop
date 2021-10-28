@@ -29,6 +29,9 @@ Class 1 - 19:15 - 20:45 - Beginners
 Class 2 - 21.00 - 22:30 - Ervaren
 
 <br/>
+Lessen in januari komen binnenkort op de site
+
+<br/>
 
 Kosten: € 154 per cursus
 
