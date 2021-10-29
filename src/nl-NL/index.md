@@ -3,64 +3,40 @@ title: 'Home'
 layout: 'layouts/home.html'  
 ---
 
-Op De Kop is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een
-8-tal acrobaten. We gaan vanaf 15 september wekelijks op woensdag lessen
-organiseren. De lessen worden gegeven door een ervaren docent.
-
-<br/>
+"Op De Kop" is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een
+8-tal acrobaten. Er zijn vanaf 15 september elke woensdag lessen. De lessen
+worden gegeven door ervaren docenten.
 
 De lessen zijn voor iedereen vanaf 16 jaar. Je hoeft géén ervaring met
 acrobatiek te hebben en je hoeft ook niet sterk of lenig te zijn, als je meedoet
 met de lessen komt dat vanzelf.
 
-<br/>
-
 Als je geïnteresseerd bent in de lessen laat het ons dan weten via
-[dit formulier](https://forms.gle/N7qFKKCv9d9PnFgh7).
+[dit formulier](https://forms.gle/N7qFKKCv9d9PnFgh7) of mail ons op
+info@op-de-kop.nl.
 
-<br/>
+---
 
-## De volgende cursus start in januari 2022.
+## Januari - april cursus
 
-Cursus januari - april (15 lessen)
+Van januari tot en met april loopt er een cursus van 14 lessen. Eerste les: 12
+januari, laatste les: 20 april. ⚠️ Op 30 februari is er geen les vanwege schoolvakantie.
 
-Eerste les: 12 januari
-Laatste les: 20 april
+- Groep 1: Beginners - 19:15 - 20:45
+- Groep 2: Ervaren - 21.00 - 22:30
 
-Class 1 - 19:15 - 20:45 - Beginners
+**Kosten**: € 165, Upas-houders en studenten krijgen 25% korting.
 
-Class 2 - 21.00 - 22:30 - Ervaren
+## Mei - juli cursus
 
+Van mei tot en met juli loopt er een cursus van 9 lessen. Eerste les: 11 mei,
+laatste les: 6 juli.
 
-<br/>
-Op 30 februari is er geen les vanwege schoolvakantie
+- Groep 1: Beginners - 19:15 - 20:45
+- Groep 2: Ervaren - 21.00 - 22:30
 
-Kosten: € 165
-- 25% korting voor Upas houders en studenten
+**Kosten**: € 99, Upas-houders en studenten krijgen 25% korting.
 
-<br/>
-<br/>
-<br/>
+## Locatie
 
-
-## En ook nog een kortere cursus tot de zomer.
-
-Cursus mei - juli (9 lessen)
-
-Eerste les: 11 mei
-Laatste les: 6 juni
-
-Class 1 - 19:15 - 20:45 - Beginners
-
-Class 2 - 21.00 - 22:30 - Ervaren
-
-Kosten: € 99
-<br/>
-
-- 25% korting voor Upas houders en studenten
-
-<br/>
-<br/>
-<br/>
-
-Cursus locatie: Amsterdamsestraatweg 3 Utrecht
+Amsterdamsestraatweg 3 Utrecht

@@ -3,54 +3,40 @@ title: 'Home'
 layout: 'layouts/home.html'
 ---
 
-Op De Kop (Upside Down) is a brand new acrobatics association in Utrecht founded
-by 8 acrobats. We're organising weekly classes from September 15 onwards. The
-lessons will be taught by an experienced acrobatics trainer.
-
-<br/>
+"Op De Kop" (Upside Down) is a brand new acrobatics association in Utrecht
+founded by 8 acrobats. There are classes every Wednesday from September 15
+onwards. The lessons will be taught by experienced acrobatics trainerss.
 
 The classes are for everyone 16 years or over. You do NOT need experience with
 acrobatics, nor do you need to be strong or flexible. Taking classes will result
 in strength and flexibility.
 
-<br/>
-
 If you're interested in these lessons please let us know through [this
-form](https://forms.gle/N7qFKKCv9d9PnFgh7).
+form](https://forms.gle/N7qFKKCv9d9PnFgh7) or email us at info@op-de-kop.nl.
 
-<br/>
+---
 
-## The next course starts in january 2022
+## January - April course
 
-Course january - april (15 lessons)
+From January through April there's a course of 14 lessons. First lesson: January
+12th, last lesson: April 20th. ⚠️ No lesson on February 30th due to school
+holidays.
 
-Class 1 - 19:15 - 20:45 - Beginners
+- Class 1: Beginners - 19:15 - 20:45
+- Class 2: Experienced - 21.00 - 22:30
 
-Class 2 - 21.00 - 22:30 - Experienced
+**Costs**: € 165, holders of the Upas and students get a 25% discount.
 
-No lesson on february 30th due to school holidays
+## May - July course
 
-Costs: € 165
+From May through July there's a course of 9 lessons. First lesson: May 11th,
+last lesson: July 6th.
 
-- 25% for holders of the Upas and students
-<br/>
-<br/>
-<br/>
+- Class 1: Beginners - 19:15 - 20:45
+- Class 2: Experienced - 21.00 - 22:30
 
-There will be another shorter course until the summer holiday
+**Costs**: € 99, holders of the Upas and students get a 25% discount.
 
-Course may - july (15 lessons)
+## Location
 
-Class 1 - 19:15 - 20:45 - Beginners
-
-Class 2 - 21.00 - 22:30 - Experienced
-
-Costs: € 99
-
-- 25% for holders of the Upas and students
-
-<br/>
-<br/>
-<br/>
-
-Course location: Amsterdamsestraatweg 3 Utrecht
+Amsterdamsestraatweg 3 Utrecht
