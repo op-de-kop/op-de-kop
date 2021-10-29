@@ -25,7 +25,7 @@ januari, laatste les: 20 april. ⚠️ Op 30 februari is er geen les vanwege sch
 - Groep 1: Beginners - 19:15 - 20:45
 - Groep 2: Ervaren - 21.00 - 22:30
 
-**Kosten**: € 165, Upas-houders en studenten krijgen 25% korting.
+**Kosten**: € 154, Upas-houders en studenten krijgen 25% korting.
 
 ## Mei - juli cursus
 

@@ -25,7 +25,7 @@ holidays.
 - Class 1: Beginners - 19:15 - 20:45
 - Class 2: Experienced - 21.00 - 22:30
 
-**Costs**: € 165, holders of the Upas and students get a 25% discount.
+**Costs**: € 154, holders of the Upas and students get a 25% discount.
 
 ## May - July course
 
