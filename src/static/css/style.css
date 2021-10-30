@@ -1,0 +1,22 @@
+main h2 {
+    font-size: 1.5em;
+}
+
+main a {
+    color: red;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
+
+main ul li {
+    list-style: disc;
+    margin-left: 1em;
+}
+
+main p,
+main ul,
+main hr {
+    margin-bottom: 1em;
+}

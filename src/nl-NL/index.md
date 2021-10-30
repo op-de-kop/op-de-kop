@@ -3,38 +3,40 @@ title: 'Home'
 layout: 'layouts/home.html'  
 ---
 
-Op De Kop is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een
-8-tal acrobaten. We gaan vanaf 15 september wekelijks op woensdag lessen
-organiseren. De lessen worden gegeven door een ervaren docent.
-
-<br/>
+"Op De Kop" is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een
+8-tal acrobaten. Er zijn vanaf 15 september elke woensdag lessen. De lessen
+worden gegeven door ervaren docenten.
 
 De lessen zijn voor iedereen vanaf 16 jaar. Je hoeft géén ervaring met
 acrobatiek te hebben en je hoeft ook niet sterk of lenig te zijn, als je meedoet
 met de lessen komt dat vanzelf.
 
-<br/>
-
 Als je geïnteresseerd bent in de lessen laat het ons dan weten via
-[dit formulier](https://forms.gle/N7qFKKCv9d9PnFgh7).
+[dit formulier](https://forms.gle/N7qFKKCv9d9PnFgh7) of mail ons op
+info@op-de-kop.nl.
 
-<br/>
+---
 
-## Wekelijkse lessen starten op op woensdag 15 September.
+## Januari - april cursus
 
-Cursus september - december (14 lessen)
+Van januari tot en met april loopt er een cursus van 14 lessen. Eerste les: 12
+januari, laatste les: 20 april. ⚠️ Op 30 februari is er geen les vanwege schoolvakantie.
 
-Class 1 - 19:15 - 20:45 - Beginners
+- Groep 1: Beginners - 19:15 - 20:45
+- Groep 2: Ervaren - 21.00 - 22:30
 
-Class 2 - 21.00 - 22:30 - Ervaren
+**Kosten**: € 154, Upas-houders en studenten krijgen 25% korting.
 
-<br/>
-Lessen in januari komen binnenkort op de site
+## Mei - juli cursus
 
-<br/>
+Van mei tot en met juli loopt er een cursus van 9 lessen. Eerste les: 11 mei,
+laatste les: 6 juli.
 
-Kosten: € 154 per cursus
+- Groep 1: Beginners - 19:15 - 20:45
+- Groep 2: Ervaren - 21.00 - 22:30
 
-- 25% korting voor Upas houders en studenten
+**Kosten**: € 99, Upas-houders en studenten krijgen 25% korting.
 
-Cursus locatie: Amsterdamsestraatweg 3 Utrecht
+## Locatie
+
+Amsterdamsestraatweg 3 Utrecht
