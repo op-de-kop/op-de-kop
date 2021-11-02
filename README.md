@@ -6,6 +6,7 @@
 
 To start working on the site:
 
+- `npm install`
 - `npm start`
 - visit the URL Eleventy suggests
 
