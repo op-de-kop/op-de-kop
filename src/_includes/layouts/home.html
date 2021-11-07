@@ -1,13 +1,10 @@
 {% extends "layouts/base.html" %} {% block content %}
+<div class="mb-3 md:w-100 md:flex md:flex-col md:items-center">
+  <img src="/static/images/lbh2h.jpg" class="rounded-2xl md:w-2/3" />
+</div>
 
-<main>
-  <div class="mb-3 md:w-100 md:flex md:flex-col md:items-center">
-    <img src="/static/images/lbh2h.jpg" class="rounded-2xl md:w-2/3" />
-  </div>
+<section class="mb-3 mt-8">{{content | safe }}</section>
 
-  <section class="mb-3 mt-8">{{content | safe }}</section>
-
-  <section class="mt-8 mb-8">{% include "partials/map.html" %}</section>
-</main>
+<section class="mt-8 mb-8">{% include "partials/map.html" %}</section>
 
 {% endblock %}

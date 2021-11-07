@@ -1,15 +1,16 @@
 {% extends "layouts/base.html" %} {% block content %}
-<main>
-  <section class="mb-3 mt-8">
-    <h3 class="text-2xl">{{title}}</h3>
-
+<section class="mb-3 mt-8">
+  <h3 class="text-2xl">{{title}}</h3>
+  <div class="flex flex-wrap gap-3 place-content-center">
     {% for video in videos %}
-    <p class="mb-4 mt-2">
-      <strong> {{ video | getSingleKey | safe }} </strong>
-    </p>
-    <p>{{ video | getSingleValue | makeYouTubeEmbed | safe }}</p>
+    <div>
+      <p class="mb-4 mt-2">
+        <strong> {{ video | getSingleKey | safe }} </strong>
+      </p>
+      <p>{{ video | getSingleValue | makeYouTubeEmbed | safe }}</p>
+    </div>
     {% endfor %}
-  </section>
-</main>
+  </div>
+</section>
 
 {% endblock %}
