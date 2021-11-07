@@ -4,8 +4,6 @@ const translations = require("./src/_data/i18n/index");
 const makeYouTubeEmbed = video_id =>
     `
   <iframe
-    width="560"
-    height="315"
     src="https://www.youtube.com/embed/${video_id}"
     title="YouTube video player"
     frameborder="0"
