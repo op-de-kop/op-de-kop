@@ -12,15 +12,16 @@ acrobatics, nor do you need to be strong or flexible. Taking classes will result
 in strength and flexibility.
 
 If you're interested in these lessons please let us know through [this
-form](https://forms.gle/N7qFKKCv9d9PnFgh7) or email us at info@op-de-kop.nl.
+form](https://forms.gle/HsDYcVhqBWPLksJRA) or email us at info@op-de-kop.nl.
 
 ---
 
 ## January - April course
 
 From January through April there's a course of 14 lessons. First lesson: January
-12th, last lesson: April 20th. ⚠️ No lesson on February 30th due to school
-holidays.
+12th, last lesson: April 20th. 
+
+⚠️ No lesson on March 2nd due to school holidays.
 
 - Class 1: Beginners - 19:15 - 20:45
 - Class 2: Experienced - 21.00 - 22:30

@@ -12,7 +12,7 @@ acrobatiek te hebben en je hoeft ook niet sterk of lenig te zijn, als je meedoet
 met de lessen komt dat vanzelf.
 
 Als je geïnteresseerd bent in de lessen laat het ons dan weten via
-[dit formulier](https://forms.gle/N7qFKKCv9d9PnFgh7) of mail ons op
+[dit formulier](https://forms.gle/HsDYcVhqBWPLksJRA) of mail ons op
 info@op-de-kop.nl.
 
 ---
@@ -20,7 +20,9 @@ info@op-de-kop.nl.
 ## Januari - april cursus
 
 Van januari tot en met april loopt er een cursus van 14 lessen. Eerste les: 12
-januari, laatste les: 20 april. ⚠️ Op 30 februari is er geen les vanwege schoolvakantie.
+januari, laatste les: 20 april. 
+
+⚠️ Op 2 maart is er geen les vanwege schoolvakantie.
 
 - Groep 1: Beginners - 19:15 - 20:45
 - Groep 2: Ervaren - 21.00 - 22:30
