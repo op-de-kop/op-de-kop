@@ -9,7 +9,7 @@ i18n:
 questions:
   - "What about corona?": "We are abiding by to the governmental rules. We will continue
       offering contact sports as long as they are allowed. If the situation
-      changes we will adapt and concider what we can still offer."
+      changes we will adapt and consider what we can still offer."
 
   - "Will there be a different price for students?": "Yes. Students can get 25% discount."
   
