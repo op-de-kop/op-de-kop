@@ -1,6 +1,21 @@
 const i18n = require("eleventy-plugin-i18n");
 const translations = require("./src/_data/i18n/index");
 
+const makeYouTubeEmbed = video_id =>
+    `
+  <iframe
+    src="https://www.youtube.com/embed/${video_id}"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer;
+    autoplay;
+    clipboard-write;
+    encrypted-media;
+    gyroscope;
+    picture-in-picture"
+    allowfullscreen
+  ></iframe>`;
+
 module.exports = config => {
     // i18n stuff
     config.addPlugin(i18n, {
@@ -37,6 +52,7 @@ module.exports = config => {
 
     config.addFilter("getSingleKey", value => Object.keys(value).pop());
     config.addFilter("getSingleValue", value => Object.values(value).pop());
+    config.addFilter("makeYouTubeEmbed", makeYouTubeEmbed);
 
     // end Filters
     config.addPassthroughCopy({ "./src/static/.htaccess": "/.htaccess" });

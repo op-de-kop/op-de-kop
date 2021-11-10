@@ -8,6 +8,8 @@
 # We use HTTP 302 (Redirect Found) because 301 (Permanent Redirect) indicates
 # that the original location should no longer be visited.
 
+RewriteEngine on
+
 # Language header value matches "^nl" for Dutch.
 RewriteCond %{HTTP:Accept-Language} ^nl [NC]
 RewriteRule ^$ /nl-NL/ [L,R=302]
