@@ -15,6 +15,16 @@ If you're interested in these lessons please let us know through [this
 form](https://forms.gle/HsDYcVhqBWPLksJRA) or email us at info@op-de-kop.nl.
 
 ---
+## Corona notice
+
+Due to the current evening-lockdown we are unable 
+
+Due to the recently announced new covid regulations we can unfortunately not continue our acrobatics lessons. When the regulations loosen up far enough we continue our weekly classes.
+
+Tou can email us at info@op-de-kop.nl if you would  like to receive a notice when we can continue.
+
+
+---
 
 ## January - April course
 
