@@ -16,6 +16,13 @@ Als je geïnteresseerd bent in de lessen laat het ons dan weten via
 info@op-de-kop.nl.
 
 ---
+## Coronamelding
+
+Door de huidige avondlockdown zijn er momenteel geen lessen. Als de corona maatregelen ver genoeg versoepeld worden, gaan we weer acrobatiekles geven.
+
+Stuur ons even een mailtje op info@op-de-kop.nl als je op de hoogte gehouden wil worden.
+
+---
 
 ## Januari - april cursus
 
