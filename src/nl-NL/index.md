@@ -23,11 +23,14 @@ Door de huidige avondlockdown zijn er momenteel geen lessen. Als de corona maatr
 Stuur ons even een mailtje op info@op-de-kop.nl als je op de hoogte gehouden wil worden.
 
 ## Handstand challenge
-Het is zo ver! We hebben de 1e handstand challenge online staan. De challenge delen we via whatsapp, signal en [discord](https://discord.gg/FvsCxG8N) (nieuw!).
+Het is zo ver! We hebben de 1e handstand challenge online staan. De challenge delen we via whatsapp, signal en [discord](https://discord.gg/kTBe2atYrK) (nieuw!).
 
 Omdat de handstand challenge ook open is voor niet Op de Kop leden hebben we een discord server aangemaakt met de naam "acrobatiek Utrecht". Iedereen die interesse heeft in acro in Utrecht is hier welkom. 
 
 Het is super leuk als je je poging(en) wilt delen. Zo motiveren we elkaar :)
+
+Klink [here](./handstands) voor de challenges
+
 
 ## Online workout
 

@@ -25,12 +25,13 @@ Tou can email us at info@op-de-kop.nl if you would  like to receive a notice whe
 
 ## Handstand challenge
 
-https://www.youtube.com/watch?v=Owc2YQcArx4
-We made it! The first handstand challenge is online! We will share the challenge in whatsapp, signal and discord https://discord.gg/FvsCxG8N (new!).
+We made it! The first handstand challenge is online! We will share the challenge in whatsapp, signal and [discord](https://discord.gg/kTBe2atYrK) (new!).
 
 Because the handstand challenge is open for everyone, we made a discord server with the name "Acrobatiek Utrecht". Everyone with an interest in acrobatics in Utrechts is welcome to join. The invitation link will be added to the website.
 
 It would be great if you share some of your attempts. This way we keep another motivated :)
+
+The challenges can be found [here](./handstands)
 
 ## Online workout
 We have also announced an online workout. Wednesday we give the first lesson from 19:30 till 21:00 is the workout and handstand training. This will help us all to keep acro-fit.

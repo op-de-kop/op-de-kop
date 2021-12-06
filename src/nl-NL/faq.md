@@ -12,5 +12,5 @@ questions:
   - "Is er een aparte prijs voor studenten?": "Ja. Studenten kunnen 25% korting krijgen."
   
   - 'Kan ik de <a href="https://www.u-pas.nl/">U-Pas</a> gebruiken voor deze lessen?': "Antwoord: ja, vraag ons om de details."
-
+  
 ---
