@@ -25,6 +25,9 @@ jobs:
       - name: debug
         run: node -v
 
+      - name: git reset
+        run: git reset --hard
+
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
