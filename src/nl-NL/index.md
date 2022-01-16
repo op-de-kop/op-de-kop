@@ -19,7 +19,7 @@ info@op-de-kop.nl.
 
 ## Januari - april cursus
 
-Van januari tot en met april loopt er een cursus van 14 lessen. Eerste les: 19
+Van januari tot en met april loopt er een cursus van 13 lessen. Eerste les: 19
 januari, laatste les: 20 april. 
 
 ⚠️ Op 2 maart is er geen les vanwege schoolvakantie.

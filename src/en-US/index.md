@@ -18,7 +18,7 @@ form](https://forms.gle/HsDYcVhqBWPLksJRA) or email us at info@op-de-kop.nl.
 
 ## January - April course
 
-From January through April there's a course of 14 lessons. First lesson: January
+From January through April there's a course of 13 lessons. First lesson: January
 19th, last lesson: April 20th. 
 
 ⚠️ No lesson on March 2nd due to school holidays.
