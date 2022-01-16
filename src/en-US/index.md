@@ -15,28 +15,18 @@ If you're interested in these lessons please let us know through [this
 form](https://forms.gle/HsDYcVhqBWPLksJRA) or email us at info@op-de-kop.nl.
 
 ---
-## Corona notice
-
-Due to the current evening-lockdown we are unable 
-
-Due to the recently announced new covid regulations we can unfortunately not continue our acrobatics lessons. When the regulations loosen up far enough we continue our weekly classes.
-
-Tou can email us at info@op-de-kop.nl if you would  like to receive a notice when we can continue.
-
-
----
 
 ## January - April course
 
-From January through April there's a course of 14 lessons. First lesson: January
-12th, last lesson: April 20th. 
+From January through April there's a course of 13 lessons. First lesson: January
+19th, last lesson: April 20th. 
 
 ⚠️ No lesson on March 2nd due to school holidays.
 
 - Class 1: Beginners - 19:15 - 20:45
 - Class 2: Experienced - 21.00 - 22:30
 
-**Costs**: € 154, holders of the Upas and students get a 25% discount.
+**Costs**: € 143, holders of the Upas and students get a 25% discount.
 
 ## May - July course
 

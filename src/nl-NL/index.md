@@ -16,17 +16,10 @@ Als je geïnteresseerd bent in de lessen laat het ons dan weten via
 info@op-de-kop.nl.
 
 ---
-## Coronamelding
-
-Door de huidige avondlockdown zijn er momenteel geen lessen. Als de corona maatregelen ver genoeg versoepeld worden, gaan we weer acrobatiekles geven.
-
-Stuur ons even een mailtje op info@op-de-kop.nl als je op de hoogte gehouden wil worden.
-
----
 
 ## Januari - april cursus
 
-Van januari tot en met april loopt er een cursus van 14 lessen. Eerste les: 12
+Van januari tot en met april loopt er een cursus van 13 lessen. Eerste les: 19
 januari, laatste les: 20 april. 
 
 ⚠️ Op 2 maart is er geen les vanwege schoolvakantie.
@@ -34,7 +27,7 @@ januari, laatste les: 20 april.
 - Groep 1: Beginners - 19:15 - 20:45
 - Groep 2: Ervaren - 21.00 - 22:30
 
-**Kosten**: € 154, Upas-houders en studenten krijgen 25% korting.
+**Kosten**: € 143, Upas-houders en studenten krijgen 25% korting.
 
 ## Mei - juli cursus
 
