@@ -24,8 +24,9 @@ januari, laatste les: 20 april.
 
 ⚠️ Op 2 maart is er geen les vanwege schoolvakantie.
 
-- Groep 1: Beginners - 19:15 - 20:45
-- Groep 2: Ervaren - 21.00 - 22:30
+Op dit moment hebben we de lessen samen gevoegd. 
+- Les: 20:00 - 21:30
+- Vrij trainen 21:30 - 22:30
 
 **Kosten**: € 143, Upas-houders en studenten krijgen 25% korting.
 

@@ -23,8 +23,8 @@ From January through April there's a course of 13 lessons. First lesson: January
 
 ⚠️ No lesson on March 2nd due to school holidays.
 
-- Class 1: Beginners - 19:15 - 20:45
-- Class 2: Experienced - 21.00 - 22:30
+- Class: 20:00 - 21:30
+- Open training: 21.30 - 22:30
 
 **Costs**: € 143, holders of the Upas and students get a 25% discount.
 
