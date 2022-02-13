@@ -22,7 +22,7 @@ From January through April there's a course of 13 lessons. First lesson: January
 19th, last lesson: April 20th. 
 
 ⚠️ No lesson on March 2nd due to school holidays.
-
+For the moment we have merged the beginner and advanced classes.
 - Class: 20:00 - 21:30
 - Open training: 21.30 - 22:30
 
