@@ -3,6 +3,8 @@ title: "Class videos"
 layout: 'layouts/videos.html'
 
 videos:
+  - "February 16th 2022 class 1": "1QaGaXtIKYE"
+  - "Februari 16th 2022 class 2": "qzWn2T7crcI"
   - "February 2nd 2022 class 1": "GwDRhEF658c"
   - "February 2nd 2022 class 2": "uEpiHu-YkF0"
   - "November 17th 2021 class 1": "3Lv0FrbyJYQ"
