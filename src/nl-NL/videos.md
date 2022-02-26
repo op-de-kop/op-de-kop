@@ -3,6 +3,8 @@ title: "Video's van de lessen"
 layout: 'layouts/videos.html'
 
 videos:
+  - "23 februari 2022 les 1": "r1n8ZZL54GM"
+  - "23 februari 2022 les 2": "N9n4fZ0GHkY"
   - "16 februari 2022 les 1": "1QaGaXtIKYE"
   - "16 februari 2022 les 2": "qzWn2T7crcI"
   - "9 februari 2022 les 2": "OOVK0YGsyhE"
