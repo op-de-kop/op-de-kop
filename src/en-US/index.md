@@ -16,10 +16,22 @@ form](https://forms.gle/HsDYcVhqBWPLksJRA) or email us at info@op-de-kop.nl.
 
 ---
 
+## May - July course
+
+From May through July there's a course of 9 lessons. First lesson: May 11th,
+last lesson: July 6th.
+
+- Class: 20:00 - 21:30
+- Open training: 21.30 - 22:30
+
+During the lessons, the group is split into two skill levels. This way all participant can train on their own level.
+
+**Costs**: € 99, holders of the Upas and students get a 25% discount.
+
 ## January - April course
 
 From January through April there's a course of 13 lessons. First lesson: January
-19th, last lesson: April 20th. 
+19th, last lesson: April 20th.
 
 ⚠️ No lesson on March 2nd due to school holidays.
 For the moment we have merged the beginner and advanced classes.
@@ -28,15 +40,6 @@ For the moment we have merged the beginner and advanced classes.
 
 **Costs**: € 143, holders of the Upas and students get a 25% discount.
 
-## May - July course
-
-From May through July there's a course of 9 lessons. First lesson: May 11th,
-last lesson: July 6th.
-
-- Class 1: Beginners - 19:15 - 20:45
-- Class 2: Experienced - 21.00 - 22:30
-
-**Costs**: € 99, holders of the Upas and students get a 25% discount.
 
 ## Location
 
