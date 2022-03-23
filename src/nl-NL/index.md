@@ -17,28 +17,31 @@ info@op-de-kop.nl.
 
 ---
 
-## Januari - april cursus
-
-Van januari tot en met april loopt er een cursus van 13 lessen. Eerste les: 19
-januari, laatste les: 20 april. 
-
-⚠️ Op 2 maart is er geen les vanwege schoolvakantie.
-
-Op dit moment hebben we de lessen samen gevoegd. 
-- Les: 20:00 - 21:30
-- Vrij trainen 21:30 - 22:30
-
-**Kosten**: € 143, Upas-houders en studenten krijgen 25% korting.
-
 ## Mei - juli cursus
 
 Van mei tot en met juli loopt er een cursus van 9 lessen. Eerste les: 11 mei,
 laatste les: 6 juli.
 
-- Groep 1: Beginners - 19:15 - 20:45
-- Groep 2: Ervaren - 21.00 - 22:30
+- Les: 20:00 - 21:30
+- Vrij trainen 21:30 - 22:30
+
+De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan iedereen zoveel mogelijk op eigen nivo trainen.
 
 **Kosten**: € 99, Upas-houders en studenten krijgen 25% korting.
+
+
+## Januari - april cursus
+
+Van januari tot en met april loopt er een cursus van 13 lessen. Eerste les: 19
+januari, laatste les: 20 april.
+
+⚠️ Op 2 maart is er geen les vanwege schoolvakantie.
+
+Op dit moment hebben we de lessen samen gevoegd.
+- Les: 20:00 - 21:30
+- Vrij trainen 21:30 - 22:30
+
+**Kosten**: € 143, Upas-houders en studenten krijgen 25% korting.
 
 ## Locatie
 
