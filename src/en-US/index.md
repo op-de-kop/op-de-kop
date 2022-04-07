@@ -16,7 +16,7 @@ form](https://forms.gle/HsDYcVhqBWPLksJRA) or email us at info@op-de-kop.nl.
 
 ---
 
-## May - July course
+## May - July 2022 course
 
 From May through July there's a course of 9 lessons. First lesson: May 11th,
 last lesson: July 6th.
@@ -27,6 +27,14 @@ last lesson: July 6th.
 During the lessons, the group is split into two skill levels. This way all participant can train on their own level.
 
 **Costs**: € 99, holders of the Upas and students get a 25% discount.
+
+**Lespresentatie**
+
+Because acrobatics is not only a great joy to practice. Its also joyfull to watch. That is why we would like to show our skills in a presentation
+
+On Thursday, june 30th we have a show. The participants make a presentation with a series of short acts.
+
+The location will be announced soon.
 
 ## January - April course
 
