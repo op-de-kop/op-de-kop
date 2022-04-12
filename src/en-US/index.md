@@ -36,19 +36,6 @@ On Thursday, june 30th we have a show. The participants make a presentation with
 
 The location will be announced soon.
 
-## January - April course
-
-From January through April there's a course of 13 lessons. First lesson: January
-19th, last lesson: April 20th.
-
-⚠️ No lesson on March 2nd due to school holidays.
-For the moment we have merged the beginner and advanced classes.
-- Class: 20:00 - 21:30
-- Open training: 21.30 - 22:30
-
-**Costs**: € 143, holders of the Upas and students get a 25% discount.
-
-
 ## Location
 
 Amsterdamsestraatweg 3 Utrecht
