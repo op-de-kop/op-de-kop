@@ -17,7 +17,7 @@ info@op-de-kop.nl.
 
 ---
 
-## Mei - juli cursus
+## Mei - juli 2022 cursus
 
 Van mei tot en met juli loopt er een cursus van 9 lessen. Eerste les: 11 mei,
 laatste les: 6 juli.
@@ -29,19 +29,13 @@ De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan ieder
 
 **Kosten**: € 99, Upas-houders en studenten krijgen 25% korting.
 
+**Lespresentatie**
 
-## Januari - april cursus
+Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond.
 
-Van januari tot en met april loopt er een cursus van 13 lessen. Eerste les: 19
-januari, laatste les: 20 april.
+Op donderdag 30 juni is deze avond. De deelnemers maken met een thema een presentatieavond met verschillende korte acts. 
 
-⚠️ Op 2 maart is er geen les vanwege schoolvakantie.
-
-Op dit moment hebben we de lessen samen gevoegd.
-- Les: 20:00 - 21:30
-- Vrij trainen 21:30 - 22:30
-
-**Kosten**: € 143, Upas-houders en studenten krijgen 25% korting.
+De locatie maken we binnenkort bekend
 
 ## Locatie
 
