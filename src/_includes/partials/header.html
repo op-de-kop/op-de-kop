@@ -1,53 +1,56 @@
 <header class="">
-  <nav class="md:grid gap-4 mb-3">
-    <a href="/{{locale}}">
-      <div class="p-3 grid center place-items-center font-josefin">
-        <h2 class="text-xl md:text-2xl">Utrechtse</h2>
-        <h1 class="text-4xl md:text-4xl">Acrobatiekvereniging</h1>
-      </div>
-    </a>
+    <nav class="md:grid gap-4 mb-3 navbar">
+        <ul class="pb-3 text-xl md:border-b-4 flex flex-row mt-3">
+            <li class="mr-4 ml-4">
+                    <span
+                    ><a
+                            class="hover:underline hover:text-red-500 focus:underline"
+                            href="/{{locale}}/"
+                    >Home</a
+                    ></span
+                    >
+            </li>
+            <li class="mr-4">
+                <span
+                ><a
+                        class="hover:underline hover:text-red-500 focus:underline"
+                        href="https://forms.gle/HsDYcVhqBWPLksJRA"
+                >Register</a
+                ></span>
+            </li>
+            <li class="mr-4">
+                <span>
+                    <a
+                        class="hover:underline hover:text-red-500 focus:underline"
+                        href="/{{locale}}/faq">
+                        FAQ
+                    </a>
+                </span>
+            </li>
+                <li class="mr-4 ml-auto">
+                    <span>
+                        <a
+                            class="hover:underline hover:text-red-500 focus:underline"
+                            href="/{{" en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}"
+                        >{{"English" if locale == "nl-NL" else "Nederlands"}}</a>
+                    </span>
+            </li>
+        </ul>
+
+
+
+    </nav>
+
     <div class="w-100 flex md:justify-center">
-      <a href="/{{locale}}">
-        <img src="/static/images/logo.png" class="rounded-2xl md:w-80" />
-      </a>
+        <a href="/{{locale}}">
+            <img src="/static/images/logo.png" class="rounded-2xl md:w-80"/>
+        </a>
     </div>
-    <ul class="pb-3 text-xl md:border-b-4 flex flex-row">
-      <li class="mr-2">
-        <span
-          ><a
-            class="hover:underline hover:text-red-500 focus:underline"
-            href="/{{locale}}/"
-            >Home</a
-          ></span
-        >
-      </li>
-      <li class="mr-2">
-        <span
-          ><a
-            class="hover:underline hover:text-red-500 focus:underline"
-            href="https://forms.gle/HsDYcVhqBWPLksJRA"
-            >Register</a
-          ></span
-        >
-      </li>
-      <li class="mr-2">
-        <span
-          ><a
-            class="hover:underline hover:text-red-500 focus:underline"
-            href="/{{locale}}/faq"
-            >FAQ</a
-          ></span
-        >
-      </li>
-      <li class="mr-2 ml-auto">
-        <span
-          ><a
-            class="hover:underline hover:text-red-500 focus:underline"
-            href="/{{"en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}"
-            >{{"English" if locale == "nl-NL" else "Nederlands"}}</a
-          ></span
-        >
-      </li>
-    </ul>
-  </nav>
+    <a href="/{{locale}}">
+        <div class="p-3 grid center place-items-center font-josefin">
+            <h2 class="text-xl md:text-2xl">Utrechtse</h2>
+            <h1 class="text-4xl md:text-4xl">Acrobatiekvereniging</h1>
+        </div>
+    </a>
+
 </header>

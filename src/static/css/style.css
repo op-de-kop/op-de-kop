@@ -20,3 +20,18 @@ main ul,
 main hr {
     margin-bottom: 1em;
 }
+
+.navbar {
+    background: #db1735;
+    color: white;
+}
+
+.app-red {
+    background: #db1735;
+
+}
+
+.subscribe-button {
+    background: #db1735;
+
+}

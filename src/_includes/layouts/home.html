@@ -3,8 +3,48 @@
   <img src="/static/images/lbh2h.jpg" class="rounded-2xl md:w-2/3" />
 </div>
 
-<section class="mb-3 mt-8">{{content | safe }}</section>
+<section class="mb-3 mt-8">
 
-<section class="mt-8 mb-8">{% include "partials/map.html" %}</section>
+  <div class="app-red text-white">
+    <div class="mx-10 py-10">
+      <div>
+        Op De Kop" is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een
+        8-tal acrobaten. Er zijn vanaf 15 september elke woensdag lessen. De lessen
+        worden gegeven door ervaren docenten.
+      </div>
+      <div class="mt-3">
+        De lessen zijn voor iedereen vanaf 16 jaar. Je hoeft géén ervaring met
+        acrobatiek te hebben en je hoeft ook niet sterk of lenig te zijn, als je meedoet
+        met de lessen komt dat vanzelf.
+
+      </div>
+
+    </div>
+
+
+
+
+  </div>
+  <div class="mt-10 mx-8 justify-center flex" >
+    Als je geïnteresseerd bent in de lessen laat het ons dan weten via of mail ons op
+    info@op-de-kop.nl.
+
+  </div>
+
+
+  <div class="justify-center flex mt-8">
+    <a href="https://forms.gle/HsDYcVhqBWPLksJRA">
+      <button class="text-white rounded justify-center subscribe-button px-4 py-2" >Inschrijven</button>
+    </a>
+  </div>
+</section>
+
+<section class="mb-3 mt-8 mx-8">{{content | safe }}</section>
+
+  <section class="mt-8 mb-8 flex justify-content">
+  <div>
+    {% include "partials/map.html" %}
+  </div>
+</section>
 
 {% endblock %}
