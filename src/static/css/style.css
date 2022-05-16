@@ -1,3 +1,19 @@
+
+@font-face {
+
+    font-family: caviarDreams;
+    src: url('CaviarDreams.ttf') format('truetype'),
+         url('CaviarDreams_Bold.ttf') format('truetype'),
+         url('CaviarDreams_BoldItalic.ttf') format('truetype'),
+         url('CaviarDreams_Italic.ttf') format('truetype');
+
+}
+
+
+body {
+    font-family: caviarDreams;
+
+}
 main h2 {
     font-size: 1.5em;
 }
@@ -33,5 +49,6 @@ main hr {
 
 .subscribe-button {
     background: #db1735;
+    /*background: #8d525b;*/
 
 }
