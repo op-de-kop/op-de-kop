@@ -9,13 +9,20 @@
 
 }
 
+@font-face {
+    font-family: pumpkinStory;
+    src: url('PumpkinStory/PumpkinStory.ttf') format('truetype');
 
+}
 body {
     font-family: caviarDreams;
 
+
 }
 main h2 {
-    font-size: 1.5em;
+    font-family: pumpkinStory, serif;
+    color: red;
+    font-size: 2em;
 }
 
 main a {
@@ -40,8 +47,12 @@ main hr {
 .navbar {
     background: #db1735;
     color: white;
-}
+    font-family: pumpkinStory, serif;
 
+}
+.navbar li:hover {
+    color: black;
+}
 .app-red {
     background: #db1735;
 
@@ -49,6 +60,7 @@ main hr {
 
 .subscribe-button {
     background: #db1735;
-    /*background: #8d525b;*/
+    font-family: pumpkinStory, serif;
+    font-size: 50px;
 
 }

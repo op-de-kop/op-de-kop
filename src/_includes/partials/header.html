@@ -1,10 +1,10 @@
 <header class="sticky top-0 ">
     <nav class="md:grid gap-4 mb-3 navbar">
-        <ul class="pb-3 text-xl md:border-b-4 flex flex-row mt-3">
+        <ul class="pb-3 text-xl md:text-3xl md:border-b-4 flex flex-row mt-3">
             <li class="mr-4 ml-4">
                     <span
                     ><a
-                            class="hover:underline hover:text-red-500 focus:underline"
+                            class="hover:underline focus:underline"
                             href="/{{locale}}/"
                     >Home</a
                     ></span
@@ -13,24 +13,24 @@
             <li class="mr-4">
                 <span
                 ><a
-                        class="hover:underline hover:text-red-500 focus:underline"
+                        class="hover:underline focus:underline"
                         href="https://forms.gle/HsDYcVhqBWPLksJRA"
                 >Register</a
                 ></span>
             </li>
-            <li class="mr-4">
+            <li class="mr-9">
                 <span>
                     <a
-                        class="hover:underline hover:text-red-500 focus:underline"
+                        class="hover:underline focus:underline"
                         href="/{{locale}}/faq">
                         FAQ
                     </a>
                 </span>
             </li>
-                <li class="mr-4 ml-auto">
+                <li class="mr-9 ml-auto">
                     <span>
                         <a
-                            class="hover:underline hover:text-red-500 focus:underline"
+                            class="hover:underline focus:underline"
                             href="/{{"en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}"
                         >{{"English" if locale == "nl-NL" else "Nederlands"}}</a>
                     </span>
