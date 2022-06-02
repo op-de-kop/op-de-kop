@@ -3,19 +3,7 @@ title: 'Home'
 layout: 'layouts/home.html'  
 ---
 
-"Op De Kop" is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een
-8-tal acrobaten. Er zijn vanaf 15 september elke woensdag lessen. De lessen
-worden gegeven door ervaren docenten.
 
-De lessen zijn voor iedereen vanaf 16 jaar. Je hoeft géén ervaring met
-acrobatiek te hebben en je hoeft ook niet sterk of lenig te zijn, als je meedoet
-met de lessen komt dat vanzelf.
-
-Als je geïnteresseerd bent in de lessen laat het ons dan weten via
-[dit formulier](https://forms.gle/HsDYcVhqBWPLksJRA) of mail ons op
-info@op-de-kop.nl.
-
----
 
 ## Mei - juli 2022 cursus
 

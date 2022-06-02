@@ -3,4 +3,8 @@ module.exports = {
     terms_and_conditions: "terms and conditions",
     question: "question",
     answer: "answer",
+    op_de_kop: "\"Op De Kop\" (Upside Down) is a the acrobatics association in Utrecht founded by 8 acrobats. There are classes weekly. The lessons will be taught by experienced acrobatics trainers.",
+    lessons_for_everyone: "The classes are for everyone 16 years or over. You do NOT need experience with acrobatics, nor do you need to be strong or flexible. Taking classes will result in strength and flexibility.",
+    interested: "If you are interested in classes, please let us know by filling out the form .",
+    subscribe: "Subscribe"
 };
