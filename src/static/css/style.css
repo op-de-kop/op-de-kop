@@ -2,16 +2,16 @@
 @font-face {
 
     font-family: caviarDreams;
-    src: url('CaviarDreams.ttf') format('truetype'),
-         url('CaviarDreams_Bold.ttf') format('truetype'),
-         url('CaviarDreams_BoldItalic.ttf') format('truetype'),
-         url('CaviarDreams_Italic.ttf') format('truetype');
+    src: url('fonts/CaviarDreams/CaviarDreams.ttf') format('truetype'),
+         url('fonts/CaviarDreams/CaviarDreams_Bold.ttf') format('truetype'),
+         url('fonts/CaviarDreams/CaviarDreams_BoldItalic.ttf') format('truetype'),
+         url('fonts/CaviarDreams/CaviarDreams_Italic.ttf') format('truetype');
 
 }
 
 @font-face {
     font-family: pumpkinStory;
-    src: url('PumpkinStory/PumpkinStory.ttf') format('truetype');
+    src: url('fonts/PumpkinStory/PumpkinStory.ttf') format('truetype');
 
 }
 body {
