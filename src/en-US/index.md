@@ -3,6 +3,33 @@ title: 'Home'
 layout: 'layouts/home.html'
 ---
 
+After the summer break classes resume in september.
+
+**Wednesday**
+
+First class: 7 september
+Last class: 21 december
+Hollidays on 26 and 28 oktober
+
+- 19:00 - 20:00 Handstandtraining
+- 20:00 - 21:30 Acrobatics class:
+- 21:30 - 22:30 Open trainen
+
+Location: Amsterdamsestraatweg 3
+
+**Vrijdag**
+- 9:00 - 10:00 Handstandtraining
+
+Location: To be announced
+
+**Costs**
+- Acrobatics class full cursus: € 165
+- Handstandtraining full cursus:: € 112.50
+- Handstandtraining single class: € 10
+
+
+holders of the Upas and students get a 25% discount.
+
 ## May - July 2022 course
 
 From May through July there's a course of 9 lessons. First lesson: May 11th,
