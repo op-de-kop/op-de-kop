@@ -11,10 +11,11 @@ Na een zomerstop starten ook onze acrobatieklessen weer in september.
 
 Eerste les: 7 september
 Laatste les: 21 december
-Vakantie op 26 en 28 oktober
+
+Totaal 16 lessen
 
 - 19:00 - 20:00 Handstandtraining
-- 20:00 - 21:30 Acrobatiekles: 
+- 20:00 - 21:30 Acrobatiekles
 - 21:30 - 22:30 Vrij trainen
 
 Locatie: Amsterdamsestraatweg 3
@@ -25,8 +26,9 @@ Locatie: Amsterdamsestraatweg 3
 Locatie: Nog te bepalen
 
 **Kosten**
-- Acrobatiekles hele cursus: € 165
-- Handstandtraining hele cursus:: € 112.50 
+- Acrobatiekles hele cursus: € 176
+- Handstandtraining woensdag hele cursus: € 120 
+- Handstandtraining vrijdag hele cursus: € 120 
 - Handstandtraining Losse les: € 10
 
 
