@@ -33,6 +33,7 @@ Location: To be announced
 - Handstandtraining Friday full course:: € 120
 - Handstandtraining single class: € 10
 
+More information about the handstand trainings ca be found [here](faq)
 
 Holders of the Upas and students get a 25% discount.
 

@@ -31,6 +31,7 @@ Locatie: Nog te bepalen
 - Handstandtraining vrijdag hele cursus: € 120 
 - Handstandtraining Losse les: € 10
 
+Klik [hier](faq) voor meer informatie over de handstand training
 
 Upas-houders en studenten krijgen 25% korting.
 
