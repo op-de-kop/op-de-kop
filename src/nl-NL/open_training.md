@@ -20,8 +20,9 @@ De zaal is hoog genoeg voor L-base acrobatiek. Er is geen ruimte voor hoge truuk
 - Locatie: 't Goylaan 77
 - Tijd: 20:00 - 22:00
 - Kosten: €3 per keer
+- Contact: monday@op-de-kop.nl
 
-Aanmelden is niet nodig.
+Aanmelden is niet nodig. Een mail sturen als je de eerste keer komt wordt op prijs gesteld.
 
 **Donderdag**
 

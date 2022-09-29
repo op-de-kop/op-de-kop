@@ -20,8 +20,9 @@ Usually there is a warm-up together, and then everyone is just jamming.
 - Location: 't Goylaan 77
 - Time: 20:00 - 22:00
 - Costs: €3 per keer
+- Contact: monday@op-de-kop.nl
 
-Registration is not required.
+Registration is not required, but sending an e-mail before you come for the first time is appreciated :)
 
 **Thursday**
 
