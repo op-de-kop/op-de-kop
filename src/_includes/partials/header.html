@@ -18,29 +18,35 @@
                 >Register</a
                 ></span>
             </li>
-            <li class="mr-9">
+            <li class="mr-4">
                 <span>
                     <a
                         class="hover:underline focus:underline"
-                        href="/{{locale}}/faq">
+                        href="/{{locale}}/open_training"
+                >Open Training</a>
+                </span>
+            </li>
+            <li class="mr-9">
+                <span>
+                    <a
+                            class="hover:underline focus:underline"
+                            href="/{{locale}}/faq">
                         FAQ
                     </a>
                 </span>
             </li>
-                <li class="mr-9 ml-auto">
+            <li class="mr-9 ml-auto">
                     <span>
                         <a
-                            class="hover:underline focus:underline"
-                            href="/{{"en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}"
+                                class="hover:underline focus:underline"
+                                href="/{{"en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}"
                         >{{"English" if locale == "nl-NL" else "Nederlands"}}</a>
                     </span>
             </li>
         </ul>
 
 
-
     </nav>
-
 
 
 </header>
