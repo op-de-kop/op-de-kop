@@ -3,6 +3,25 @@ title: 'Home'
 layout: 'layouts/home.html'  
 ---
 
+## Handstand workshop
+
+- Vrijdag 25 November 19:00h - 21:30h
+- Zaterdag 26 November 10:00h - 13:00h.
+
+Deze workshop is een onderdompeling in de wereld van handstanden met Sam on Hands. Sam begeleid je in de wereld van handstanden, percepties, techniek, mentale en fysieke uitdaging en lichaamsbewustzijn.
+
+Een perfecte mix van expertise en plezier oefenen we wat je nodig hebt om de wereld op z'n kop te ontdekken.
+
+Deze workshop geeft een solide basis voor betere handstanden. Door meer lichaamsbewustzijn te ontwikkelen wordt je handstand beter.
+
+De meer ervaren deelnemers ontwikkelen meer inzicht in de kleine details en verbeteringen. Hiermee kun je je leerproces verbeteren en sneller nieuwe doelen bereiken.
+
+
+Alle details staan op dit [facebook event](https://www.facebook.com/events/3280662782204405)
+
+Voor de inschrijving klik [hier](https://forms.gle/g4HqNxTWNyBzyQnt6)
+
+
 ## September - december 2022 cursus
 
 Na een zomerstop starten ook onze acrobatieklessen weer in september. 
