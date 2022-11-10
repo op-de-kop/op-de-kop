@@ -22,6 +22,55 @@ Alle details staan op dit [facebook event](https://www.facebook.com/events/32806
 Voor de inschrijving klik [hier](https://forms.gle/g4HqNxTWNyBzyQnt6)
 
 
+**Kosten**: € 99, Upas-houders en studenten krijgen 25% korting.
+
+
+## Januari - April 2023 cursus
+
+
+**Woensdag**
+Van januari tot en met april loopt er een cursus van 16 lessen. Eerste les: 11 januari,
+laatste les: 26 april.
+ 
+- 19:00 - 20:00 Handstandtraining
+- Les: 20:00 - 21:30
+- Vrij trainen 21:30 - 22:30
+
+De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan iedereen zoveel mogelijk op eigen nivo trainen.
+
+Locatie: Amsterdamsestraatweg 3
+
+**Vrijdag**
+- 9:00 - 10:00 Handstandtraining
+
+Locatie van de vrijdag training is nader te bepalen. 
+
+**Kosten**: 
+
+- Acrobatiekles: € 176
+- Handstandtraining woensdag hele cursus: € 120
+- Handstandtraining vrijdag hele cursus: € 120
+
+**Korting**
+
+Als je naast de akrobatiekles ook een handstandles volgt, krijg je 50% korting op de handstandles.
+
+We geven 25% korting aan iedereen die dat nodig heeft.
+
+Als je een U-pas hebt, kan je die bij ons gebruiken.
+
+**Lespresentatie**
+
+Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond.
+
+
+
+[//]: # (Op donderdag 30 juni is deze avond. De deelnemers maken met een thema een presentatieavond met verschillende korte acts.)
+
+De datum en locatie maken we binnenkort bekend
+
+
+
 ## September - december 2022 cursus
 
 Na een zomerstop starten ook onze acrobatieklessen weer in september. 
@@ -56,28 +105,3 @@ Upas-houders en studenten krijgen 25% korting.
 
 
 
-
-
-## Mei - juli 2022 cursus
-
-Van mei tot en met juli loopt er een cursus van 9 lessen. Eerste les: 11 mei,
-laatste les: 6 juli.
-
-- Les: 20:00 - 21:30
-- Vrij trainen 21:30 - 22:30
-
-De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan iedereen zoveel mogelijk op eigen nivo trainen.
-
-**Kosten**: € 99, Upas-houders en studenten krijgen 25% korting.
-
-**Lespresentatie**
-
-Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond.
-
-Op donderdag 30 juni is deze avond. De deelnemers maken met een thema een presentatieavond met verschillende korte acts. 
-
-De locatie maken we binnenkort bekend
-
-## Locatie
-
-Amsterdamsestraatweg 3 Utrecht

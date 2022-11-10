@@ -21,6 +21,48 @@ For all the details visit the [facebook event](https://www.facebook.com/events/3
 
 For registration click [here](https://forms.gle/g4HqNxTWNyBzyQnt6)
 
+## Januari - April 2023 cursus
+
+
+**Wednesday**
+
+From January until april we have a course of 16 classes. The first class is at January 11th and the last class at april 26th.
+
+- 19:00 - 20:00 Handstandtraining
+- Les: 20:00 - 21:30 Acrobatics
+- Vrij trainen 21:30 - 22:30
+
+The group will be split into two subgroups of differnt levels. This allows everyone to train at its own level as much as possible. 
+
+
+Location: Amsterdamsestraatweg 3
+
+**Friday**
+- 9:00 - 10:00 Handstand training
+
+Location is tba soon.
+
+**costs**:
+
+- Acrobatiekclass: € 176
+- Handstand training Wednesday full course: € 120
+- Handstand training Friday full course: € 120
+
+**Discounts**
+If you take handstandclass and acrobatcs class, you can get a 50% discount on the handstand class.
+
+We give 25% discount on the courses for everyone who needs it. 
+
+Holders of the U-pas can also use the pass for a discount on the class.
+
+**Course presentation**
+Because acrobatics is not only nice to do, but also to show we organize a presentation evening. 
+
+The date and location wil be announced when known.
+
+
+
+
 ## September - December 2022 courses
 
 After the summer break classes resume in september.
@@ -54,28 +96,3 @@ Location: To be announced
 More information about the handstand trainings ca be found [here](faq)
 
 Holders of the Upas and students get a 25% discount.
-
-## May - July 2022 course
-
-From May through July there's a course of 9 lessons. First lesson: May 11th,
-last lesson: July 6th.
-
-- Class: 20:00 - 21:30
-- Open training: 21.30 - 22:30
-
-During the lessons, the group is split into two skill levels. This way all participant can train on their own level.
-
-**Costs**: € 99, holders of the Upas and students get a 25% discount.
-
-
-**Class presentation**
-
-Because acrobatics is not only a great joy to practice. Its also joyfull to watch. That is why we would like to show our skills in a presentation
-
-On Thursday, june 30th we have a show. The participants make a presentation with a series of short acts.
-
-The location will be announced soon.
-
-## Location
-
-Amsterdamsestraatweg 3 Utrecht
