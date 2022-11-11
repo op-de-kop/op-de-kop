@@ -29,10 +29,10 @@ For registration click [here](https://forms.gle/g4HqNxTWNyBzyQnt6)
 From January until april we have a course of 16 classes. The first class is at January 11th and the last class at april 26th.
 
 - 19:00 - 20:00 Handstandtraining
-- Les: 20:00 - 21:30 Acrobatics
-- Vrij trainen 21:30 - 22:30
+- 20:00 - 21:30 Acrobaticsclass
+- 21:30 - 22:30 Open training
 
-The group will be split into two subgroups of differnt levels. This allows everyone to train at its own level as much as possible. 
+The group will be split into two subgroups of different levels. This allows everyone to train at its own level as much as possible. 
 
 
 Location: Amsterdamsestraatweg 3
@@ -59,8 +59,6 @@ Holders of the U-pas can also use the pass for a discount on the class.
 Because acrobatics is not only nice to do, but also to show we organize a presentation evening. 
 
 The date and location wil be announced when known.
-
-
 
 
 ## September - December 2022 courses

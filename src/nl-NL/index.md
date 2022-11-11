@@ -33,8 +33,8 @@ Van januari tot en met april loopt er een cursus van 16 lessen. Eerste les: 11 j
 laatste les: 26 april.
  
 - 19:00 - 20:00 Handstandtraining
-- Les: 20:00 - 21:30
-- Vrij trainen 21:30 - 22:30
+- 20:00 - 21:30 Les
+- 21:30 - 22:30 Vrij trainen
 
 De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan iedereen zoveel mogelijk op eigen nivo trainen.
 
