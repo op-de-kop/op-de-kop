@@ -3,6 +3,15 @@ title: 'Home'
 layout: 'layouts/home.html'
 ---
 
+## December 30th
+
+On Friday 30 december op de kop is organizing an extra open Holliday training including potluck dinner! 🎅🎇
+
+It's from 14:00 till 20:00 at Amsterdamsestraatweg 3 in Utrecht. It's €7,50,- per person.
+
+Please fill in the form if you're joining, so we can send you the tikkie and door code 😊
+
+[Register for the jam](https://docs.google.com/forms/d/e/1FAIpQLSciMs1csuocvK7qVQmPpxKtve-2KWuQ29DTlUzFDyLYQ4lkAQ/viewform?usp=sf_link1)
 
 ## Januari - April 2023 cursus
 

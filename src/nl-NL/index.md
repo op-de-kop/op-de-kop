@@ -3,6 +3,17 @@ title: 'Home'
 layout: 'layouts/home.html'  
 ---
 
+## 30 december
+
+Op vrijdag 30 december organiseerd Op de Kop een extra vakantiejam met potluck avondeten! 🎅🎇
+
+Van 14:00 tot 20:00 trainen we in de gymzaal aan de Amsterdamsestraatweg 3, in Utrecht. Kosten zijn €7,50,- per persoon.
+
+Als je het formulier invult, sturen we vooraf de deurkodes en alvast een tikkie (dan hoeven we de dag zelf niets meer te regelen).
+
+[Aanmelden voor de the jam](https://docs.google.com/forms/d/e/1FAIpQLSciMs1csuocvK7qVQmPpxKtve-2KWuQ29DTlUzFDyLYQ4lkAQ/viewform?usp=sf_link1)
+
+
 ## Januari - April 2023 cursus
 
 
