@@ -3,15 +3,29 @@ title: 'Home'
 layout: 'layouts/home.html'
 ---
 
-## December 30th
+## Februari - April 2023 course
 
-On Friday 30 december op de kop is organizing an extra open Holliday training including potluck dinner! 🎅🎇
+**Thursday**
 
-It's from 14:00 till 20:00 at Amsterdamsestraatweg 3 in Utrecht. It's €7,50,- per person.
+Because we have a lot of interest for the course on Wednesday, we will start another evening on Thursdays. 
 
-Please fill in the form if you're joining, so we can send you the tikkie and door code 😊
+These classes are suitable for beginners and people with limited acrobatics experience.
 
-[Register for the jam](https://docs.google.com/forms/d/e/1FAIpQLSciMs1csuocvK7qVQmPpxKtve-2KWuQ29DTlUzFDyLYQ4lkAQ/viewform?usp=sf_link1)
+First class: Thursday, Februari 9th
+Last class: Thursday, April 13th
+
+- 20:00 - 21:30 class
+- 21:30 - 22:30 Open training
+
+Location: Vlampijpstraat 80
+
+Costs: € 110
+
+**Discounts**
+
+We give 25% discount on the courses for everyone who needs it.
+
+Holders of the U-pas can also use the pass for a discount on the class.
 
 ## Januari - April 2023 cursus
 
@@ -29,19 +43,14 @@ The group will be split into two subgroups of different levels. This allows ever
 
 Location: Amsterdamsestraatweg 3
 
-**Friday**
-- 9:00 - 10:00 Handstand training
-
-Location is tba soon.
 
 **Costs**:
 
 - Acrobatiekclass: € 176
 - Handstand training Wednesday full course: € 120
-- Handstand training Friday full course: € 120
 
 **Discounts**
-If you take handstandclass and acrobatcs class, you can get a 50% discount on the handstand class.
+If you take handstandclass and acrobatics class, you can get a 50% discount on the handstand class.
 
 We give 25% discount on the courses for everyone who needs it. 
 

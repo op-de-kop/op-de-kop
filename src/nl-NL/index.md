@@ -3,16 +3,29 @@ title: 'Home'
 layout: 'layouts/home.html'  
 ---
 
-## 30 december
+## Februari - April 2023 cursus
 
-Op vrijdag 30 december organiseerd Op de Kop een extra vakantiejam met potluck avondeten! 🎅🎇
+**Donderdag**
 
-Van 14:00 tot 20:00 trainen we in de gymzaal aan de Amsterdamsestraatweg 3, in Utrecht. Kosten zijn €7,50,- per persoon.
+Vanwege veel aanmeldingen voor de cursus op woensdag, starten we binnenkort met een nieuwe lesavond op donderdag.
 
-Als je het formulier invult, sturen we vooraf de deurkodes en alvast een tikkie (dan hoeven we de dag zelf niets meer te regelen).
+Deze les is geschikt voor beginners en mensen met beperkte acrobatiek ervaring.
 
-[Aanmelden voor de the jam](https://docs.google.com/forms/d/e/1FAIpQLSciMs1csuocvK7qVQmPpxKtve-2KWuQ29DTlUzFDyLYQ4lkAQ/viewform?usp=sf_link1)
+Eerste les: donderdag 9 februari
+Laatste les: donderdag 13 april
 
+- 20:00 - 21:30 Les
+- 21:30 - 22:30 Vrij trainen
+
+Locatie: Vlampijpstraat 80
+
+Kosten: € 110
+
+**Korting**
+
+We geven 25% korting aan iedereen die dat nodig heeft.
+
+Als je een U-pas hebt, kan je die bij ons gebruiken.
 
 ## Januari - April 2023 cursus
 
@@ -29,16 +42,8 @@ De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan ieder
 
 Locatie: Amsterdamsestraatweg 3
 
-**Vrijdag**
-- 9:00 - 10:00 Handstandtraining
-
-Locatie van de vrijdag training is nader te bepalen. 
-
-**Kosten**: 
-
 - Acrobatiekles: € 176
 - Handstandtraining woensdag hele cursus: € 120
-- Handstandtraining vrijdag hele cursus: € 120
 
 **Korting**
 
