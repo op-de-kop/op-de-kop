@@ -13,6 +13,7 @@ These classes are suitable for beginners and people with limited acrobatics expe
 
 First class: Thursday, Februari 9th
 Last class: Thursday, April 13th
+Total of 10 lessons
 
 - 20:00 - 21:30 class
 - 21:30 - 22:30 Open training

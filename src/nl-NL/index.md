@@ -13,6 +13,7 @@ Deze les is geschikt voor beginners en mensen met beperkte acrobatiek ervaring.
 
 Eerste les: donderdag 9 februari
 Laatste les: donderdag 13 april
+Totaal 10 lessen
 
 - 20:00 - 21:30 Les
 - 21:30 - 22:30 Vrij trainen
