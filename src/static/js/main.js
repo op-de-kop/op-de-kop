@@ -1,4 +1,8 @@
 const zoomLevel = 14;
+const mapConfig = {
+    minZoom: 10,
+    maxZoom: 16,
+};
 
 const center = {
     lat: 52.101144,
@@ -21,20 +25,23 @@ const vlampijp = {
     },
 };
 
-const map = L.map("map").setView([center.lat, center.lon], zoomLevel);
+const map = L.map("map", mapConfig).setView(
+    [center.lat, center.lon],
+    zoomLevel
+);
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 }).addTo(map);
 
-const pijlstaartMarker = L.marker([
-        pijlstaart.lat,
-        pijlstaart.lon,
-        pijlstaart.options,
-    ])
-    .addTo(map)
-    .bindPopup(pijlstaart.options.title);
+const placeMarker = location => {
+    L.marker([location.lat, location.lon], location.options)
+        .addTo(map)
+        .bindPopup(location.options.title)
+        .on("click", event => {
+            map.setView(event.target.getLatLng(), zoomLevel);
+        });
+};
 
-const vlampijpMarker = L.marker([vlampijp.lat, vlampijp.lon, vlampijp.options])
-    .addTo(map)
-    .bindPopup(vlampijp.options.title);
+placeMarker(pijlstaart);
+placeMarker(vlampijp);
