@@ -3,39 +3,63 @@ title: 'Home'
 layout: 'layouts/home.html'
 ---
 
-"Op De Kop" (Upside Down) is a brand new acrobatics association in Utrecht
-founded by 8 acrobats. There are classes every Wednesday from September 15
-onwards. The lessons will be taught by experienced acrobatics trainerss.
+## Februari - April 2023 course
 
-The classes are for everyone 16 years or over. You do NOT need experience with
-acrobatics, nor do you need to be strong or flexible. Taking classes will result
-in strength and flexibility.
+**Thursday**
 
-If you're interested in these lessons please let us know through [this
-form](https://forms.gle/HsDYcVhqBWPLksJRA) or email us at info@op-de-kop.nl.
+Because we have a lot of interest for the course on Wednesday, we will start another evening on Thursdays. 
 
----
+These classes are suitable for beginners and people with limited acrobatics experience.
 
-## May - July 2022 course
+First class: Thursday, Februari 9th
+Last class: Thursday, April 13th
+Total of 10 lessons
 
-From May through July there's a course of 9 lessons. First lesson: May 11th,
-last lesson: July 6th.
+- 20:00 - 21:30 class
+- 21:30 - 22:30 Open training
 
-- Class: 20:00 - 21:30
-- Open training: 21.30 - 22:30
+Location: Vlampijpstraat 80
 
-During the lessons, the group is split into two skill levels. This way all participant can train on their own level.
+Costs: € 110
 
-**Costs**: € 99, holders of the Upas and students get a 25% discount.
+**Discounts**
 
-**Lespresentatie**
+We give 25% discount on the courses for everyone who needs it.
 
-Because acrobatics is not only a great joy to practice. Its also joyfull to watch. That is why we would like to show our skills in a presentation
+Holders of the U-pas can also use the pass for a discount on the class.
 
-On Thursday, june 30th we have a show. The participants make a presentation with a series of short acts.
+## Januari - April 2023 cursus
 
-The location will be announced soon.
 
-## Location
+**Wednesday**
 
-Amsterdamsestraatweg 3 Utrecht
+From January until april we have a course of 16 classes. The first class is at January 11th and the last class at april 26th.
+
+- 19:00 - 20:00 Handstandtraining
+- 20:00 - 21:30 Acrobaticsclass
+- 21:30 - 22:30 Open training
+
+The group will be split into two subgroups of different levels. This allows everyone to train at its own level as much as possible. 
+
+
+Location: Amsterdamsestraatweg 3
+
+
+**Costs**:
+
+- Acrobatiekclass: € 176
+- Handstand training Wednesday full course: € 120
+
+**Discounts**
+If you take handstandclass and acrobatics class, you can get a 50% discount on the handstand class.
+
+We give 25% discount on the courses for everyone who needs it. 
+
+Holders of the U-pas can also use the pass for a discount on the class.
+
+**Course presentation**
+Because acrobatics is not only nice to do, but also to show we organize a presentation evening. 
+
+The date and location wil be announced when known.
+
+

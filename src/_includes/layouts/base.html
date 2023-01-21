@@ -1,23 +1,37 @@
 <!DOCTYPE html>
 <html lang="{{ locale }}" dir="{{ dir }}">
-  {% include "partials/head.html" %}
+{% include "partials/head.html" %}
 
-  <body
-    class="
+<!--<body-->
+<!--        class="-->
+<!--      bg-gray-100-->
+<!--      flex-->
+<!--      justify-center-->
+<!--      font-sm-->
+<!--      md:font-base-->
+<!--      font-normal-->
+<!--      leading-normal-->
+<!--      md:leading-relaxed-->
+<!--    "-->
+<!--&gt;-->
+<body
+        class="
       bg-gray-100
-      flex
-      justify-center
       font-sm
       md:font-base
-      font-normal
-      leading-normal
-      md:leading-relaxed
-    "
-  >
-    <div class="container md:max-w-2xl p-3">
-      {% include "partials/header.html" %}
-      <main>{% block content %}{% endblock %}</main>
-      {% include "partials/footer.html" %}
+      font-normal"
+>
+{% include "partials/header.html" %}
+<div>
+    <div class="">
+
     </div>
-  </body>
+<!--    <div class="container md:max-w-2xl p-3">-->
+            <div class="">
+        <main>{% block content %}{% endblock %}</main>
+        {% include "partials/footer.html" %}
+    </div>
+</div>
+
+</body>
 </html>

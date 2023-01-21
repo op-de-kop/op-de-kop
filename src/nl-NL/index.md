@@ -3,40 +3,65 @@ title: 'Home'
 layout: 'layouts/home.html'  
 ---
 
-"Op De Kop" is een gloednieuwe acrobatiekvereniging in Utrecht opgericht door een
-8-tal acrobaten. Er zijn vanaf 15 september elke woensdag lessen. De lessen
-worden gegeven door ervaren docenten.
+## Februari - April 2023 cursus
 
-De lessen zijn voor iedereen vanaf 16 jaar. Je hoeft géén ervaring met
-acrobatiek te hebben en je hoeft ook niet sterk of lenig te zijn, als je meedoet
-met de lessen komt dat vanzelf.
+**Donderdag**
 
-Als je geïnteresseerd bent in de lessen laat het ons dan weten via
-[dit formulier](https://forms.gle/HsDYcVhqBWPLksJRA) of mail ons op
-info@op-de-kop.nl.
+Vanwege veel aanmeldingen voor de cursus op woensdag, starten we binnenkort met een nieuwe lesavond op donderdag.
 
----
+Deze les is geschikt voor beginners en mensen met beperkte acrobatiek ervaring.
 
-## Mei - juli 2022 cursus
+Eerste les: donderdag 9 februari
+Laatste les: donderdag 13 april
+Totaal 10 lessen
 
-Van mei tot en met juli loopt er een cursus van 9 lessen. Eerste les: 11 mei,
-laatste les: 6 juli.
+- 20:00 - 21:30 Les
+- 21:30 - 22:30 Vrij trainen
 
-- Les: 20:00 - 21:30
-- Vrij trainen 21:30 - 22:30
+Locatie: Vlampijpstraat 80
+
+Kosten: € 110
+
+**Korting**
+
+We geven 25% korting aan iedereen die dat nodig heeft.
+
+Als je een U-pas hebt, kan je die bij ons gebruiken.
+
+## Januari - April 2023 cursus
+
+
+**Woensdag**
+Van januari tot en met april loopt er een cursus van 16 lessen. Eerste les: 11 januari,
+laatste les: 26 april.
+ 
+- 19:00 - 20:00 Handstandtraining
+- 20:00 - 21:30 Les
+- 21:30 - 22:30 Vrij trainen
 
 De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan iedereen zoveel mogelijk op eigen nivo trainen.
 
-**Kosten**: € 99, Upas-houders en studenten krijgen 25% korting.
+Locatie: Amsterdamsestraatweg 3
+
+- Acrobatiekles: € 176
+- Handstandtraining woensdag hele cursus: € 120
+
+**Korting**
+
+Als je naast de akrobatiekles ook een handstandles volgt, krijg je 50% korting op de handstandles.
+
+We geven 25% korting aan iedereen die dat nodig heeft.
+
+Als je een U-pas hebt, kan je die bij ons gebruiken.
 
 **Lespresentatie**
 
 Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond.
 
-Op donderdag 30 juni is deze avond. De deelnemers maken met een thema een presentatieavond met verschillende korte acts. 
 
-De locatie maken we binnenkort bekend
+De datum en locatie maken we binnenkort bekend
 
-## Locatie
 
-Amsterdamsestraatweg 3 Utrecht
+
+
+

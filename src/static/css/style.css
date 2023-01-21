@@ -1,5 +1,28 @@
+
+@font-face {
+
+    font-family: caviarDreams;
+    src: url('fonts/CaviarDreams/CaviarDreams.ttf') format('truetype'),
+         url('fonts/CaviarDreams/CaviarDreams_Bold.ttf') format('truetype'),
+         url('fonts/CaviarDreams/CaviarDreams_BoldItalic.ttf') format('truetype'),
+         url('fonts/CaviarDreams/CaviarDreams_Italic.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: pumpkinStory;
+    src: url('fonts/PumpkinStory/PumpkinStory.ttf') format('truetype');
+
+}
+body {
+    font-family: caviarDreams;
+
+
+}
 main h2 {
-    font-size: 1.5em;
+    font-family: pumpkinStory, serif;
+    color: red;
+    font-size: 2em;
 }
 
 main a {
@@ -19,4 +42,25 @@ main p,
 main ul,
 main hr {
     margin-bottom: 1em;
+}
+
+.navbar {
+    background: #db1735;
+    color: white;
+    font-family: pumpkinStory, serif;
+
+}
+.navbar li:hover {
+    color: black;
+}
+.app-red {
+    background: #db1735;
+
+}
+
+.subscribe-button {
+    background: #db1735;
+    font-family: pumpkinStory, serif;
+    font-size: 50px;
+
 }
