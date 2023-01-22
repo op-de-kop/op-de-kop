@@ -60,6 +60,7 @@ module.exports = config => {
     config.addPassthroughCopy("./src/static/docs/");
     config.addPassthroughCopy({ "./src/static/root/": "/" });
     config.addPassthroughCopy({ "./src/static/css/": "/static/css" });
+    config.addPassthroughCopy({ "./src/static/js/": "/static/js" });
     return {
         markdownTemplateEngine: "njk",
         dataTemplateEngine: "njk",
