@@ -6,7 +6,7 @@ name: 🚀 Deploy staging website on push to any branch that is not main
 jobs:
   web-deploy:
     name: 🎉 Deploy
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     # if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/checkout@v2
