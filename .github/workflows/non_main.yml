@@ -3,6 +3,7 @@ on:
    branches-ignore:
      - main
 name: 🚀 Deploy staging website on push to any branch that is not main
+
 jobs:
   web-deploy:
     name: 🎉 Deploy
