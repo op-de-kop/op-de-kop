@@ -21,7 +21,6 @@ jobs:
 
       - name: copy files
         run: cp -r dist/* ./
-
       - name: debug
         run: node -v
 
