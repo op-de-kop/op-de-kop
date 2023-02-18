@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
         name: 🚚 Get latest code
       - name: Build
-        uses: Rian190/actions-eleventy@patch-2
+        uses: nielsbom/actions-eleventy
       - name: git status
         run: git status -uno --porcelain
 
