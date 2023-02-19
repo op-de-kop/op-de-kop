@@ -17,7 +17,7 @@ jobs:
         run: git status -uno --porcelain
 
       - name: debug
-        run: ls -la dist/
+        run: ls -la dist/;  ls -la /usr/app
 
       - name: copy files
         run: cp -r dist/* ./
