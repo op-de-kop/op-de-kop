@@ -31,7 +31,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
-#          local-dir: ./
+          local-dir: /usr/app
           ftp-server: sftp://sftp.op-de-kop.nl/public/sites/www.op-de-kop.nl
           ftp-username: ${{ secrets.deploy_username }}
           ftp-password: ${{ secrets.deploy_password }}
