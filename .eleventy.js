@@ -55,7 +55,6 @@ module.exports = config => {
     config.addFilter("makeYouTubeEmbed", makeYouTubeEmbed);
 
     // end Filters
-    config.addPassthroughCopy({ "./src/static/.htaccess": "/.htaccess" });
     config.addPassthroughCopy("./src/static/images/");
     config.addPassthroughCopy("./src/static/docs/");
     config.addPassthroughCopy({ "./src/static/root/": "/" });
