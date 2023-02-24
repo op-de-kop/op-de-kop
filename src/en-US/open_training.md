@@ -12,7 +12,7 @@ Althou we are not organizing these trainings, we do like to join for additional 
 **Sunday**
 
 - Location: Vlampijpstraat 80
-- Time: 13:00 - 17:00
+- Time: 14:00 - 17:00
 - Costs: €5 
 - Contact: sunday@op-de-kop.nl
 
