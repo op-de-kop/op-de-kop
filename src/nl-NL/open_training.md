@@ -12,7 +12,7 @@ Deze worden niet door ons georganiseerd. Wel komen we er graag om extra te acrob
 **Zondag**
 
 - Locatie: Vlampijpstraat 80
-- Tijd: 13:00 - 17:00
+- Tijd: 14:00 - 17:00
 - Kosten: €5
 - Contact: sunday@op-de-kop.nl
 
