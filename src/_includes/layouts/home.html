@@ -1,45 +1,38 @@
 {% extends "layouts/base.html" %} {% block content %}
-<div class="mb-3 " style="height: 300px">
-    <img src="/static/images/lbh2h.jpg" class="rounded-2xl mx-auto" style="height: 300px;"/>
+<div class="mb-3" style="height: 300px">
+  <img
+    src="/static/images/lbh2h.jpg"
+    class="rounded-2xl mx-auto"
+    style="height: 300px"
+  />
 </div>
 
-<section class="mb-3 mt-8 ">
-
-    <div class="app-red text-white grid">
-        <div class="mx-10 py-10 md:max-w-2xl justify-self-center">
-            <div>
-                {{"op_de_kop" | i18n}}
-            </div>
-            <div class="mt-3">
-                {{"lessons_for_everyone" | i18n}}
-
-            </div>
-
-        </div>
-
-
+<section class="mb-3 mt-8">
+  <div class="app-red text-white grid">
+    <div class="mx-10 py-10 md:max-w-2xl justify-self-center">
+      <div>{{"op_de_kop" | i18n}}</div>
+      <div class="mt-3">{{"lessons_for_everyone" | i18n}}</div>
     </div>
-    <div class="mt-10 mx-8 justify-center flex font-bold">
-        {{"interested" | i18n}}
+  </div>
+  <div class="mt-10 mx-8 justify-center flex font-bold">
+    {{"interested" | i18n}}
+  </div>
 
-
-    </div>
-
-
-    <div class="justify-center flex mt-8">
-        <a href="https://forms.gle/HsDYcVhqBWPLksJRA">
-            <button class="text-white rounded justify-center subscribe-button px-4 py-2">{{"subscribe" | i18n}}</button>
-        </a>
-    </div>
+  <div class="justify-center flex mt-8">
+    <a href="https://forms.gle/HsDYcVhqBWPLksJRA">
+      <button
+        class="text-white rounded justify-center subscribe-button px-4 py-2"
+      >
+        {{"subscribe" | i18n}}
+      </button>
+    </a>
+  </div>
 </section>
 
 <section class="mb-3 mt-8 mx-8 grid">
-    <div class="md:max-w-2xl justify-self-center">{{content | safe }}
-    </div>
+  <div class="md:max-w-2xl justify-self-center">{{content | safe }}</div>
 </section>
 
-<section class="mt-8 mb-8 flex">
-        {% include "partials/map.html" %}
-</section>
+<section class="mt-8 mb-8 flex">{% include "partials/map.html" %}</section>
 
 {% endblock %}

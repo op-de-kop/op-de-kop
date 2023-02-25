@@ -1,23 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ locale }}" dir="{{ dir }}">
-{% include "partials/head.html" %}
-<body
-        class="
-      bg-gray-100
-      font-sm
-      md:font-base
-      font-normal"
->
-{% include "partials/header.html" %}
-<div>
-    <div class="">
-
-    </div>
-            <div class="">
-        <main>{% block content %}{% endblock %}</main>
-        {% include "partials/footer.html" %}
-    </div>
-</div>
-
-</body>
+  {% include "partials/head.html" %}
+  <body class="bg-gray-100 font-sm md:font-base font-normal">
+    {% include "partials/header.html" %}
+    <main>{% block content %}{% endblock %}</main>
+    {% include "partials/footer.html" %}
+  </body>
 </html>
