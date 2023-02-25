@@ -57,7 +57,8 @@ main hr {
     font-size: 50px;
 }
 
-.page-open_training main ul {
+.page-open_training main ul,
+.home-content h2+ul {
     background-color: white;
     border-radius: 1rem;
     padding: 1rem;

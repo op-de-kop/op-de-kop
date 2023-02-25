@@ -3,9 +3,12 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
-## Februari - April 2023 cursus
+## Februari - April 2023 cursus - Donderdag
 
-**Donderdag**
+- Locatie: Vlampijpstraat 80 (zie kaart)
+- Tijd: 20:00 - 22:30
+- Kosten: €110
+- Contact: info@op-de-kop.nl
 
 Vanwege veel aanmeldingen voor de cursus op woensdag, is er nu ook een nieuwe
 lesavond op donderdag.
@@ -29,9 +32,12 @@ We geven 25% korting aan iedereen die dat nodig heeft.
 
 Als je een U-pas hebt, kan je die bij ons gebruiken.
 
-## Januari - April 2023 cursus
+## Januari - April 2023 cursus - Woensdag
 
-**Woensdag**
+- Locatie: Amsterdamsestraatweg 3 (zie kaart)
+- Tijd: 19:00 - 22:30
+- Kosten: zie onder
+- Contact: info@op-de-kop.nl
 
 Van januari tot en met april loopt er een cursus van 16 lessen. Eerste les: 11 januari,
 laatste les: 26 april.
@@ -41,8 +47,6 @@ laatste les: 26 april.
 - 21:30 - 22:30 Vrij trainen
 
 De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan iedereen zoveel mogelijk op eigen nivo trainen.
-
-Locatie: Amsterdamsestraatweg 3 in Utrecht, zie kaart hieronder.
 
 - Acrobatiekles: € 176
 - Handstandtraining woensdag hele cursus: € 120
@@ -55,7 +59,7 @@ We geven 25% korting aan iedereen die dat nodig heeft.
 
 Als je een U-pas hebt, kan je die bij ons gebruiken.
 
-**Lespresentatie**
+## Lespresentatie
 
 Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond. Hier verzinnen en doen de acrobaten van Op de Kop een show en
 kunnen ze vrienden en familie uitnodigen.

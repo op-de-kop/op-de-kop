@@ -3,9 +3,12 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
-## Februari - April 2023 course
+## Februari - April 2023 course - Thursday
 
-**Thursday**
+- Location: Vlampijpstraat 80 (see map)
+- Time: 20:00 - 22:30
+- Costs: €110
+- Contact: info@op-de-kop.nl
 
 Because of a lot of interest for the Wednesday classes, we now also offer
 acrobatics classes on Thursdays.
@@ -19,8 +22,6 @@ Total of 10 lessons
 - 20:00 - 21:30 class
 - 21:30 - 22:30 Open training
 
-Location: Vlampijpstraat 80, see the map below.
-
 Costs: € 110
 
 **Discounts**
@@ -29,9 +30,12 @@ We give 25% discount on the courses for everyone who needs it.
 
 Holders of the U-pas can also use the pass for a discount on the class.
 
-## Januari - April 2023 cursus
+## Januari - April 2023 course - Wednesday
 
-**Wednesday**
+- Location: Amsterdamsestraatweg 3 (see map)
+- Time: 19:00 - 22:30
+- Costs: see below
+- Contact: info@op-de-kop.nl
 
 From January until April we have a course of 16 classes. The first class is at January 11th and the last class at April 26th.
 
@@ -40,8 +44,6 @@ From January until April we have a course of 16 classes. The first class is at J
 - 21:30 - 22:30 Open training
 
 The group will be split into two subgroups of different levels. This allows everyone to train at their own level as much as possible.
-
-Location: Amsterdamsestraatweg 3 in Utrecht, see the map below
 
 **Costs**:
 
@@ -55,7 +57,8 @@ We give 25% discount on the courses for everyone who needs it.
 
 Holders of the U-pas can also use the pass for a discount on the class.
 
-**Course presentation**
+## Course presentation
+
 Acrobatics is not only fun to _do_, but also to look at. We will have a presentation evening where the students create a show and can invite their loved ones.
 
 The date and location wil be announced when known.
