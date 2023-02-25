@@ -6,7 +6,7 @@ layout: "layouts/blank.html"
 Op de Kop organizes occasional acrobatics workshops.
 
 ## Workshop Pops
-Zondag 5 april 2023
+Zondag 5 maart 2023
 
 - locatie: Vlampijpstraat 80
 - Tijd: 12:00 - 13:45
