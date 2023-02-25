@@ -3,23 +3,22 @@ title: "Workshps"
 layout: "layouts/blank.html"
 ---
 
-Op de Kop organizas occacional acrobatics workshops. 
+Op de Kop organizes occasional acrobatics workshops. 
 
-## Pops
-Sunday, april 5th 2023
+## Workshop Pops
+Zondag 5 april 2023
 
-- Location: Vlampijpstraat 80
-- Time: 12:00 - 13:45
-- Costs: €15
-- Contact: info@op-de-kop.nl
-- Teacher: Rian
+- locatie: Vlampijpstraat 80
+- Tijd: 12:00 - 13:45
+- Kosten: €15
+- Contact en aanmelding: info@op-de-kop.nl
+- Docent: Rian
 
 
-A deep dive into L-base pops. We will explore different ways of throwing the flyer into the air and catching nicely.
+Een diepe duik in L-base pops. We gaan verschillende manieren verkennen om de flyer in de lucht te gooien en mooi op te vangen.
 
-During this workshop you will learn new tricks which are super nice by itself. And at the same time, it will be a preparation for the real Icarians, if they are on your wishlist!
+Tijdens deze workshop leer je nieuwe trucs die op zich al superleuk zijn. En tegelijkertijd zal het een voorbereiding zijn op de echte Icarians, als die op je verlanglijstje staan!
 
-You can register by emailing us at info@op-de-kop.nl.
+Inschrijven kan door te mailen naar info@op-de-kop.nl.
 
-After the workshop, there is a jam in the same studio. You are welcome to stay for more practice!
-
+Na de workshop is er een jam in dezelfde studio. Je bent welkom om te blijven voor meer oefening!
