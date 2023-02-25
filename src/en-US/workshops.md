@@ -1,6 +1,6 @@
 ---
 title: "Workshps"
-layout: "layouts/open_training.html"
+layout: "layouts/blank.html"
 ---
 
 Op de Kop organizas occacional acrobatics workshops. 
