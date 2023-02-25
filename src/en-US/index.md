@@ -7,7 +7,8 @@ layout: "layouts/home.html"
 
 **Thursday**
 
-Because we have a lot of interest for the course on Wednesday, we will start another evening on Thursdays.
+Because of a lot of interest for the Wednesday classes, we now also offer
+acrobatics classes on Thursdays.
 
 These classes are suitable for beginners and people with limited acrobatics experience.
 
@@ -32,29 +33,29 @@ Holders of the U-pas can also use the pass for a discount on the class.
 
 **Wednesday**
 
-From January until april we have a course of 16 classes. The first class is at January 11th and the last class at april 26th.
+From January until April we have a course of 16 classes. The first class is at January 11th and the last class at April 26th.
 
 - 19:00 - 20:00 Handstandtraining
 - 20:00 - 21:30 Acrobaticsclass
 - 21:30 - 22:30 Open training
 
-The group will be split into two subgroups of different levels. This allows everyone to train at its own level as much as possible.
+The group will be split into two subgroups of different levels. This allows everyone to train at their own level as much as possible.
 
-Location: Amsterdamsestraatweg 3, see the map below
+Location: Amsterdamsestraatweg 3 in Utrecht, see the map below
 
 **Costs**:
 
-- Acrobatiekclass: € 176
+- Acrobatics class: € 176
 - Handstand training Wednesday full course: € 120
 
 **Discounts**
-If you take handstandclass and acrobatics class, you can get a 50% discount on the handstand class.
+If you join the handstand class _and_ the acrobatics class, you will get a 50% discount on the handstand class.
 
 We give 25% discount on the courses for everyone who needs it.
 
 Holders of the U-pas can also use the pass for a discount on the class.
 
 **Course presentation**
-Because acrobatics is not only nice to do, but also to show we organize a presentation evening.
+Acrobatics is not only fun to _do_, but also to look at. We will have a presentation evening where the students create a show and can invite their loved ones.
 
 The date and location wil be announced when known.

@@ -7,7 +7,8 @@ layout: "layouts/home.html"
 
 **Donderdag**
 
-Vanwege veel aanmeldingen voor de cursus op woensdag, starten we binnenkort met een nieuwe lesavond op donderdag.
+Vanwege veel aanmeldingen voor de cursus op woensdag, is er nu ook een nieuwe
+lesavond op donderdag.
 
 Deze les is geschikt voor beginners en mensen met beperkte acrobatiek ervaring.
 
@@ -31,6 +32,7 @@ Als je een U-pas hebt, kan je die bij ons gebruiken.
 ## Januari - April 2023 cursus
 
 **Woensdag**
+
 Van januari tot en met april loopt er een cursus van 16 lessen. Eerste les: 11 januari,
 laatste les: 26 april.
 
@@ -40,14 +42,14 @@ laatste les: 26 april.
 
 De lesgroep wordt in een beginners en gevorderde groep opgesplitst. Zo kan iedereen zoveel mogelijk op eigen nivo trainen.
 
-Locatie: Amsterdamsestraatweg 3, zie kaart hieronder.
+Locatie: Amsterdamsestraatweg 3 in Utrecht, zie kaart hieronder.
 
 - Acrobatiekles: € 176
 - Handstandtraining woensdag hele cursus: € 120
 
 **Korting**
 
-Als je naast de akrobatiekles ook een handstandles volgt, krijg je 50% korting op de handstandles.
+Als je naast de akrobatiekles ook de handstandles volgt, krijg je 50% korting op de handstandles.
 
 We geven 25% korting aan iedereen die dat nodig heeft.
 
@@ -55,6 +57,7 @@ Als je een U-pas hebt, kan je die bij ons gebruiken.
 
 **Lespresentatie**
 
-Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond.
+Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond. Hier verzinnen en doen de acrobaten van Op de Kop een show en
+kunnen ze vrienden en familie uitnodigen.
 
 De datum en locatie maken we binnenkort bekend
