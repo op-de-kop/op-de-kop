@@ -31,8 +31,8 @@ Betalen kan contant, of (bij voorkeur) via een betaalverzoek.
 Inschrijving:
 
 De ruimte is beperkt tot 15 personen. We waarderen het als je het laat weten als je komt zodat we ongeveer weten hoeveel mensen er komen. Als er (te) veel mensen bijkomen dan gaan we kijken naar een inschrijfsysteem 🙂
-Locatie:
 
+Ruimte:
 Er zijn dikke puzzelmatten beschikbaar, en het plafond is hoog genoeg om staande trucs te doen.
 
 ## Maandag
