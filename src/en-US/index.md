@@ -101,4 +101,4 @@ Holders of the U-pas can also use the pass for a discount on the class.
 
 Acrobatics is not only fun to _do_, but also to look at. We will have a presentation evening where the students create a show and can invite their loved ones.
 
-The date and location wil be announced when known.
+This year's presentation will be at April 20th in Parnassos.

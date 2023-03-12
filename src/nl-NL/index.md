@@ -136,4 +136,4 @@ Als je een U-pas hebt, kan je die bij ons gebruiken.
 Omdat akrobatiek niet alleen leuk is om te doen, maar ook om te laten zien houden we een presentatieavond. Hier verzinnen en doen de acrobaten van Op de Kop een show en
 kunnen ze vrienden en familie uitnodigen.
 
-De datum en locatie maken we binnenkort bekend
+Dit jaar is de presentatie op 20 april in Parnassos
