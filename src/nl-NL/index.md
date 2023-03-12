@@ -8,16 +8,16 @@ layout: "layouts/home.html"
 - Tijd: 19:00 - 22:30
 - Kosten: zie hieronder
 - Contact: info@op-de-kop.nl
+- Eerste les: woensdag 10 mei
+- Laatste les: woensdag 5 juli
+- Totaal van 9 lessen
 
-Eerste les: woensdag 10 mei
-Laatste les: woensdag 5 juli
-Totaal van 9 lessen
+De groep zal worden opgesplitst in twee subgroepen van verschillende niveaus. Dit stelt iedereen in staat om zoveel mogelijk op hun eigen niveau te trainen.
 
 - 19:00 - 20:00 Handstandtraining
 - 20:00 - 21:30 Acrobatiekles
 - 21:30 - 22:30 Open training
 
-De groep zal worden opgesplitst in twee subgroepen van verschillende niveaus. Dit stelt iedereen in staat om zoveel mogelijk op hun eigen niveau te trainen.
 
 ### Kosten:
 - Acrobatiekles: € 99
@@ -30,14 +30,13 @@ De groep zal worden opgesplitst in twee subgroepen van verschillende niveaus. Di
 - Tijd: 20:00 - 22:30
 - Kosten: € 99
 - Contact: info@op-de-kop.nl
-
-Vanwege veel interesse voor de woensdaglessen bieden we nu ook acrobatieklessen op donderdag aan.
-
-Deze lessen zijn geschikt voor beginners en mensen met beperkte acrobatiekervaring.
-
 - Eerste les: donderdag 11 mei
 - Laatste les: donderdag 6 juli
 - Totaal van 9 lessen
+- 
+Vanwege veel interesse voor de woensdaglessen bieden we nu ook acrobatieklessen op donderdag aan.
+
+Deze lessen zijn geschikt voor beginners en mensen met beperkte acrobatiekervaring.
 
 - 20:00 - 21:30 les
 - 21:30 - 22:30 Open training
