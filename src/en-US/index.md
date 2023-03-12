@@ -3,6 +3,48 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## May - July 2023 courses - Wednesday
+- Location: Amsterdamsestraatweg 3 (see map)
+- Time: 19:00 - 22:30
+- Costs: see below
+- Contact: info@op-de-kop.nl
+
+First class: Wednesday, May 10th
+Last class: Wednesday, July 5th
+Total of 9 lessons
+
+
+- 19:00 - 20:00 Handstandtraining
+- 20:00 - 21:30 Acrobaticsclass
+- 21:30 - 22:30 Open training
+
+The group will be split into two subgroups of different levels. This allows everyone to train at their own level as much as possible.
+
+**Costs**:
+
+- Acrobatics class: € 99
+- Handstand training Wednesday full course: € 67.5
+
+## May - July 2023 courses - Thursday
+
+- Location: Vlampijpstraat 80 (see map)
+- Time: 20:00 - 22:30
+- Costs: €99
+- Contact: info@op-de-kop.nl
+
+Because of a lot of interest for the Wednesday classes, we now also offer
+acrobatics classes on Thursdays.
+
+These classes are suitable for beginners and people with limited acrobatics experience.
+
+First class: Thursday, May 11th
+Last class: Thursday, July 6th
+Total of 9 lessons
+
+- 20:00 - 21:30 class
+- 21:30 - 22:30 Open training
+
+
 ## Februari - April 2023 course - Thursday
 
 - Location: Vlampijpstraat 80 (see map)
