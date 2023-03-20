@@ -28,12 +28,13 @@ De groep zal worden opgesplitst in twee subgroepen van verschillende niveaus. Di
 
 - Locatie: Vlampijpstraat 80 (zie kaart)
 - Tijd: 20:00 - 22:30
-- Kosten: € 99
+- Kosten: € 88
 - Contact: info@op-de-kop.nl
 - Eerste les: donderdag 11 mei
 - Laatste les: donderdag 6 juli
-- Totaal van 9 lessen
-- 
+- Totaal van 8 lessen
+- Geen les op 18 mei vanwegen hemelvaartdag
+
 Vanwege veel interesse voor de woensdaglessen bieden we nu ook acrobatieklessen op donderdag aan.
 
 Deze lessen zijn geschikt voor beginners en mensen met beperkte acrobatiekervaring.

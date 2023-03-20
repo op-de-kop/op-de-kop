@@ -28,12 +28,12 @@ The group will be split into two subgroups of different levels. This allows ever
 
 - Location: Vlampijpstraat 80 (see map)
 - Time: 20:00 - 22:30
-- Costs: €99
+- Costs: € 88
 - Contact: info@op-de-kop.nl
 - First class: Thursday, May 11th
 - Last class: Thursday, July 6th
-- Total of 9 lessons
-
+- Total of 8 lessons
+- No class at May 18th due to ascension day
 
 Because of a lot of interest for the Wednesday classes, we now also offer  acrobatics classes on Thursdays.
 
