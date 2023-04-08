@@ -22,3 +22,7 @@ To add class videos:
 1. follow the pattern of "class description": "YouTube video id"
 1. run `npm start` to see your changes locally
 1. if that looks good, commit and push
+
+### Redirects
+
+If you want to add redirects: add them to `/src/static/root/_redirects`.
