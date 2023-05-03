@@ -10,6 +10,13 @@ To start working on the site:
 - `npm start`
 - visit the URL Eleventy suggests
 
+### Debug mode
+
+If you're having trouble with Eleventy you can run it in debug mode:
+
+- `npm run start_debug` to get Eleventy debug messages
+- `npm run start_debug_all` to get all debug messages
+
 ## Content management
 
 ### Class videos

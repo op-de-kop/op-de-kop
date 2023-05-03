@@ -4,8 +4,11 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "npx eleventy --serve",
-        "build": "npx @11ty/eleventy"
+        "clean": "rm -rf dist",
+        "start": "npm run clean && npx eleventy --serve",
+        "start_debug": "DEBUG=Eleventy* npm run start",
+        "start_debug_all": "DEBUG=* npm run start",
+        "build": "npx eleventy build"
     },
     "keywords": [],
     "author": "",
