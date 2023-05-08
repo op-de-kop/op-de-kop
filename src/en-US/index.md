@@ -25,8 +25,9 @@ The group will be split into two subgroups of different levels. This allows ever
 - Handstand training Wednesday full course: € 67.5
 
 ## May - July 2023 courses - Thursday
+### NEW LOCATION
 
-- Location: Vlampijpstraat 80 (see map)
+- Location: Willibrordusstraat 45
 - Time: 20:00 - 22:30
 - Costs: € 88
 - Contact: info@op-de-kop.nl

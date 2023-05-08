@@ -14,13 +14,19 @@ We do not organise all of these but all of them are a lot of fun.
 - Costs: €5
 - Contact: sunday@op-de-kop.nl
 
-Partner-acrobatic association 'Op de Kop' offers a weekly indoor open jam on Sunday. Spread the word and bring your friends, all levels are welcome!
+On cold and rainy days we often organise indoor jams on Sundays. Please sent us an email beforehand if you want to be sure that there is a jam happening this week.
 
+Location is at a walking distance from Zuilen station, and parking is free in the area around the venue. See the map on the home page.
+
+If you arrive and the front gate is still closed, you can ring the upper doorbel on the mailbox or climb the fence, enter the left door and climb the white stairs (follow the flyers).
+
+Entry is €5 per person. If you are doing a course with Op de Kop you can join for free. Paying can be done in cash, or (preferably) through a payment request.
+
+There are thick puzzle mats available, and the ceiling is high enough to do standing tricks.
 Location and entry:
 
 Location is at a walking distance from Zuilen station, and parking is free in the area around the venue: Vlampijpstraat 80, Utrecht. See the map on the front page.
 
-If you are in front of the gate either climb over it and enter the door on the left, or ring the organizer to open the gate: +316&nbsp;288&nbsp;574&nbsp;28
 
 Payment:
 Entry is €5 per person. If you are doing a course with Op de Kop you can join for free.

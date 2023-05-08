@@ -23,10 +23,11 @@ De groep zal worden opgesplitst in twee subgroepen van verschillende niveaus. Di
 - Acrobatiekles: € 99
 - Handstandtraining woensdag volledige cursus: € 67,5
 
-
 ## Cursussen mei - juli 2023 - Donderdag
 
-- Locatie: Vlampijpstraat 80 (zie kaart)
+### LET OP!! NIEUWE LOCATIE
+
+- Locatie: Willibrordusstraat 45
 - Tijd: 20:00 - 22:30
 - Kosten: € 88
 - Contact: info@op-de-kop.nl
