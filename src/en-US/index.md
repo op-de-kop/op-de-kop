@@ -3,16 +3,6 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
-## 16 and 17 june - Handstands with Sam
-Are you eager to level up your handstand, then this is your workshop!
-
-- Friday june 16th: 7pm - 9:30 pm 
-- Saturday june 17th: 9:00am - 11:30am
-
-Secure your spot by buying a ticket [here](https://www.eventbrite.com/e/tickets-handstands-with-sam-on-hands-623001061947)
-
-![Sam](/static/images/sam-865A5727.jpg)
-
 ## May - July 2023 courses - Wednesday
 - Location: Amsterdamsestraatweg 3 (see map)
 - Time: 19:00 - 22:30
