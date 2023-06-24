@@ -3,6 +3,43 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## Courses September - December 2023
+**Wednesday**
+
+The Wednesday acrobatics class is designed for individuals with a considerable amount of acrobatics experience. We provide a range of L-base and standing tricks and exercises to enhance your acrobatics practice.
+
+
+- 19:00 - 20:00 Handstand lesson
+- 20:00 - 21:30 Advanced
+- 21:30 - 22:30 Open training
+
+
+**Thursday**
+
+
+We also offer a beginners class, perfect for those who are new to acrobatics. In this class, we focus on foundational techniques and gradually introduce basic tricks and exercises to help you build a strong acrobatics skill set. Whether you're a complete beginner or looking to refresh your acrobatics fundamentals, this class is a great starting point.
+
+- 20:00 - 21:30 Beginners lesson
+- 21:30 - 22:30 Open training
+
+## Details
+- First lessons: September 6th and 7th
+- Last lesson: December 20th and 21st
+- There will be lessons during the autumn break
+- Total of 16 lessons
+
+
+## Costs:
+- Acrobatics lesson: € 176 per course
+- Wednesday handstand training full course: € 120
+
+**Discounts**
+
+We give 25% discount on the courses for everyone who needs it.
+
+Holders of the U-pas can also use the pass for a discount on the class.
+
+
 ## May - July 2023 courses - Wednesday
 - Location: Amsterdamsestraatweg 3 (see map)
 - Time: 19:00 - 22:30
@@ -65,41 +102,4 @@ These classes are suitable for beginners and people with limited acrobatics expe
 
 Costs: € 110
 
-**Discounts**
 
-We give 25% discount on the courses for everyone who needs it.
-
-Holders of the U-pas can also use the pass for a discount on the class.
-
-## Januari - April 2023 course - Wednesday
-
-- Location: Amsterdamsestraatweg 3 (see map)
-- Time: 19:00 - 22:30
-- Costs: see below
-- Contact: info@op-de-kop.nl
-
-From January until April we have a course of 16 classes. The first class is at January 11th and the last class at April 26th.
-
-- 19:00 - 20:00 Handstandtraining
-- 20:00 - 21:30 Acrobaticsclass
-- 21:30 - 22:30 Open training
-
-The group will be split into two subgroups of different levels. This allows everyone to train at their own level as much as possible.
-
-**Costs**:
-
-- Acrobatics class: € 176
-- Handstand training Wednesday full course: € 120
-
-**Discounts**
-If you join the handstand class _and_ the acrobatics class, you will get a 50% discount on the handstand class.
-
-We give 25% discount on the courses for everyone who needs it.
-
-Holders of the U-pas can also use the pass for a discount on the class.
-
-## Course presentation
-
-Acrobatics is not only fun to _do_, but also to look at. We will have a presentation evening where the students create a show and can invite their loved ones.
-
-This year's presentation will be at April 20th in Parnassos.

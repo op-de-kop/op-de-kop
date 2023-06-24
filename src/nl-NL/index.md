@@ -3,6 +3,37 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## Cursussen september - december 2023
+
+**Woensdag** 
+
+De woensdagse acrobatiekles is ontworpen voor personen met aanzienlijke ervaring in acrobatiek. We bieden een scala aan L-base en staande trucs en oefeningen om je acrobatiekvaardigheden te verbeteren.
+
+- 19:00 - 20:00 handstand les
+- 20:00 - 21:30 Gevorderden
+- 21:30 - 22:30 Vrij trainen
+
+**Donderdag**
+
+We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobatiek. In deze les richten we ons op basis technieken en introduceren geleidelijk aan eenvoudige trucs en oefeningen om je te helpen een sterke basis in acrobatiek op te bouwen. Of je nu een absolute beginner bent of je acrobatiekvaardigheden wilt opfrissen, deze les is een uitstekend startpunt.
+ 
+- 20:00 - 21:30 Beginnersles
+- 21:30 - 22:30 Vrij trainen
+
+
+
+## Details
+- Eerste lessen: 6/7 september
+- Laatste les: 20/21 december
+- Er is ook les in de herfstvakantie
+- Totaal van 16 lessen
+
+
+### Kosten:
+- Acrobatiekles: € 176 per cursus
+- Handstandtraining woensdag volledige cursus: € 120
+
+
 
 ## Cursussen mei - juli 2023 - woensdag
 
