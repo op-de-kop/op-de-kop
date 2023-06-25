@@ -33,7 +33,13 @@ We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobat
 - Acrobatiekles: € 176 per cursus
 - Handstandtraining woensdag volledige cursus: € 120
 
+**Korting**
 
+Als je naast de akrobatiekles ook de handstandles volgt, krijg je 50% korting op de handstandles.
+
+We geven 25% korting aan iedereen die dat nodig heeft.
+
+Als je een U-pas hebt, kan je die bij ons gebruiken.
 
 ## Cursussen mei - juli 2023 - woensdag
 
@@ -158,13 +164,7 @@ Deze lessen zijn geschikt voor beginners en mensen met beperkte acrobatiekervari
 
 [//]: # (- Handstandtraining woensdag hele cursus: € 120)
 
-**Korting**
 
-Als je naast de akrobatiekles ook de handstandles volgt, krijg je 50% korting op de handstandles.
-
-We geven 25% korting aan iedereen die dat nodig heeft.
-
-Als je een U-pas hebt, kan je die bij ons gebruiken.
 
 ## Lespresentatie
 
