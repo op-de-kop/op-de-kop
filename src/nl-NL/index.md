@@ -13,6 +13,21 @@ De woensdagse acrobatiekles is ontworpen voor personen met aanzienlijke ervaring
 - 20:00 - 21:30 Gevorderden
 - 21:30 - 22:30 Vrij trainen
 
+
+Omdat het erg vaag is om het vereiste niveau in woorden te beschrijven, hebben we enkele trucs gefilmd om een indicatie te geven van het minimale niveau dat je kunt verwachten tijdens de les.
+
+Als je denkt dat deze trucs nog steeds te uitdagend zijn, raden we je aan om de beginnersles op donderdag te volgen.
+
+- [Standing in hands](https://skillzones.nl/public/library/video/99)
+- [Sidestar](https://skillzones.nl/public/library/video/98)
+- [4 Step](https://skillzones.nl/public/library/video/97)
+- [Star](https://skillzones.nl/public/library/video/96)
+- [Ninja star](https://skillzones.nl/public/library/video/95)
+- [Flag](https://skillzones.nl/public/library/video/94)
+- [Standing on shoulders](https://skillzones.nl/public/library/video/93)
+- [Camel](https://skillzones.nl/public/library/video/91)
+
+
 **Donderdag**
 
 We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobatiek. In deze les richten we ons op basis technieken en introduceren geleidelijk aan eenvoudige trucs en oefeningen om je te helpen een sterke basis in acrobatiek op te bouwen. Of je nu een absolute beginner bent of je acrobatiekvaardigheden wilt opfrissen, deze les is een uitstekend startpunt.

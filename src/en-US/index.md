@@ -13,6 +13,19 @@ The Wednesday acrobatics class is designed for individuals with a considerable a
 - 20:00 - 21:30 Advanced
 - 21:30 - 22:30 Open training
 
+Because it is very vague to describe the level required in words, we have filmed some tricks to give an indication of the minimum level you can expect during the class.
+
+If you think these tricks are still too challenging, we advise taking the beginners class on Thursday
+
+- [Standing in hands](https://skillzones.nl/public/library/video/99)
+- [Sidestar](https://skillzones.nl/public/library/video/98)
+- [4 Step](https://skillzones.nl/public/library/video/97)
+- [Star](https://skillzones.nl/public/library/video/96)
+- [Ninja star](https://skillzones.nl/public/library/video/95)
+- [Flag](https://skillzones.nl/public/library/video/94)
+- [Standing on shoulders](https://skillzones.nl/public/library/video/93)
+- [Camel](https://skillzones.nl/public/library/video/91)
+
 
 **Thursday**
 
