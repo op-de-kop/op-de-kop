@@ -1,0 +1,26 @@
+{% extends "layouts/base.html" %} {% block content %}
+<!--<section class="mb-3 mt-8">-->
+<!--    <div class="md:max-w-2xl justify-self-center blank-page">{{content | safe }}-->
+<!--    </div>-->
+
+<!--&lt;!&ndash;    ![Nick Vos]()&ndash;&gt;-->
+
+<!--</section>-->
+
+<section class="mb-3 mt-8 grid">
+    <section class="mb-3 mt-8 mx-8 grid">
+        <div class="md:max-w-2xl justify-self-center blank-page">
+            <h2 style="  text-align: center; font-size: xxx-large ">Hand to hand cursus</h2>
+                    <img
+                            style="width: 50%; margin-left: auto; margin-right: auto "
+                            src="/static/images/Nick2.png" alt="">
+
+            <div>
+                {{content | safe }}
+            </div>
+
+        </div>
+    </section>
+</section>
+
+{% endblock %}

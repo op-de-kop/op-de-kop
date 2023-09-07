@@ -1,47 +1,41 @@
 ---
 title: "Workshops"
-layout: "layouts/blank.html"
+layout: "layouts/h2h.html"
 ---
 
 
-## Hand to hand course
+**Course Dates:**
+- The first class is scheduled for October 30th, and the course will conclude with the last class on November 20th.
 
-- 30 oktober first class
-- 20 november last class
+**Class Times:**
+- The course sessions are structured as follows:
+    - From 19:30 to 20:00, there will be a dedicated period for flyer and bases training.
+    - Following the training, from 20:00 to 21:30, the main Hand-to-Hand (H2H) class will take place with everyone.
 
-Times:
-19:30 - 20:00 flyer / bases training
-20:00 - 21:30 h2h class
+**Flyers Training Dates:** Training for flyers will be held on October 30th and November 13th.
+**Bases Training Dates:** Bases training sessions are scheduled for November 6th and November 20th.
 
-Flyers: 30th oktober and 13 november
-Bases: 6th and 20th november
+## Prerequisites:
 
-## Prereqs:
-In order to make be able to participate in this course you need to have a basic level in acrobatics.
+To ensure a productive learning experience, participants are required to meet certain prerequisites in acrobatics:
 
+- **Flyers:** To join as a flyer, it's essential that you can confidently execute a handstand and maintain it for a minimum of 15 seconds. This can be performed with the assistance of a wall or a spotter for support for balance.
+  - **Bases:** Aspiring bases should have the ability to hold a foot-to-hand position for at least 10 seconds.
 
-If you join as a flyer, be able to get into a handstand and hold it for at least 15 seconds. This can be supported by a wall or spotter.
+## Enrollment
 
+We take great care in maintaining an equitable ratio of flyers to bases, striving for a balanced 50/50 representation.
+Here are the enrollment details:
 
-As a base you need to have a hold a foot to hand for a least 10 seconds
+- **Enroll with a Partner:** If you and a partner wish to enroll together, where one takes on the flyer role and the other the base role, both of you will be guaranteed entry.
+  - **Solo Enrollment:** For individuals who choose to enroll independently, we will ensure a balanced mix of bases and flyers based on the order of subscription. It is possible we are not able to find a suitable partner and thus have to deny your subscription.
 
-## Enroll
-We are very strict on the flyer/base ratio and will do all we can to make this 50/50.
+The course registration fee is €65. We understand that financial situations can vary, and as such, we offer a compassionate 25% discount to those who require it.
 
-If you subscribe together with a partner of the opposing role, you will both be allowed to enter.
-
-You can also subscribe alone, but then we will match the number of bases and flyers based on order of subscription.
-
-
-The course costs € 65.
-We do give 25% discount for everyone who needs it.
-
-LINK NAAR INSCHRIVING KOMT HIER
+[**Link to Registration:** ](https://forms.gle/P2vcKQMr3PHmUZQCA)
 
 ## Trainer
 
-For this class we invited Nick Vos as trainer.
-Nick is an experienced acrobat working with loads of experience in basing and flying.
+We are thrilled to introduce Nick Vos, an accomplished acrobat with a wealth of experience in basing and flying, as the instructor for this course. Nick brings a depth of knowledge and practical expertise to enrich your learning experience.
 
-
-![nick](/static/images/Nick.png)
+![Nick Vos](/static/images/Nick.png)
