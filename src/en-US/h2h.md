@@ -3,39 +3,55 @@ title: "Workshops"
 layout: "layouts/h2h.html"
 ---
 
+## Course Information
+- The first lesson is scheduled for October 30th, and the last lesson is on November 20th.
+- Total of 4 lessons.
+- Only €65
 
-**Course Dates:**
-- The first class is scheduled for October 30th, and the course will conclude with the last class on November 20th.
 
-**Class Times:**
-- The course sessions are structured as follows:
-    - From 19:30 to 20:00, there will be a dedicated period for flyer and bases training.
-    - Following the training, from 20:00 to 21:30, the main Hand-to-Hand (H2H) class will take place with everyone.
+## Lesson Times
 
-**Flyers Training Dates:** Training for flyers will be held on October 30th and November 13th.
-**Bases Training Dates:** Bases training sessions are scheduled for November 6th and November 20th.
+Individual training: 19:30 to 20:00
+
+Partner training: 20:00 to 21:30
+
+
+**Flyers** start half an hour earlier on October 30th and November 13th for specific flyers training.
+
+**Bases** start half an hour earlier on November 6th and 20th for specific base training.
+
+As a base, you can also participate in the flyers training, and as a flyer, you can also participate in the base training.
+
+
 
 ## Prerequisites:
 
-To ensure a productive learning experience, participants are required to meet certain prerequisites in acrobatics:
+To participate, you need a basic level of acrobatics skill. To ensure a productive learning experience, participants must meet certain requirements in acrobatics:
 
-- **Flyers:** To join as a flyer, it's essential that you can confidently execute a handstand and maintain it for a minimum of 15 seconds. This can be performed with the assistance of a wall or a spotter for support for balance.
-  - **Bases:** Aspiring bases should have the ability to hold a foot-to-hand position for at least 10 seconds.
+**Flyers:**
+- Hold a handstand for at least 30 seconds. This can also be done with a wall or spotter.
+- Be able to enter a handstand independently.
+- Be able to practice handstands without a spotter.
 
-## Enrollment
+**Bases:**
+- Hold a foot-to-hand position for at least 30 seconds, whether in L-base or S-base.
+- Be able to support a partner above your head (e.g., high bird).
 
-We take great care in maintaining an equitable ratio of flyers to bases, striving for a balanced 50/50 representation.
-Here are the enrollment details:
+## Registration
 
-- **Enroll with a Partner:** If you and a partner wish to enroll together, where one takes on the flyer role and the other the base role, both of you will be guaranteed entry.
-  - **Solo Enrollment:** For individuals who choose to enroll independently, we will ensure a balanced mix of bases and flyers based on the order of subscription. It is possible we are not able to find a suitable partner and thus have to deny your subscription.
+For the quality of the lesson, it's important to have a good balance between the number of bases and flyers.
 
-The course registration fee is €65. We understand that financial situations can vary, and as such, we offer a compassionate 25% discount to those who require it.
+You can register as a flyer or base. We allow an equal number of flyers and bases in the course.
+
+- **Registration with a Partner:** If you and a partner want to register together, with one taking on the role of flyer and the other as a base, you will both be guaranteed access.
+- **Individual Registration:** If you register individually, we will try to match bases and flyers as much as possible. It may happen that we don't have a spot for you.
+
+The registration fee for the course is €65. We understand that financial situations can vary and, therefore, offer a generous 25% discount to those who need it.
 
 [**Link to Registration:** ](https://forms.gle/P2vcKQMr3PHmUZQCA)
 
 ## Trainer
 
-We are thrilled to introduce Nick Vos, an accomplished acrobat with a wealth of experience in basing and flying, as the instructor for this course. Nick brings a depth of knowledge and practical expertise to enrich your learning experience.
+We are delighted to introduce Nick Vos. Nick is an experienced acrobat with extensive experience as both a base and a flyer. Nick has in-depth knowledge and practical experience to bring out the best in all participants.
 
 ![Nick Vos](/static/images/Nick.png)
