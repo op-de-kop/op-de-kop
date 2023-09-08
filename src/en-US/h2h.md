@@ -7,7 +7,7 @@ layout: "layouts/h2h.html"
 - The first lesson is scheduled for October 30th, and the last lesson is on November 20th.
 - Total of 4 lessons.
 - Only €65
-
+- Location Gymzaal Cremerstraat 253
 
 ## Lesson Times
 

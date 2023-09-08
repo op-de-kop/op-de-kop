@@ -7,6 +7,7 @@ layout: "layouts/h2h.html"
 - De eerste les is gepland op 30 oktober, en de laatste les is op 20 november.
 - Totaal 4 lessen.
 - Slechts € 65
+- Locatie Gymzaal Cremerstraat 253
 
 
 ## Lestijden
