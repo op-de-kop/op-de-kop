@@ -3,6 +3,15 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## Autumn hand to hand course
+
+**Mondays**
+
+We start on October 30th with a 4 weeks short course in Hand to hand acrobatics for more experienced acrobats
+
+[Click here for more information](./h2h)
+
+
 ## Courses September - December 2023
 **Wednesday**
 
