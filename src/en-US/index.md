@@ -45,6 +45,7 @@ We also offer a beginners class, perfect for those who are new to acrobatics. In
 - 21:30 - 22:30 Open training
 
 ## Details
+- Location: Amsterdamsestraatweg 3
 - First lessons: September 6th and 7th
 - Last lesson: December 20th and 21st
 - There will be lessons during the autumn break

@@ -47,6 +47,7 @@ We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobat
 
 
 ## Details
+- Locatie: Amsterdamsestraatweg 3 (zie kaart)
 - Eerste lessen: 6/7 september
 - Laatste les: 20/21 december
 - Er is ook les in de herfstvakantie
