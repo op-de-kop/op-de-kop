@@ -26,14 +26,14 @@ Because it is very vague to describe the level required in words, we have filmed
 
 If you think these tricks are still too challenging, we advise taking the beginners class on Thursday
 
-- [Standing in hands](https://skillzones.nl/public/library/video/99)
-- [Sidestar](https://skillzones.nl/public/library/video/98)
-- [4 Step](https://skillzones.nl/public/library/video/97)
-- [Star](https://skillzones.nl/public/library/video/96)
-- [Ninja star](https://skillzones.nl/public/library/video/95)
-- [Flag](https://skillzones.nl/public/library/video/94)
-- [Standing on shoulders](https://skillzones.nl/public/library/video/93)
-- [Camel](https://skillzones.nl/public/library/video/91)
+- [Standing in hands](https://app.skillzones.nl/public/library/video/99)
+- [Sidestar](https://app.skillzones.nl/public/library/video/98)
+- [4 Step](https://app.skillzones.nl/public/library/video/97)
+- [Star](https://app.skillzones.nl/public/library/video/96)
+- [Ninja star](https://app.skillzones.nl/public/library/video/95)
+- [Flag](https://app.skillzones.nl/public/library/video/94)
+- [Standing on shoulders](https://app.skillzones.nl/public/library/video/93)
+- [Camel](https://app.skillzones.nl/public/library/video/91)
 
 
 **Thursday**
