@@ -15,6 +15,8 @@ We start on October 30th with a 4 weeks short course in Hand to hand acrobatics 
 ## Courses September - December 2023
 **Wednesday**
 
+New acrobats are welcome to join in January. We will provide the details on this website in a few weeks time.
+
 The Wednesday acrobatics class is designed for individuals with a considerable amount of acrobatics experience. We provide a range of L-base and standing tricks and exercises to enhance your acrobatics practice.
 
 
@@ -38,6 +40,7 @@ If you think these tricks are still too challenging, we advise taking the beginn
 
 **Thursday**
 
+New acrobats are welcome to join in January. We will provide the details on this website in a few weeks time.
 
 We also offer a beginners class, perfect for those who are new to acrobatics. In this class, we focus on foundational techniques and gradually introduce basic tricks and exercises to help you build a strong acrobatics skill set. Whether you're a complete beginner or looking to refresh your acrobatics fundamentals, this class is a great starting point.
 

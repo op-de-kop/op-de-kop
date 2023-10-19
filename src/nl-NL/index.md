@@ -16,6 +16,9 @@ Op maandag 30 oktober starte we met een korte Hand to hand cursus van 4 weken me
 
 **Woensdag**
 
+Instroom is in januari weer mogelijk. Informatie komt binnenkort online.
+
+
 De woensdagse acrobatiekles is ontworpen voor personen met aanzienlijke ervaring in acrobatiek. We bieden een scala aan L-base en staande trucs en oefeningen om je acrobatiekvaardigheden te verbeteren.
 
 - 19:00 - 20:00 handstand les
@@ -38,6 +41,8 @@ Als je denkt dat deze trucs nog steeds te uitdagend zijn, raden we je aan om de 
 
 
 **Donderdag**
+
+Instroom is in januari weer mogelijk. Informatie komt binnenkort online.
 
 We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobatiek. In deze les richten we ons op basis technieken en introduceren geleidelijk aan eenvoudige trucs en oefeningen om je te helpen een sterke basis in acrobatiek op te bouwen. Of je nu een absolute beginner bent of je acrobatiekvaardigheden wilt opfrissen, deze les is een uitstekend startpunt.
 
