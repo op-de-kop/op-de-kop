@@ -9,23 +9,18 @@ We do not organise all of these but all of them are a lot of fun.
 
 ## Sunday
 
-- Location: Vlampijpstraat 80
+- Location: Schoolplein 6
 - Time: 14:00 - 17:00
 - Costs: €5
 - Contact: sunday@op-de-kop.nl
 
-On cold and rainy days we often organise indoor jams on Sundays. Please sent us an email beforehand if you want to be sure that there is a jam happening this week.
+During the (October - ~May) winter months we organize indoor jams.
 
-Location is at a walking distance from Zuilen station, and parking is free in the area around the venue. See the map on the home page.
-
-If you arrive and the front gate is still closed, you can ring the upper doorbel on the mailbox or climb the fence, enter the left door and climb the white stairs (follow the flyers).
+Location close to park Lepelenburg, and parking is free in the area around the venue.
 
 Entry is €5 per person. If you are doing a course with Op de Kop you can join for free. Paying can be done in cash, or (preferably) through a payment request.
 
-There are thick puzzle mats available, and the ceiling is high enough to do standing tricks.
-Location and entry:
-
-Location is at a walking distance from Zuilen station, and parking is free in the area around the venue: Vlampijpstraat 80, Utrecht. See the map on the front page.
+There are mats available, and the ceiling is high enough to do standing tricks.
 
 
 Payment:
@@ -34,11 +29,7 @@ Paying can be done in cash, or (preferably) through a payment request.
 
 Registration:
 
-Space is limited to 15 people. We'd appreciate it you let us know when you're joining so we know how many people will be there. If this training becomes more popular we'll investigate a registration system 🙂.
-
-Venue:
-
-There are thick puzzle mats available, and the ceiling is high enough to do standing tricks.
+Registration is not needed.
 
 ## Monday
 

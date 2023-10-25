@@ -10,38 +10,27 @@ allemaal gezellig.
 
 ## Zondag
 
-- Locatie: Vlampijpstraat 80
+- Locatie: Schoolplein 6
 - Tijd: 14:00 - 17:00
 - Kosten: €5
 - Contact: sunday@op-de-kop.nl
 
-Op koude en regenachtige dagen organiseren we vaak een indoor jam op zondag. Wil je zeker weten dat er deze week een jam plaatsvindt? Stuur dan even een mailtje naar bovenstaand mailadres.
+Tijdens de wintermaanden organiseren we binnen jams op zondag.
 
-Locatie is op loopafstand van station Zuilen, en parkeren is gratis in de omgeving. Zie de kaart op "Home".
-
-Als je aankomt en de poort is gesloten kan je op de bovenste bel (op de brievenbus) drukken zodat iemand komt opendoen. Je kan ook over het hek klimmen en door de linkerdeur de witte trap omhoog nemen (volg de flyers).
+De locatie is vlak bij park Lepelenburg en er is gratis parkeren in de buurt.
 
 Toegang is €5 per persoon. Als je een cursus doet bij Op de Kop kun je gratis meedoen. Betalen kan contant, of (bij voorkeur) via een betaalverzoek.
 
-Er zijn dikke puzzelmatten beschikbaar, en het plafond is hoog genoeg om staande trucs te doen.
-
-
-Locatie en inschrijving:
-
-Locatie is op loopafstand van station Zuilen, en parkeren is gratis in de omgeving: Vlampijpstraat 80, Utrecht. Zie de kaart
-op "Home".
+Er zijn matten beschikbaar, en het plafond is hoog genoeg om staande trucs te doen.
 
 
 Betaling:
 Toegang is €5 per persoon. Als je een cursus doet bij Op de Kop kun je gratis meedoen.
 Betalen kan contant, of (bij voorkeur) via een betaalverzoek.
 
-Inschrijving:
+Aanmelding:
 
-De ruimte is beperkt tot 15 personen. We waarderen het als je het laat weten als je komt zodat we ongeveer weten hoeveel mensen er komen. Als er (te) veel mensen bijkomen dan gaan we kijken naar een inschrijfsysteem 🙂
-
-Ruimte:
-Er zijn dikke puzzelmatten beschikbaar, en het plafond is hoog genoeg om staande trucs te doen.
+Aanmelden is niet nodig
 
 ## Maandag
 
