@@ -30,14 +30,14 @@ Omdat het erg vaag is om het vereiste niveau in woorden te beschrijven, hebben w
 
 Als je denkt dat deze trucs nog steeds te uitdagend zijn, raden we je aan om de beginnersles op donderdag te volgen.
 
-- [Standing in hands](https://skillzones.nl/public/library/video/99)
-- [Sidestar](https://skillzones.nl/public/library/video/98)
-- [4 Step](https://skillzones.nl/public/library/video/97)
-- [Star](https://skillzones.nl/public/library/video/96)
-- [Ninja star](https://skillzones.nl/public/library/video/95)
-- [Flag](https://skillzones.nl/public/library/video/94)
-- [Standing on shoulders](https://skillzones.nl/public/library/video/93)
-- [Camel](https://skillzones.nl/public/library/video/91)
+- [Standing in hands](https://app.skillzones.nl/public/library/video/99)
+- [Sidestar](https://app.skillzones.nl/public/library/video/98)
+- [4 Step](https://app.skillzones.nl/public/library/video/97)
+- [Star](https://app.skillzones.nl/public/library/video/96)
+- [Ninja star](https://app.skillzones.nl/public/library/video/95)
+- [Flag](https://app.skillzones.nl/public/library/video/94)
+- [Standing on shoulders](https://app.skillzones.nl/public/library/video/93)
+- [Camel](https://app.skillzones.nl/public/library/video/91)
 
 
 **Donderdag**
