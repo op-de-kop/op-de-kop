@@ -5,7 +5,7 @@ layout: "layouts/home.html"
 
 
 
-## Cursussen January - April 2024
+## Courses January - April 2024
 
 **Course presentation**
 
