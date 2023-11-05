@@ -3,6 +3,71 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+
+
+## Cursussen January - April 2024
+
+**Course presentation**
+
+This course we will end with a presentation in a the theater on Thursday April 25th. On Wednesday April 24 we have the general rehearsal for all participating in the presentation
+
+To prepare for the show, we commit the last few classes to make acts in small groups.
+
+**Wednesday**
+
+In January a new course starts. This would be a good moment to pick up acrobatics again (or continue).
+
+The Wednesday acrobatics class is designed for individuals with a considerable amount of acrobatics experience. We provide a range of L-base and standing tricks and exercises to enhance your acrobatics practice.
+
+
+- 18:45 - 19:45 Handstand lesson
+- 20:00 - 21:30 Advanced class
+- 21:30 - 22:30 Open training
+
+Because it is very vague to describe the level required in words, we have filmed some tricks to give an indication of the minimum level you can expect during the class.
+
+If you think these tricks are still too challenging, we advise taking the beginners class on Thursday
+
+- [Standing in hands](https://app.skillzones.nl/public/library/video/99)
+- [Sidestar](https://app.skillzones.nl/public/library/video/98)
+- [4 Step](https://app.skillzones.nl/public/library/video/97)
+- [Star](https://app.skillzones.nl/public/library/video/96)
+- [Ninja star](https://app.skillzones.nl/public/library/video/95)
+- [Flag](https://app.skillzones.nl/public/library/video/94)
+- [Standing on shoulders](https://app.skillzones.nl/public/library/video/93)
+- [Camel](https://app.skillzones.nl/public/library/video/91)
+
+
+**Thursday**
+
+In Januari we start a whole new course. This would be a good moment to start your practise in acrobatics.
+
+
+We also offer a beginners class, perfect for those who are new to acrobatics. In this class, we focus on foundational techniques and gradually introduce basic tricks and exercises to help you build a strong acrobatics skill set. Whether you're a complete beginner or looking to refresh your acrobatics fundamentals, this class is a great starting point.
+
+- 20:00 - 21:30 Beginners lesson
+- 21:30 - 22:30 Open training
+
+## Details
+- Location: Amsterdamsestraatweg 3
+- First lessons:  January 10th and 11th
+- Last lesson: April 24th and 25th
+- There will be lessons during school holidays
+- Total of 16 lessons
+
+
+## Costs:
+- Acrobatics lesson: € 176 per course
+- Wednesday handstand training full course: € 120
+
+**Discounts**
+
+We give 25% discount on the courses for everyone who needs it.
+
+Holders of the U-pas can also use the pass for a discount on the class.
+
+
+
 ## Autumn hand to hand course
 
 **Mondays**

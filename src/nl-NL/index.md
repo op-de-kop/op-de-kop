@@ -3,32 +3,29 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
-## Autumn hand to hand course
 
-**Maandag**
+## Cursussen januari - april 2024
 
-Op maandag 30 oktober starte we met een korte Hand to hand cursus van 4 weken meer ervaren acrobaten.
+**Lespresentatie**
 
-[Click hier voor meer informatie](./h2h)
+Deze cursus sluiten we af met een lespresentatie in het theater op donderdag 25 april. Woensdag 24 april is de generale repetitie voor alle deelnemers.
 
-
-## Cursussen september - december 2023
+De laatste lessen staan in het teken van de lespresentatie.
 
 **Woensdag**
 
-Instroom is in januari weer mogelijk. Informatie komt binnenkort online.
+In januari start er een nieuwe lessenserie! Dit is een goed moment om te beginnen (of verder te gaan) met acrobatiek.
 
+De woensdagse acrobatiekles is voor personen met aanzienlijke ervaring in acrobatiek. We bieden een scala aan L-base en staande trucs en oefeningen om je acrobatiekvaardigheden te verbeteren.
 
-De woensdagse acrobatiekles is ontworpen voor personen met aanzienlijke ervaring in acrobatiek. We bieden een scala aan L-base en staande trucs en oefeningen om je acrobatiekvaardigheden te verbeteren.
-
-- 19:00 - 20:00 handstand les
+- 18:45 - 19:45 handstand les
 - 20:00 - 21:30 Gevorderden
 - 21:30 - 22:30 Vrij trainen
 
 
 Omdat het erg vaag is om het vereiste niveau in woorden te beschrijven, hebben we enkele trucs gefilmd om een indicatie te geven van het minimale niveau dat je kunt verwachten tijdens de les.
 
-Als je denkt dat deze trucs nog steeds te uitdagend zijn, raden we je aan om de beginnersles op donderdag te volgen.
+Als je denkt dat deze trucs nog steeds te uitdagend zijn, raden we je aan om de beginnersles op donderdag aan.
 
 - [Standing in hands](https://app.skillzones.nl/public/library/video/99)
 - [Sidestar](https://app.skillzones.nl/public/library/video/98)
@@ -42,7 +39,7 @@ Als je denkt dat deze trucs nog steeds te uitdagend zijn, raden we je aan om de 
 
 **Donderdag**
 
-Instroom is in januari weer mogelijk. Informatie komt binnenkort online.
+In januari start er een nieuwe lessenserie! Dit is een goed moment om te beginnen met acrobatiek.
 
 We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobatiek. In deze les richten we ons op basis technieken en introduceren geleidelijk aan eenvoudige trucs en oefeningen om je te helpen een sterke basis in acrobatiek op te bouwen. Of je nu een absolute beginner bent of je acrobatiekvaardigheden wilt opfrissen, deze les is een uitstekend startpunt.
 
@@ -53,9 +50,9 @@ We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobat
 
 ## Details
 - Locatie: Amsterdamsestraatweg 3 (zie kaart)
-- Eerste lessen: 6/7 september
-- Laatste les: 20/21 december
-- Er is ook les in de herfstvakantie
+- Eerste lessen: 10/11 januari
+- Laatste les: 24/25 april
+- In de schoolvakanties is ook les
 - Totaal van 16 lessen
 
 
@@ -71,46 +68,176 @@ We geven 25% korting aan iedereen die dat nodig heeft.
 
 Als je een U-pas hebt, kan je die bij ons gebruiken.
 
-## Cursussen mei - juli 2023 - woensdag
+## Autumn hand to hand course
 
-- Locatie: Amsterdamsestraatweg 3 (zie kaart)
-- Tijd: 19:00 - 22:30
-- Kosten: zie hieronder
-- Contact: info@op-de-kop.nl
-- Eerste les: woensdag 10 mei
-- Laatste les: woensdag 5 juli
-- Totaal van 9 lessen
+**Maandag**
 
-De groep zal worden opgesplitst in twee subgroepen van verschillende niveaus. Dit stelt iedereen in staat om zoveel mogelijk op hun eigen niveau te trainen.
+Op maandag 30 oktober starte we met een korte Hand to hand cursus van 4 weken meer ervaren acrobaten.
 
-- 19:00 - 20:00 Handstandtraining
-- 20:00 - 21:30 Acrobatiekles
-- 21:30 - 22:30 Open training
+[Click hier voor meer informatie](./h2h)
 
+[//]: # (## Cursussen september - december 2023)
 
-### Kosten:
-- Acrobatiekles: € 99
-- Handstandtraining woensdag volledige cursus: € 67,5
+[//]: # ()
+[//]: # (**Woensdag**)
 
-## Cursussen mei - juli 2023 - Donderdag
+[//]: # ()
+[//]: # (Instroom is in januari weer mogelijk. Informatie komt binnenkort online.)
 
-### LET OP!! NIEUWE LOCATIE
+[//]: # ()
+[//]: # ()
+[//]: # (De woensdagse acrobatiekles is ontworpen voor personen met aanzienlijke ervaring in acrobatiek. We bieden een scala aan L-base en staande trucs en oefeningen om je acrobatiekvaardigheden te verbeteren.)
 
-- Locatie: Willibrordusstraat 45
-- Tijd: 20:00 - 22:30
-- Kosten: € 88
-- Contact: info@op-de-kop.nl
-- Eerste les: donderdag 11 mei
-- Laatste les: donderdag 6 juli
-- Totaal van 8 lessen
-- Geen les op 18 mei vanwegen hemelvaartdag
+[//]: # ()
+[//]: # (- 19:00 - 20:00 handstand les)
 
-Vanwege veel interesse voor de woensdaglessen bieden we nu ook acrobatieklessen op donderdag aan.
+[//]: # (- 20:00 - 21:30 Gevorderden)
 
-Deze lessen zijn geschikt voor beginners en mensen met beperkte acrobatiekervaring.
+[//]: # (- 21:30 - 22:30 Vrij trainen)
 
-- 20:00 - 21:30 les
-- 21:30 - 22:30 Open training
+[//]: # ()
+[//]: # ()
+[//]: # (Omdat het erg vaag is om het vereiste niveau in woorden te beschrijven, hebben we enkele trucs gefilmd om een indicatie te geven van het minimale niveau dat je kunt verwachten tijdens de les.)
+
+[//]: # ()
+[//]: # (Als je denkt dat deze trucs nog steeds te uitdagend zijn, raden we je aan om de beginnersles op donderdag te volgen.)
+
+[//]: # ()
+[//]: # (- [Standing in hands]&#40;https://app.skillzones.nl/public/library/video/99&#41;)
+
+[//]: # (- [Sidestar]&#40;https://app.skillzones.nl/public/library/video/98&#41;)
+
+[//]: # (- [4 Step]&#40;https://app.skillzones.nl/public/library/video/97&#41;)
+
+[//]: # (- [Star]&#40;https://app.skillzones.nl/public/library/video/96&#41;)
+
+[//]: # (- [Ninja star]&#40;https://app.skillzones.nl/public/library/video/95&#41;)
+
+[//]: # (- [Flag]&#40;https://app.skillzones.nl/public/library/video/94&#41;)
+
+[//]: # (- [Standing on shoulders]&#40;https://app.skillzones.nl/public/library/video/93&#41;)
+
+[//]: # (- [Camel]&#40;https://app.skillzones.nl/public/library/video/91&#41;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (**Donderdag**)
+
+[//]: # ()
+[//]: # (Instroom is in januari weer mogelijk. Informatie komt binnenkort online.)
+
+[//]: # ()
+[//]: # (We bieden ook een beginnersles aan, ideaal voor mensen die nieuw zijn in acrobatiek. In deze les richten we ons op basis technieken en introduceren geleidelijk aan eenvoudige trucs en oefeningen om je te helpen een sterke basis in acrobatiek op te bouwen. Of je nu een absolute beginner bent of je acrobatiekvaardigheden wilt opfrissen, deze les is een uitstekend startpunt.)
+
+[//]: # ()
+[//]: # (- 20:00 - 21:30 Beginnersles)
+
+[//]: # (- 21:30 - 22:30 Vrij trainen)
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (## Details)
+
+[//]: # (- Locatie: Amsterdamsestraatweg 3 &#40;zie kaart&#41;)
+
+[//]: # (- Eerste lessen: 6/7 september)
+
+[//]: # (- Laatste les: 20/21 december)
+
+[//]: # (- Er is ook les in de herfstvakantie)
+
+[//]: # (- Totaal van 16 lessen)
+
+[//]: # ()
+[//]: # ()
+[//]: # (### Kosten:)
+
+[//]: # (- Acrobatiekles: € 176 per cursus)
+
+[//]: # (- Handstandtraining woensdag volledige cursus: € 120)
+
+[//]: # ()
+[//]: # (**Korting**)
+
+[//]: # ()
+[//]: # (Als je naast de akrobatiekles ook de handstandles volgt, krijg je 50% korting op de handstandles.)
+
+[//]: # ()
+[//]: # (We geven 25% korting aan iedereen die dat nodig heeft.)
+
+[//]: # ()
+[//]: # (Als je een U-pas hebt, kan je die bij ons gebruiken.)
+
+[//]: # ()
+[//]: # (## Cursussen mei - juli 2023 - woensdag)
+
+[//]: # ()
+[//]: # (- Locatie: Amsterdamsestraatweg 3 &#40;zie kaart&#41;)
+
+[//]: # (- Tijd: 19:00 - 22:30)
+
+[//]: # (- Kosten: zie hieronder)
+
+[//]: # (- Contact: info@op-de-kop.nl)
+
+[//]: # (- Eerste les: woensdag 10 mei)
+
+[//]: # (- Laatste les: woensdag 5 juli)
+
+[//]: # (- Totaal van 9 lessen)
+
+[//]: # ()
+[//]: # (De groep zal worden opgesplitst in twee subgroepen van verschillende niveaus. Dit stelt iedereen in staat om zoveel mogelijk op hun eigen niveau te trainen.)
+
+[//]: # ()
+[//]: # (- 19:00 - 20:00 Handstandtraining)
+
+[//]: # (- 20:00 - 21:30 Acrobatiekles)
+
+[//]: # (- 21:30 - 22:30 Open training)
+
+[//]: # ()
+[//]: # ()
+[//]: # (### Kosten:)
+
+[//]: # (- Acrobatiekles: € 99)
+
+[//]: # (- Handstandtraining woensdag volledige cursus: € 67,5)
+
+[//]: # ()
+[//]: # (## Cursussen mei - juli 2023 - Donderdag)
+
+[//]: # ()
+[//]: # (### LET OP!! NIEUWE LOCATIE)
+
+[//]: # ()
+[//]: # (- Locatie: Willibrordusstraat 45)
+
+[//]: # (- Tijd: 20:00 - 22:30)
+
+[//]: # (- Kosten: € 88)
+
+[//]: # (- Contact: info@op-de-kop.nl)
+
+[//]: # (- Eerste les: donderdag 11 mei)
+
+[//]: # (- Laatste les: donderdag 6 juli)
+
+[//]: # (- Totaal van 8 lessen)
+
+[//]: # (- Geen les op 18 mei vanwegen hemelvaartdag)
+
+[//]: # ()
+[//]: # (Vanwege veel interesse voor de woensdaglessen bieden we nu ook acrobatieklessen op donderdag aan.)
+
+[//]: # ()
+[//]: # (Deze lessen zijn geschikt voor beginners en mensen met beperkte acrobatiekervaring.)
+
+[//]: # ()
+[//]: # (- 20:00 - 21:30 les)
+
+[//]: # (- 21:30 - 22:30 Open training)
 
 
 
