@@ -13,7 +13,6 @@ allemaal gezellig.
 - Locatie: Schoolplein 6
 - Tijd: 14:00 - 17:00
 - Kosten: €5
-- Contact: sunday@op-de-kop.nl
 
 Tijdens de wintermaanden organiseren we binnen jams op zondag.
 
@@ -37,7 +36,6 @@ Aanmelden is niet nodig
 - Locatie: 't Goylaan 77
 - Tijd: 20:00 - 22:00
 - Kosten: €3 per keer
-- Contact: monday@op-de-kop.nl
 
 Elke maandag is er een open AcroYoga jam in Hoograven.
 

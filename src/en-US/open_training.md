@@ -12,7 +12,7 @@ We do not organise all of these but all of them are a lot of fun.
 - Location: Schoolplein 6
 - Time: 14:00 - 17:00
 - Costs: €5
-- Contact: sunday@op-de-kop.nl
+
 
 During the (October - ~May) winter months we organize indoor jams.
 
@@ -36,7 +36,6 @@ Registration is not needed.
 - Location: 't Goylaan 77
 - Time: 20:00 - 22:00
 - Costs: €3 per keer
-- Contact: monday@op-de-kop.nl
 
 Every monday there is an open AcroYoga jam in Hoograven.
 
