@@ -4,6 +4,31 @@ layout: "layouts/home.html"
 ---
 
 
+## February workshops
+
+In Februari we are organizing amazing workshops!
+
+**Sunday, february 4th**
+
+[10:00 - 13:00 Acro dance](https://www.eventbrite.com/e/op-de-kop-presents-dance-acro-masterclass-tickets-766955202657)
+
+
+**Saturday, february 10th**
+
+
+[10:00 - 13:00 Getting into standing acrobatics](https://www.eventbrite.com/e/tickets-getting-into-standing-acrobatics-788144801317)
+[14:30 - 17:30 Advanced hand to hand](https://www.eventbrite.com/e/tickets-advanced-h2h-788167870317)
+
+
+
+[10:00 - 13:00 Getting into standing acrobatics](https://www.eventbrite.com/e/tickets-getting-into-standing-acrobatics-788144801317)
+
+
+
+**Sunday, february 11th**
+
+[10:00 - 13:00 Intro to hand to hand and more!](https://www.eventbrite.com/e/tickets-intro-to-hand-to-hand-and-more-788152123217)
+
 
 ## Courses January - April 2024
 
