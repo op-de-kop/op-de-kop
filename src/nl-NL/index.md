@@ -14,7 +14,7 @@ In februari organiseren we een aantal geweldige workshops
 
 **Zaterdag 11 februari**
 
-- [10:00 - 13:00 Getting into standing acrobatics](https://www.eventbrite.com/e/tickets-getting-into-standing-acrobatics-788144801317)
+- 10:00 - 13:00 Getting into standing acrobatics (Geannuleerd)
 - [14:30 - 17:30 Advanced hand to hand](https://www.eventbrite.com/e/tickets-advanced-h2h-788167870317)
 
 
