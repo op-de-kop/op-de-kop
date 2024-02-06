@@ -24,7 +24,7 @@ In februari organiseren we een aantal geweldige workshops
 
 **Zondag 12 februari**
 
-[10:00 - 13:00 Intro to hand to hand and more!](https://www.eventbrite.com/e/tickets-intro-to-hand-to-hand-and-more-788152123217)
+[10:00 - 13:00 Intro to hand to hand and more! (uitverkocht)](https://www.eventbrite.com/e/tickets-intro-to-hand-to-hand-and-more-788152123217)
 
 
 

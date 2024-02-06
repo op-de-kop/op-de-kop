@@ -17,7 +17,7 @@ In Februari we are organizing amazing workshops!
 
 
 - 10:00 - 13:00 Getting into standing acrobatics (Cancelled)
-- [14:30 - 17:30 Advanced hand to hand](https://www.eventbrite.com/e/tickets-advanced-h2h-788167870317)
+- [14:30 - 17:30 Advanced hand to hand (Sold out)](https://www.eventbrite.com/e/tickets-advanced-h2h-788167870317)
 
 
 
