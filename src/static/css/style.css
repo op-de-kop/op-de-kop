@@ -66,3 +66,14 @@ main hr {
     font-weight: bold;
     font-size: 1.125rem;
 }
+
+.courses-table table {
+    width: 100%;
+    border-radius: 30px
+}
+
+.courses-table table tr td{
+    border: black 1px solid;
+    padding: 7px
+
+}

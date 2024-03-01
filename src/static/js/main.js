@@ -5,8 +5,9 @@ const mapConfig = {
 };
 
 const center = {
-    lat: 52.101144,
-    lon: 5.09808,
+
+    lat: 52.095805,
+    lon: 5.1093,
 };
 
 const pijlstaart = {
@@ -17,13 +18,13 @@ const pijlstaart = {
     },
 };
 
-const vlampijp = {
-    lat: 52.104986,
-    lon: 5.085252,
-    options: {
-        title: "Vlampijpstraat 80",
-    },
-};
+// const vlampijp = {
+//     lat: 52.104986,
+//     lon: 5.085252,
+//     options: {
+//         title: "Vlampijpstraat 80",
+//     },
+// };
 
 const map = L.map("map", mapConfig).setView(
     [center.lat, center.lon],
