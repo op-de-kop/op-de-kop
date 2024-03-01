@@ -22,6 +22,19 @@ Lesrooster:
 
 </div>
 
+***Start / Einde cursussen**
+- Maandag
+    - Eerste les: 6 mei
+    - Laatste les: 8 juli
+
+- Woensdag
+    - Eerste les: 8 mei
+    - Laatste les: 3 juli
+
+- Donderdag
+    - Eerste les: 16 mei
+    - Laatste les: 11 juli
+
 
 **Instapeisen**
 Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
