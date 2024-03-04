@@ -45,7 +45,7 @@ Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks al
 - [Stoel / chair (in verschillende varianten)](https://app.skillzones.nl/public/library/video/445)
 - [Kaars / Star](https://app.skillzones.nl/public/library/video/444)
 - [Staan op schouders met spotter](https://app.skillzones.nl/public/library/video/446)
-- Handstand tegen muur / met spotter (any variation)
+- Handstand tegen muur / met spotter
 
 <br>
 <br>
