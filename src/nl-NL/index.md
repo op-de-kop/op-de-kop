@@ -40,11 +40,11 @@ Lesrooster:
 Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
 
 ***Licht gevorderden***
-- Staan op schenen
-- Snoek -> bolk (aka bird -> shoulderstand in hands)
-- Stoel / chair (in verschillende varianten)
-- Kaars / Star
-- Staan op schouders met spotter
+- [Staan op schenen](https://app.skillzones.nl/public/library/video/442)
+- [Snoek -> bolk (aka bird -> shoulderstand in hands)](https://app.skillzones.nl/public/library/video/443)
+- [Stoel / chair (in verschillende varianten)](https://app.skillzones.nl/public/library/video/445)
+- [Kaars / Star](https://app.skillzones.nl/public/library/video/444)
+- [Staan op schouders met spotter](https://app.skillzones.nl/public/library/video/446)
 - Handstand tegen muur / met spotter (any variation)
 
 (Videos komen binnenkort)

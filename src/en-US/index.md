@@ -45,11 +45,11 @@ We will have an end of season training at july 10th.
 For the intermediate and Advanced classes, we have a set of tricks as entry requirements. We expect everyone attending these classes to be able to perform these tricks without needing instruction.
 
 ***Licht gevorderden***
-- Standing on shins
-- Bird -> shoulder stand in hands
-- Chair
-- Star
-- Standing on shoulders (spotter allowed)
+- [Standing on shins](https://app.skillzones.nl/public/library/video/442)
+- [Bird -> shoulder stand in hands](https://app.skillzones.nl/public/library/video/443)
+- [Chair](https://app.skillzones.nl/public/library/video/445)
+- [Star](https://app.skillzones.nl/public/library/video/444)
+- [Standing on shoulders (spotter allowed)](https://app.skillzones.nl/public/library/video/446)
 - Handstand to the wall or with a spotter
 
 (Videos will be uploaded soon)
