@@ -14,12 +14,12 @@ Due to increasing popularity, we are starting a third evening of classes in May!
 <div class="courses-table">
 
 
-|   Day    	  |      Class      |     Time      |      Duration      |           Location             |
-|:----------:|:---------------:|:-------------:|:------------------:|:-----------------------------:|
-|   Monday    |    Beginners    | 20:00 - 21:30 | 21:30 - 22:30  |   Burg. Fockema Andrealaan 9A  |
-|  Wednesday | Handstand Class | 18:45 - 19:45 |         -          |   Amsterdamsestraatweg 3     |
-|  Wednesday |    Advanced     | 20:00 - 21:30 |   21:30 - 22:30    |   Amsterdamsestraatweg 3     |
-|  Thursday   |  Intermediate   | 20:00 - 21:30 |   21:30 - 22:30    |   Amsterdamsestraatweg 3     |
+|   Day    	  |      Class      |     Time      |      Jam      |           Location             |
+|:----------:|:---------------:|:-------------:|:-------------:|:-----------------------------:|
+|   Monday    |    Beginners    | 20:00 - 21:30 | 21:30 - 22:30 |   Burg. Fockema Andrealaan 9A  |
+|  Wednesday | Handstand Class | 18:45 - 19:45 |       -       |   Amsterdamsestraatweg 3     |
+|  Wednesday |    Advanced     | 20:00 - 21:30 | 21:30 - 22:30 |   Amsterdamsestraatweg 3     |
+|  Thursday   |  Intermediate   | 20:00 - 21:30 | 21:30 - 22:30 |   Amsterdamsestraatweg 3     |
 
 </div>
 
@@ -37,7 +37,7 @@ Due to increasing popularity, we are starting a third evening of classes in May!
    - Last class: July 11th
 
 
-We will have an end of season training at july 10th.
+We will have an end of season training on july 10th.
 
 
 ### Entry Requirements:
@@ -83,13 +83,13 @@ Holders of the U-pas can also use the pass for a discount on the class.
 
 
 
-**Korting**
+**Discounts**
 
-Als je naast de akrobatiekles ook de handstandles volgt, krijg je 50% korting op de handstandles.
+We give 25% discount on the courses for everyone who needs it.
 
-We geven 25% korting aan iedereen die dat nodig heeft.
+Holders of the U-pas can also use the pass for a discount on the class.
 
-Als je een U-pas hebt, kan je die bij ons gebruiken.
+
 <br>
 <br>
 
@@ -129,7 +129,7 @@ If you think these tricks are still too challenging, we advise taking the beginn
 
 **Thursday**
 
-In Januari we start a whole new course. This would be a good moment to start your practise in acrobatics.
+In January we start a whole new course. This would be a good moment to start your practise in acrobatics.
 
 
 We also offer a beginners class, perfect for those who are new to acrobatics. In this class, we focus on foundational techniques and gradually introduce basic tricks and exercises to help you build a strong acrobatics skill set. Whether you're a complete beginner or looking to refresh your acrobatics fundamentals, this class is a great starting point.
