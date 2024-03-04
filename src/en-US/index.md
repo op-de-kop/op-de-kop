@@ -44,7 +44,7 @@ We will have an end of season training on july 10th.
 
 For the intermediate and Advanced classes, we have a set of tricks as entry requirements. We expect everyone attending these classes to be able to perform these tricks without needing instruction.
 
-***Licht gevorderden***
+***Intermediate***
 - [Standing on shins](https://app.skillzones.nl/public/library/video/442)
 - [Bird -> shoulder stand in hands](https://app.skillzones.nl/public/library/video/443)
 - [Chair](https://app.skillzones.nl/public/library/video/445)
