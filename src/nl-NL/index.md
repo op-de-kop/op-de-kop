@@ -47,7 +47,6 @@ Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks al
 - [Staan op schouders met spotter](https://app.skillzones.nl/public/library/video/446)
 - Handstand tegen muur / met spotter (any variation)
 
-(Videos komen binnenkort)
 <br>
 <br>
 

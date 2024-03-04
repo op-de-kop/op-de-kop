@@ -52,7 +52,6 @@ For the intermediate and Advanced classes, we have a set of tricks as entry requ
 - [Standing on shoulders (spotter allowed)](https://app.skillzones.nl/public/library/video/446)
 - Handstand to the wall or with a spotter
 
-(Videos will be uploaded soon)
 <br>
 <br>
 
