@@ -3,6 +3,20 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## Dance Acro Masterclass Part Deux
+
+Inez and Karel will be teaching more advanced dance acro moves like the scarf and more. Check out the videos from our [previous workshop](https://app.skillzones.nl/playlists/26).
+
+When: Sunday 7 Apr, 10.30 - 13.30 with free open jam until 17:00
+
+Where: Schoolstraat 33, Utrecht. (Free parking on sundays)
+
+Tickets: €30 regular , 25% discount for social support
+
+Pre-reqs: We recommend a solid 2 high (standing on shoulders), and high bird. You do not have to have attended the previous workshop.
+
+[More info and tickets](https://www.eventbrite.nl/e/op-de-kop-presents-dance-acro-masterclass-part-deux-tickets-861420179947)
+
 ## Courses May - July 2024
 
 New courses start in May! These will last until the summer holidays.
