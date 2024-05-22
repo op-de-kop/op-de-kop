@@ -3,19 +3,53 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
-## Dance Acro Masterclass Part Deux
+## Workshop weekend June 15 - 16
 
-Inez and Karel will be teaching more advanced dance acro moves like the scarf and more. Check out the videos from our [previous workshop](https://app.skillzones.nl/playlists/26).
 
-When: Sunday 7 Apr, 10.30 - 13.30 with free open jam until 17:00
+<img
+style="max-width:80%;"
+class="mx-auto"
+src="/static/images/kat_kylian.jpg">
 
-Where: Schoolstraat 33, Utrecht. (Free parking on sundays)
+Kat and Kiljan are traveling around the globe, performing and teaching partner acrobatics together. They have taught in all over Europe. They are thrilled to have the opportunity to get to know and share their acro and handstand skills with the community in Utrecht, thanks to Acrobatiekvereniging Op de Kop.
 
-Tickets: €30 regular , 25% discount for social support
+Learning new skills is one of the many things people love about acro and handstands, likely because it makes them feel alive and accomplished. Kat and Kiljan love being part of the moment when people surprise themselves by achieving a new skill that seemed out of reach but is attainable with a bit of training and knowledge.
 
-Pre-reqs: We recommend a solid 2 high (standing on shoulders), and high bird. You do not have to have attended the previous workshop.
+[Meer info](https://www.facebook.com/events/1117064039568444)
 
-[More info and tickets](https://www.eventbrite.nl/e/op-de-kop-presents-dance-acro-masterclass-part-deux-tickets-861420179947)
+[Tickets](https://forms.gle/FG95yjMC9TtmgiMC8)
+
+
+
+**PLANNING:**
+
+Saturday June 15
+
+- 10h30- 13u: handstand beginners
+> alignment, ways into handstand, safe ways out of handstand, leg movements and more
+- 14u-16u30: introduction to standing H2H
+
+Sunday 16/06/2024
+- 10h30- 13u : standing sequence with nice entry and exit, high shoulderstand, waiter,..
+- 14u30-17u00 : handstand intermediate/advanced
+> weight shifts, one arms, different handstand presses, intro to figa and other advanced shapes 🤩 The good thing is that you can join if you are able to hold a 10sec handstand with light spotting! Also in the workshop we will be working with spotters so even if you have never done these tricks before you will be able to feel what it's like + I'll give lots of tips and tricks so you know how to implement these figures in your own training
+
+
+**LEVEL**
+
+All acro workshops are open level. This means that everyone is very welcome, if you just started partner acrobatics or you have already great foundations we'll give variations accordingly to your level.
+Only for the intermediate/advanced handstand workshop it's necessary to be able to hold a 10sec handstand with light spotting.
+We will also pay attention on spotting techniques so everyone feels comfortable and safe.
+
+
+**PRICES**
+Acro workshops and beginner handstand : 35 euro per workshop
+
+Intermediate/advanced handstand workshop : 45 euro
+
+Discount : from 3 workshops -> 5 euro discount per workshop
+
+
 
 ## Courses May - July 2024
 
