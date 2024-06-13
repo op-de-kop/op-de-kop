@@ -26,7 +26,7 @@ Dit lesrooster gaat in in de week van 2 september 2024
 
 ## Lidmaatschap
 
-Om mee te doen aan een van de lessen kun je lid worden van de vereniging. Lidmaatschap is voor onbepaalde tijd. Er geld een opzegtermijn van 3 maanden.
+Om mee te doen aan een van de lessen kun je lid worden van de vereniging. Lidmaatschap is voor onbepaalde tijd. Er geldt een opzegtermijn van 3 maanden.
 
 [//]: # (Voor het seizoen 2024-2025 is de contributie 500 euro &#40;350 als je alleen de handstandles volgt&#41;.)
 
