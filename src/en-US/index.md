@@ -3,6 +3,11 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## Season 2024 - 2025
+In September 2024 we continue our weekly classes.
+
+[Click here](/en-US/courses) for more details.
+
 ## Workshop weekend June 15 - 16
 
 

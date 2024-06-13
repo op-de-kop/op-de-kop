@@ -3,6 +3,11 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## Seizoen 2024 - 2025
+Vanaf september 2024 gaan onze wekelijkse lessen verder.
+
+[Klik hier](/nl-NL/courses) voor meer details.
+
 ## Workshop weekend 15 - 16 juni
 
 <img
