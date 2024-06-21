@@ -6,90 +6,33 @@ layout: "layouts/home.html"
 ## Seizoen 2024 - 2025
 Vanaf september 2024 gaan onze wekelijkse lessen verder.
 
-[Klik hier](/nl-NL/courses) voor meer details.
-
-## Workshop weekend 15 - 16 juni
-
-<img
-style="max-width:80%;"
-class="mx-auto"
-src="/static/images/kat_kylian.jpg">
-
-
-Kat en Kiljan reizen de wereld rond om acrobatiek te oefenen en te onderwijzen. Ze hebben in heel europa les gegeven. Ze zijn verheugd om dankzij Acrobatiekvereniging Op de Kop de kans te krijgen om kennis te maken met de gemeenschap in Utrecht en hun acro- en handstandvaardigheden te delen.
-
-Nieuwe vaardigheden leren is een van de vele dingen waar mensen van houden bij acro en handstanden, waarschijnlijk omdat het hen een gevoel van leven en prestatie geeft. Kat en Kiljan vinden het geweldig om deel uit te maken van het moment waarop mensen zichzelf verrassen door een nieuwe vaardigheid te bereiken die onbereikbaar leek, maar met een beetje training en kennis toch haalbaar is.
-
-[Meer info](https://www.facebook.com/events/1117064039568444)
-
-[Tickets](https://forms.gle/FG95yjMC9TtmgiMC8)
-
-
-**PLANNING:**
-
-Zaterdag 15 juni
-
-10:30 - 13:00: handstand beginners
-uitlijning, manieren om in een handstand te komen, veilige manieren om uit een handstand te komen, beenbewegingen en meer
-
-14:00 - 16:30: introductie tot staande H2H
-
-Zondag 16 juni
-
-10:30 - 13:00: staande sequentie met mooie in- en uitstap, hoge schouderstand, waiter, enz.
-
-14:30 - 17:00: handstand intermediate/advanced
-
-Gewichtsverplaatsingen, éénarmige handstanden, verschillende handstand presses, intro tot figa en andere geavanceerde vormen 🤩 Het mooie is dat je mee kunt doen als je een handstand van 10 seconden kunt houden met lichte spotting! Ook tijdens de workshop werken we met spotters, dus zelfs als je deze trucs nog nooit hebt gedaan, kun je voelen hoe het is. Daarnaast geef ik veel tips en trucs zodat je weet hoe je deze figuren in je eigen training kunt toepassen.
-
-
-**NIVEAU:**
-
-Alle acroworkshops zijn open niveau. Dit betekent dat iedereen van harte welkom is, of je nu net begint met partneracrobatics of al een goede basis hebt, we zullen variaties geven die passen bij jouw niveau. Alleen voor de intermediate/advanced handstand workshop is het nodig om een handstand van 10 seconden met lichte spotting te kunnen houden. We besteden ook aandacht aan spottingtechnieken zodat iedereen zich comfortabel en veilig voelt.
-
-**PRIJZEN:**
-
-Acroworkshops en beginner handstand: 35 euro per workshop
-
-Intermediate/advanced handstand workshop: 45 euro
-
-Korting: vanaf 3 workshops -> 5 euro korting per workshop
-
-
-## Cursussen mei - juli 2024
-
-In mei starten nieuwe cursussen! Deze duren tot aan de zomervakantie.
-
-Vanwege de grote interesse starten we in mei een 3e lesavond!
 
 Lesrooster:
 
+
+Dit lesrooster gaat in in de week van 2 september 2024.
+
+
+
 <div class="courses-table">
 
-|  Dag   	   |     Les      	      |     Tijd     	     |      Jam      |       Locatie        	        |
-|:----------:|:-------------------:|:------------------:|:-------------:|:-----------------------------:|
-| Maandag 	  |     Beginners 	     |  20:00 - 21:30 	   | 21:30 - 22:30 | Burg. Fockema Andrealaan 9A 	 |
-| Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	   |
-| Woensdag 	 |    Gevorderden	     |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	   |
-| Donderdag  | Licht gevorderden 	 |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	   |
+|  Dag   	   |     Les      	      |     Tijd     	     |           Jam            |       Locatie        	        |
+|:----------:|:-------------------:|:------------------:|:------------------------:|:-----------------------------:|
+| Maandag 	  |  Tissue beginners	  |  20:00 - 21:30 	   |     21:30 - 22:30        |      Deken Roesstraat 2g  	      |
+| Maandag 	  |     Beginners 	     |  20:00 - 21:30 	   |      21:30 - 22:30       | Deken Roesstraat 2g 	 |
+| Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |            -             |   Amsterdamsestraatweg 3  	   |
+| Woensdag 	 |    Gevorderden	     |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
+| Donderdag  | Licht gevorderden 	 |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
+| Donderdag  |  Ver gevorderden 	  |   20:00 - 21:30    |            21:30 - 22:30             |           n.t.b.  	           |
 
 </div>
 
-***Start / Einde cursussen**
-- Maandag
-    - Eerste les: 6 mei
-    - Laatste les: 8 juli
-
-- Woensdag
-    - Eerste les: 8 mei
-    - Laatste les: 3 juli
-
-- Donderdag
-    - Eerste les: 16 mei
-    - Laatste les: 11 juli
-
+<br>
+<br>
+<br>
 
 **Instapeisen**
+
 Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
 
 ***Licht gevorderden***
@@ -113,12 +56,25 @@ Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks al
 - [Standing on shoulders](https://app.skillzones.nl/public/library/video/93)
 - [Camel](https://app.skillzones.nl/public/library/video/91)
 
+<br>
+<br>
+
+***ver-gevorderden***
+
+Voor de ver gevorderde schrijf je je in met en vaste partner. Met je partner verwachten we dat je qua niveau zeker met hand to hand bezig bent. Of andere truuks op vergelijkbaar niveau.
+
+
+In deze lessen werk je met je eigen partner aan je eigen truuks. We zorgen voor voldoende begeleiding en inspiratie om de truuks op hoger niveau te leren!
+
+
+Twijfel je over je niveau of heb je nu geen partner, neem dan even contact op met info@op-de-kop.nl.
 
 **Kosten**
 
-Acrobatieklessen: € 99 per serie
+Acrobatieklessen september - december: € 200
 
-Handstandles: € 67.50
+Handstandles september - december: € 150
+
 
 **Korting**
 
@@ -130,8 +86,3 @@ Als je een U-pas hebt, kan je die bij ons gebruiken.
 <br>
 <br>
 
-[//]: # ()
-
-[//]: # (Maandag: Beginners)
-
-[//]: # (Dinsdag: Licht gevorderd)
