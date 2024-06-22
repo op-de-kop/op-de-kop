@@ -3,6 +3,12 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
+## Zomer 2024
+Kom elke woensdag van 17 juli tot en met 28 augustus naar een inlooples acrobatiek! Geen registratie nodig – kom gewoon langs en geniet. Alle niveaus zijn welkom en je wordt begeleid door eersteklas acrobatiektrainers!
+
+De tijd een locatie komt begin juli op de site.
+
+
 ## Seizoen 2024 - 2025
 Vanaf september 2024 gaan onze wekelijkse lessen verder.
 
