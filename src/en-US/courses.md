@@ -33,7 +33,7 @@ The membership fee for the next season will be determined soon.
 We are currently setting up a new administration system. Therefore, you cannot officially register yet. But if you are interested, please fill in the form below and we will keep you informed!
 
 <div class="justify-center flex mt-8">
-    <a href="https://forms.gle/HwwewSpVCnmeLNZb6" target="_blank">
+    <a href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=en" target="_blank">
       <button
         class="text-white rounded justify-center subscribe-button px-4 py-2"
       >

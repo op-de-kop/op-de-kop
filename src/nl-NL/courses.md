@@ -41,7 +41,7 @@ Op dit moment zijn we bezig om een nieuw administratiesysteem in te richten. Daa
 
 
   <div class="justify-center flex mt-8">
-    <a href="https://forms.gle/HwwewSpVCnmeLNZb6" target="_blank">
+    <a href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=nl" target="_blank">
       <button
         class="text-white rounded justify-center subscribe-button px-4 py-2"
       >
