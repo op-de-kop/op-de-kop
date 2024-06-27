@@ -20,6 +20,8 @@ We do not organise all of these but all of them are a lot of fun.
 
 During the (October - ~May) winter months we organize indoor jams.
 
+During the summer the jam moves to the Wilhelminapark. When the weather permits, you can usually join a group of acrobats during the afternoon. Exact times vary depending on when people show up.
+
 Location close to park Lepelenburg, and parking is free in the area around the venue.
 
 Entry is €5 per person. If you are doing a course with Op de Kop you can join for free. Paying can be done in cash, or (preferably) through a payment request.
@@ -37,7 +39,7 @@ Registration is not needed.
 
 
 **Location**
-The gym can be found behind this gate. 
+The gym can be found behind this gate.
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1711449256007!6m8!1m7!1s4YfWX1pF4x1JiiQKWX4xKg!2m2!1d52.09139640416312!2d5.129225234254904!3f135.85603675461925!4f-6.031973733736194!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

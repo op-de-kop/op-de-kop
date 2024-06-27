@@ -16,6 +16,9 @@ allemaal gezellig.
 
 Tijdens de wintermaanden organiseren we binnen jams op zondag.
 
+
+Gedurende de zomer verplaatst de jam naar het Wilhelminapark. Als het weer goed is, kun je in de middag een group acrobaten vinden en aansluiten. De precieze tijd is afhankelijk van waneer mensen komen opdagen.
+
 De locatie is vlak bij park Lepelenburg en er is gratis parkeren in de buurt.
 
 Toegang is €5 per persoon. Als je een cursus doet bij Op de Kop kun je gratis meedoen. Betalen kan contant, of (bij voorkeur) via een betaalverzoek.
