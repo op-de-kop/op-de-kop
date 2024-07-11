@@ -7,6 +7,7 @@ layout: "layouts/home.html"
 Kom elke woensdag van 17 juli tot en met 28 augustus naar een inlooples acrobatiek! Geen registratie nodig – kom gewoon langs en geniet. Alle niveaus zijn welkom!
 
 - Locatie: Gymzaal  Amsterdamsestraatweg 3
+- Zaal open: 19:45
 - Tijd: 20:00 - 21:30
 - Jam tijd: 21:30 - 22:30
 - Kosten: € 12.50 per les. Je kunt betalen met een QR code.
