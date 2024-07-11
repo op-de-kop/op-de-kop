@@ -4,13 +4,23 @@ layout: "layouts/home.html"
 ---
 
 
-## Acro summer 2024:
+## Acro summer 2024
+Join us for a drop-in acrobatics class every Wednesday from July 17 through August 28! No registration necessary - just come by and enjoy. All levels are welcome!
+
+- Location: Gym Amsterdamsestraatweg 3
+- Gym opens: 19:45
+- Time: 20:00 - 21:30
+- Jam time: 21:30 - 22:30
+- Cost: € 12.50 per lesson. You can pay with a QR code.
+
+Classes are for all levels. It is not necessary to come with a partner. We expect plenty of acrobats to work with!
 
 
-Join us every Wednesday evening from July 17th to August 28th for an exciting drop-in acrobatics class! No registration needed – just show up and have fun. All skill levels are welcome, and you'll be guided by our acrobatics trainers!
+After a communal warmup, we will get to work on acrobatics tricks! You can expect both standing acrobatics and L-basing. The instructors will adjust the workshop to the level of the attendees!
 
 
-The location and time will be communicated beginning of July!
+Every week is unique because every week different teachers come.
+
 
 
 ## Season 2024 - 2025
