@@ -7,6 +7,13 @@ layout: "layouts/home.html"
 ## Acro summer 2024
 Join us for a drop-in acrobatics class every Wednesday from July 17 through August 28! No registration necessary - just come by and enjoy. All levels are welcome!
 
+**On august 7th we have another gym!**
+
+Because our usual location is not  available, we will move to the gym at Schoolplein 6.
+
+This is the same location as our [Sunday jams](/en-US/open_training/)
+
+
 - Location: Gym Amsterdamsestraatweg 3
 - Gym opens: 19:45
 - Time: 20:00 - 21:30
@@ -26,6 +33,7 @@ Every week is unique because every week different teachers come.
 ## Season 2024 - 2025
 In September 2024 we continue our weekly classes.
 
+<clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/trial-class'></clubcollect-widget>
 
 Course schedule:
 
