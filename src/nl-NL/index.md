@@ -3,30 +3,43 @@ title: "Home"
 layout: "layouts/home.html"
 ---
 
-## Zomer 2024
-Kom elke woensdag van 17 juli tot en met 28 augustus naar een inlooples acrobatiek! Geen registratie nodig – kom gewoon langs en geniet. Alle niveaus zijn welkom!
+[//]: # ()
+[//]: # (## Zomer 2024)
 
-**Op 7 augustus zijn we in  een andere zaal**
+[//]: # (Kom elke woensdag van 17 juli tot en met 28 augustus naar een inlooples acrobatiek! Geen registratie nodig – kom gewoon langs en geniet. Alle niveaus zijn welkom!)
 
+[//]: # ()
+[//]: # (**Op 7 augustus zijn we in  een andere zaal**)
 
-Omdat onze gebruikelijke  gymzaal niet beschikbaar is, hebben we op 7 augustus de gymzaal  Schoolplein  6.
+[//]: # ()
+[//]: # ()
+[//]: # (Omdat onze gebruikelijke  gymzaal niet beschikbaar is, hebben we op 7 augustus de gymzaal  Schoolplein  6.)
 
-Dit is dezelfde zaal als onze [Zondag jams](/nl-NL/open_training/)
+[//]: # ()
+[//]: # (Dit is dezelfde zaal als onze [Zondag jams]&#40;/nl-NL/open_training/&#41;)
 
+[//]: # ()
+[//]: # ()
+[//]: # (- Locatie: Gymzaal  Amsterdamsestraatweg 3)
 
-- Locatie: Gymzaal  Amsterdamsestraatweg 3
-- Zaal open: 19:45
-- Tijd: 20:00 - 21:30
-- Jam tijd: 21:30 - 22:30
-- Kosten: € 12.50 per les. Je kunt betalen met een QR code.
+[//]: # (- Zaal open: 19:45)
 
-De lessen zijn voor alle niveau's. Het is niet nodig met een partner te komen. We verwachten genoeg leuke acrobaten om mee samen te werken!
+[//]: # (- Tijd: 20:00 - 21:30)
 
+[//]: # (- Jam tijd: 21:30 - 22:30)
 
-Na een gezamelijke warming up gaan we aan de slag met acrobatiek truuks! Je kunt zowel staande acrobatiek als L-basing verwachten. De docenten zullen de workshop aanpassen aan het niveau van de aanwezigen!
+[//]: # (- Kosten: € 12.50 per les. Je kunt betalen met een QR code.)
 
+[//]: # ()
+[//]: # (De lessen zijn voor alle niveau's. Het is niet nodig met een partner te komen. We verwachten genoeg leuke acrobaten om mee samen te werken!)
 
-Iedere week weer uniek omdat iedere week andere docenten komen.
+[//]: # ()
+[//]: # ()
+[//]: # (Na een gezamelijke warming up gaan we aan de slag met acrobatiek truuks! Je kunt zowel staande acrobatiek als L-basing verwachten. De docenten zullen de workshop aanpassen aan het niveau van de aanwezigen!)
+
+[//]: # ()
+[//]: # ()
+[//]: # (Iedere week weer uniek omdat iedere week andere docenten komen.)
 
 
 ## Seizoen 2024 - 2025

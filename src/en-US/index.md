@@ -4,30 +4,43 @@ layout: "layouts/home.html"
 ---
 
 
-## Acro summer 2024
-Join us for a drop-in acrobatics class every Wednesday from July 17 through August 28! No registration necessary - just come by and enjoy. All levels are welcome!
+[//]: # (## Acro summer 2024)
 
-**On august 7th we have another gym!**
+[//]: # (Join us for a drop-in acrobatics class every Wednesday from July 17 through August 28! No registration necessary - just come by and enjoy. All levels are welcome!)
 
-Because our usual location is not  available, we will move to the gym at Schoolplein 6.
+[//]: # ()
+[//]: # (**On august 7th we have another gym!**)
 
-This is the same location as our [Sunday jams](/en-US/open_training/)
+[//]: # ()
+[//]: # (Because our usual location is not  available, we will move to the gym at Schoolplein 6.)
 
+[//]: # ()
+[//]: # (This is the same location as our [Sunday jams]&#40;/en-US/open_training/&#41;)
 
-- Location: Gym Amsterdamsestraatweg 3
-- Gym opens: 19:45
-- Time: 20:00 - 21:30
-- Jam time: 21:30 - 22:30
-- Cost: € 12.50 per lesson. You can pay with a QR code.
+[//]: # ()
+[//]: # ()
+[//]: # (- Location: Gym Amsterdamsestraatweg 3)
 
-Classes are for all levels. It is not necessary to come with a partner. We expect plenty of acrobats to work with!
+[//]: # (- Gym opens: 19:45)
 
+[//]: # (- Time: 20:00 - 21:30)
 
-After a communal warmup, we will get to work on acrobatics tricks! You can expect both standing acrobatics and L-basing. The instructors will adjust the workshop to the level of the attendees!
+[//]: # (- Jam time: 21:30 - 22:30)
 
+[//]: # (- Cost: € 12.50 per lesson. You can pay with a QR code.)
 
-Every week is unique because every week different teachers come.
+[//]: # ()
+[//]: # (Classes are for all levels. It is not necessary to come with a partner. We expect plenty of acrobats to work with!)
 
+[//]: # ()
+[//]: # ()
+[//]: # (After a communal warmup, we will get to work on acrobatics tricks! You can expect both standing acrobatics and L-basing. The instructors will adjust the workshop to the level of the attendees!)
+
+[//]: # ()
+[//]: # ()
+[//]: # (Every week is unique because every week different teachers come.)
+
+[//]: # ()
 
 
 ## Season 2024 - 2025
