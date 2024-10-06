@@ -43,21 +43,28 @@ layout: "layouts/home.html"
 
 
 ## Seizoen 2024 - 2025
-Vanaf september 2024 gaan onze wekelijkse lessen verder.
-
 
 Lesrooster:
 
+Hieronder staat ons huidige lesoorster.
 
 
-Dit lesrooster gaat in in de week van 2 september 2024.
+Wil je een proefles volgen? Dat kan in de eerste week van januari!
 
-Wil je een proefles volgen? Dat kan in de eerste week!
+
+<details>
+<summary>
+ <strong class="cursor-pointer">
+Aanmelden proefles januari
+</strong>
+</summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/registration-trial-class'></clubcollect-widget>
 
+</details>
 
-<div class="courses-table">
+
+<div class="courses-table mt-8">
 
 |  Dag   	   |     Les      	      |     Tijd     	     |           Jam            |       Locatie        	        |
 |:----------:|:-------------------:|:------------------:|:------------------------:|:-----------------------------:|
@@ -125,7 +132,6 @@ Als je naast de akrobatiekles ook de handstandles volgt, krijg je 50% korting op
 
 We geven 25% korting aan iedereen die dat nodig heeft.
 
-Als je een U-pas hebt, kan je die bij ons gebruiken.
 <br>
 <br>
 

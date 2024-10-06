@@ -10,7 +10,7 @@ To start working on the site:
 - `npm start`
 - visit the URL Eleventy suggests
 
-### Debug mode
+### Debug mode`
 
 If you're having trouble with Eleventy you can run it in debug mode:
 

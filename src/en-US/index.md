@@ -44,17 +44,25 @@ layout: "layouts/home.html"
 
 
 ## Season 2024 - 2025
-In September 2024 we continue our weekly classes.
+
+This is our current timetable
+
+You can sign up for the trial class in januari.
+
+Only for the handstand class you can start right away!
+
+<details>
+<summary>
+ <strong class="cursor-pointer">
+Sign up for a trial class in Januari</strong>
+</summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/trial-class'></clubcollect-widget>
 
-Course schedule:
+</details>
 
 
-This timetable starts in the week of September 2, 2024.
-
-
-<div class="courses-table">
+<div class="courses-table mt-8">
 
 |   Day   	  |         Lesson         |        Time        |      Jam      |       Location               |
 |:----------:|:----------------------:|:------------------:|:-------------:|:-----------------------------:|
@@ -125,8 +133,6 @@ Holders of the U-pas can also use the pass for a discount on the class.
 **Discounts**
 
 We give 25% discount on the courses for everyone who needs it.
-
-Holders of the U-pas can also use the pass for a discount on the class.
 
 
 <br>
