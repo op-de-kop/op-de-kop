@@ -10,7 +10,7 @@ We do not organise all of these but all of them are a lot of fun.
 ## Sunday
 
 - Location: Schoolplein 6
-- Time: 14:00 - 17:00
+- Time: 14:00 - 18:00
 - Costs: €5
 
 

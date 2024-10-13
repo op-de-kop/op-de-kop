@@ -11,7 +11,7 @@ allemaal gezellig.
 ## Zondag
 
 - Locatie: Schoolplein 6
-- Tijd: 14:00 - 17:00
+- Tijd: 14:00 - 18:00
 - Kosten: €5
 
 Tijdens de wintermaanden organiseren we binnen jams op zondag.
