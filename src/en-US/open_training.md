@@ -38,6 +38,22 @@ Registration:
 Registration is not needed.
 
 
+## Monday
+
+Starts at october 21st
+
+- Location: [van Imhoffstraat 2](https://maps.app.goo.gl/D9PCzQrSQYZMNxwu6)
+- Time: 20:00 - 22:00
+- Cost: €5 per keer
+
+Elke maandag is er een Jam.
+
+Registration is not needed.
+
+Payment:
+
+Entry is €5 per person. Paying can be done in cash, or (preferably) through a payment request.
+
 **Location**
 The gym can be found behind this gate.
 

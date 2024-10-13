@@ -43,6 +43,21 @@ De gymzaal kun je achter deze poort vinden:
 <iframe src="https://www.google.com/maps/embed?pb=!4v1711449256007!6m8!1m7!1s4YfWX1pF4x1JiiQKWX4xKg!2m2!1d52.09139640416312!2d5.129225234254904!3f135.85603675461925!4f-6.031973733736194!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+## Maandag
+
+Vanaf 21 oktober
+
+- Locatie: [van Imhoffstraat 2](https://maps.app.goo.gl/D9PCzQrSQYZMNxwu6)
+- Tijd: 20:00 - 22:00
+- Kosten: €5 per keer
+
+Elke maandag is er een Jam.
+
+Aanmelden is niet nodig.
+
+Betaling:
+Toegang is €5 per persoon en kan terplekke via een QR code betaald worden.
+
 ## Donderdag
 
 - Locatie: Deken Roesstraat 2G
