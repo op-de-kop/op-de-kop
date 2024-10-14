@@ -44,7 +44,7 @@ Starts at october 21st
 
 - Location: [van Imhoffstraat 2](https://maps.app.goo.gl/D9PCzQrSQYZMNxwu6)
 - Time: 20:00 - 22:00
-- Cost: €5 per keer
+- Cost: €6 per keer
 
 Elke maandag is er een Jam.
 

@@ -49,7 +49,7 @@ Vanaf 21 oktober
 
 - Locatie: [van Imhoffstraat 2](https://maps.app.goo.gl/D9PCzQrSQYZMNxwu6)
 - Tijd: 20:00 - 22:00
-- Kosten: €5 per keer
+- Kosten: €6 per keer
 
 Elke maandag is er een Jam.
 
