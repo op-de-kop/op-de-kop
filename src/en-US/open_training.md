@@ -37,6 +37,11 @@ Registration:
 
 Registration is not needed.
 
+**Location**
+The gym can be found behind this gate.
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1711449256007!6m8!1m7!1s4YfWX1pF4x1JiiQKWX4xKg!2m2!1d52.09139640416312!2d5.129225234254904!3f135.85603675461925!4f-6.031973733736194!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ## Monday
 
@@ -54,10 +59,6 @@ Payment:
 
 Entry is €5 per person. Paying can be done in cash, or (preferably) through a payment request.
 
-**Location**
-The gym can be found behind this gate.
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1711449256007!6m8!1m7!1s4YfWX1pF4x1JiiQKWX4xKg!2m2!1d52.09139640416312!2d5.129225234254904!3f135.85603675461925!4f-6.031973733736194!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Thursday
 

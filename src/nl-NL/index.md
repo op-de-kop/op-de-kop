@@ -48,8 +48,12 @@ Lesrooster:
 
 Hieronder staat ons huidige lesoorster.
 
-
 Wil je een proefles volgen? Dat kan in de eerste week van januari!
+
+Schrijf je nu in voor de lessen vanaf janauri!
+
+Deze serie eindigen we op donderdag 24 april met een lespresentatie in een theater. De laatste weken voor de presentatie zullen we een voorstelling maken met hulp van een theatermaker!
+
 
 
 <details>
@@ -121,9 +125,9 @@ Twijfel je over je niveau of heb je nu geen partner, neem dan even contact op me
 
 **Kosten**
 
-Acrobatieklessen september - december: € 200
+Acrobatieklessen januari - april: € 200
 
-Handstandles september - december: € 150
+Handstandles januari - april: € 150
 
 
 **Korting**
