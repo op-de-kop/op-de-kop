@@ -110,9 +110,9 @@ If you are unsure about your level or do not currently have a partner, please co
 
 **Costs**
 
-Acrobatics September - December: € 200
+Acrobatics January - April: € 200
 
-Handstand September - December: € 150
+Handstand January - April: € 150
 
 **Discounts**
 
