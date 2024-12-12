@@ -45,7 +45,7 @@ layout: "layouts/home.html"
 
 ## Season 2024 - 2025
 
-Would you like to attend a trial class? You can do so in the first week of January!  Sign up now for the classes starting in January!  We will end this series on Thursday, April 24 with a class presentation in a theater. In the final weeks before the presentation, we will create a performance with the help of a theater director!
+Would you like to attend a trial class? You can do so in the week of January 6th! Sign up now for the classes starting in January!  We will end this series on Thursday, April 24 with a class presentation in a theater. In the final weeks before the presentation, we will create a performance with the help of a theater director!
 <details>
 <summary>
  <strong class="cursor-pointer">

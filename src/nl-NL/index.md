@@ -48,7 +48,7 @@ Lesrooster:
 
 Hieronder staat ons huidige lesoorster.
 
-Wil je een proefles volgen? Dat kan in de eerste week van januari!
+Wil je een proefles volgen? Dat kan in de week van 6 januari!
 
 Schrijf je nu in voor de lessen vanaf janauri!
 
