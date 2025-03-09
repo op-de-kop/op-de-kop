@@ -10,6 +10,14 @@ To start working on the site:
 - `npm start`
 - visit the URL Eleventy suggests
 
+
+## Docker compose
+To start without having to install npm on your system:
+- `docker-compose run --rm npm npm install`
+- `docker-compose up`
+
+- visit: http://localhost:8080/nl-NL/
+
 ### Debug mode`
 
 If you're having trouble with Eleventy you can run it in debug mode:

@@ -1,0 +1,15 @@
+services:
+  npm:
+    image: node:22-alpine
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - "8080:8080"
+    # Use interactive mode to keep the container running when needed
+    tty: true
+    stdin_open: true
+    command: npm start
+    user: "${UID:-1000}:${GID:-1000}"
+    environment:
+      - HOME=/tmp
