@@ -48,18 +48,15 @@ Lesrooster:
 
 Hieronder staat ons huidige lesoorster.
 
-Wil je een proefles volgen? Dat kan in de week van 6 januari!
+Wil je een proefles volgen? Dat kan begin mei!
 
-Schrijf je nu in voor de lessen vanaf janauri!
-
-Deze serie eindigen we op donderdag 24 april met een lespresentatie in een theater. De laatste weken voor de presentatie zullen we een voorstelling maken met hulp van een theatermaker!
-
+Schrijf je nu in voor de lessen vanaf mei!
 
 
 <details>
 <summary>
  <strong class="cursor-pointer">
-Aanmelden proefles januari
+Aanmelden proefles mei
 </strong>
 </summary>
 
@@ -73,10 +70,10 @@ Aanmelden proefles januari
 |  Dag   	   |     Les      	      |     Tijd     	     |           Jam            |       Locatie        	        |
 |:----------:|:-------------------:|:------------------:|:------------------------:|:-----------------------------:|
 | Maandag 	  |  Tissue beginners	  |  20:00 - 21:30 	   |     21:30 - 22:30        |      Deken Roesstraat 2g  	      |
-| Maandag 	  |     Beginners 	     |  20:00 - 21:30 	   |      21:30 - 22:30       | Deken Roesstraat 2g 	 |
+| Maandag 	  |     Licht gevorderden 	     |  20:00 - 21:30 	   |      21:30 - 22:30       | Deken Roesstraat 2g 	 |
 | Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |            -             |   Amsterdamsestraatweg 3  	   |
-| Woensdag 	 |    Gevorderden	     |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
-| Donderdag  | Licht gevorderden 	 |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
+| Woensdag 	 |    Beginners	     |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
+| Donderdag  | Gevorderden 	 |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
 | Donderdag  |  Ver gevorderden 	  |   20:00 - 21:30    |            21:30 - 22:30             |           n.t.b.  	           |
 
 </div>
@@ -125,9 +122,9 @@ Twijfel je over je niveau of heb je nu geen partner, neem dan even contact op me
 
 **Kosten**
 
-Acrobatieklessen januari - april: € 200
+Acrobatieklessen januari - april: € 112.50
 
-Handstandles januari - april: € 150
+Handstandles januari - april: € 85
 
 
 **Korting**

@@ -45,11 +45,11 @@ layout: "layouts/home.html"
 
 ## Season 2024 - 2025
 
-Would you like to attend a trial class? You can do so in the week of January 6th! Sign up now for the classes starting in January!  We will end this series on Thursday, April 24 with a class presentation in a theater. In the final weeks before the presentation, we will create a performance with the help of a theater director!
+Would you like to attend a trial class? You can do so in the beginning of May! Sign up now for the classes starting in May!  
 <details>
 <summary>
  <strong class="cursor-pointer">
-Sign up for a trial class in Januari</strong>
+Sign up for a trial class in May</strong>
 </summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/trial-class'></clubcollect-widget>
@@ -62,10 +62,10 @@ Sign up for a trial class in Januari</strong>
 |   Day   	  |         Lesson         |        Time        |      Jam      |       Location               |
 |:----------:|:----------------------:|:------------------:|:-------------:|:-----------------------------:|
 | Monday 	  | Aerial silk beginners	 |  20:00 - 21:30 	   |       21:30 - 22:30      |           Deken Roesstraat 2g   	          |
-| Monday 	  |      Beginners 	       |  20:00 - 21:30 	   | 21:30 - 22:30 | Deken Roesstraat 2g  	  |
+| Monday 	  |      Intermediate 	       |  20:00 - 21:30 	   | 21:30 - 22:30 | Deken Roesstraat 2g  	  |
 | Wednesday  |    Handstand class	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	  |
-| Wednesday  |       Advanced	        |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
-| Thursday   |     Intermediate	      |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
+| Wednesday  |       Beginners	        |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
+| Thursday   |     Advanced	      |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
 | Thursday   |   Highly advanced 	    |   20:00 - 21:30    |        21:30 - 22:30       |           t.b.a.  	          |
 
 </div>
@@ -110,9 +110,9 @@ If you are unsure about your level or do not currently have a partner, please co
 
 **Costs**
 
-Acrobatics January - April: € 200
+Acrobatics May - July: € 112.50
 
-Handstand January - April: € 150
+Handstand May - July: € 85.00
 
 **Discounts**
 
