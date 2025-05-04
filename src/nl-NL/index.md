@@ -122,9 +122,9 @@ Twijfel je over je niveau of heb je nu geen partner, neem dan even contact op me
 
 **Kosten**
 
-Acrobatieklessen januari - april: € 112.50
+Acrobatieklessen mei - juli: € 112.50
 
-Handstandles januari - april: € 85
+Handstandles mei - juli: € 85
 
 
 **Korting**
