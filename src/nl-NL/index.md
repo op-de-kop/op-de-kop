@@ -42,21 +42,19 @@ layout: "layouts/home.html"
 [//]: # (Iedere week weer uniek omdat iedere week andere docenten komen.)
 
 
-## Seizoen 2024 - 2025
+## Seizoen 2025
 
 Lesrooster:
 
-Hieronder staat ons huidige lesoorster.
+Het nieuwe seizoen start op 1 september 2025 en loopt tot en met donderdag 18 december 2025.
 
-Wil je een proefles volgen? Dat kan begin mei!
-
-Schrijf je nu in voor de lessen vanaf mei!
+Schrijf je nu in voor de lessen!
 
 
 <details>
 <summary>
  <strong class="cursor-pointer">
-Aanmelden proefles mei
+Aanmelden proefles September
 </strong>
 </summary>
 
@@ -122,9 +120,9 @@ Twijfel je over je niveau of heb je nu geen partner, neem dan even contact op me
 
 **Kosten**
 
-Acrobatieklessen mei - juli: € 112.50
-
-Handstandles mei - juli: € 85
+Voor het seizoen 2025:
+- Acro lessen: €200
+- Handstandlessen: €150
 
 
 **Korting**

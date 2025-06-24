@@ -43,13 +43,15 @@ layout: "layouts/home.html"
 [//]: # ()
 
 
-## Season 2024 - 2025
+## Season 2025
 
-Would you like to attend a trial class? You can do so in the beginning of May! Sign up now for the classes starting in May!  
+The new season starts on September 1st, 2025 and runs until Thursday December 18th, 2025.
+
+Sign up now for the classes!  
 <details>
 <summary>
  <strong class="cursor-pointer">
-Sign up for a trial class in May</strong>
+Sign up for a trial class in September</strong>
 </summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/trial-class'></clubcollect-widget>
@@ -110,9 +112,9 @@ If you are unsure about your level or do not currently have a partner, please co
 
 **Costs**
 
-Acrobatics May - July: € 112.50
-
-Handstand May - July: € 85.00
+For the 2025 season:
+- Acro classes: €200
+- Handstand classes: €150
 
 **Discounts**
 

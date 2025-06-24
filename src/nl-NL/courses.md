@@ -8,7 +8,7 @@ layout: 'layouts/blank.html'
 ## Lesrooster:
 
 
-Dit lesrooster gaat in in de week van 2 september 2024
+Dit lesrooster gaat in op 1 september 2025 en loopt tot en met donderdag 18 december 2025
 
 <div class="courses-table">
 
@@ -30,7 +30,9 @@ Om mee te doen aan een van de lessen kun je lid worden van de vereniging. Lidmaa
 
 [//]: # (Voor het seizoen 2024-2025 is de contributie 500 euro &#40;350 als je alleen de handstandles volgt&#41;.)
 
-Voor het volgende seizoen wordt de contributie binnenkort vastgesteld.
+Voor het seizoen 2025 zijn de kosten:
+- Acro lessen: €200
+- Handstandlessen: €150
 
 
 ## Aanmelding

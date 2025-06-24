@@ -5,7 +5,7 @@ layout: 'layouts/blank.html'
 
 ## Timetable:
 
-This timetable starts in the week of September 2, 2024.
+This timetable starts on September 1st, 2025 and runs until Thursday December 18th, 2025.
 
 <div class="courses-table">
 
@@ -24,7 +24,9 @@ This timetable starts in the week of September 2, 2024.
 
 To participate in one of the lessons, you can become a member of the association. Membership is for an indefinite period. There is a notice period of 3 months.
 
-The membership fee for the next season will be determined soon.
+For the 2025 season, the costs are:
+- Acro classes: €200
+- Handstand classes: €150
 
 ## Registration
 
