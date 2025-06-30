@@ -63,7 +63,6 @@ Sign up for a trial class in September</strong>
 
 |   Day   	  |         Lesson         |        Time        |      Jam      |       Location               |
 |:----------:|:----------------------:|:------------------:|:-------------:|:-----------------------------:|
-| Monday 	  | Aerial silk beginners	 |  20:00 - 21:30 	   |       21:30 - 22:30      |           Deken Roesstraat 2g   	          |
 | Monday 	  |      Intermediate 	       |  20:00 - 21:30 	   | 21:30 - 22:30 | Deken Roesstraat 2g  	  |
 | Wednesday  |    Handstand class	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	  |
 | Wednesday  |       Beginners	        |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |

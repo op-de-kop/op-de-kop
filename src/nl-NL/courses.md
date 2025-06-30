@@ -14,7 +14,6 @@ Dit lesrooster gaat in op 1 september 2025 en loopt tot en met donderdag 18 dece
 
 |  Dag   	   |     Les      	      |     Tijd     	     |      Jam      |       Locatie        	        |
 |:----------:|:-------------------:|:------------------:|:-------------:|:-----------------------------:|
-| Maandag 	  |  Tissue beginners	  |  20:00 - 21:30 	   |       -       |           n.t.b. 	            |
 | Maandag 	  |     Beginners 	     |  20:00 - 21:30 	   | 21:30 - 22:30 | Burg. Fockema Andrealaan 9A 	 |
 | Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	   |
 | Woensdag 	 |    Gevorderden	     |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	   |
