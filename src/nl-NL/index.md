@@ -68,6 +68,7 @@ Aanmelden proefles September
 |  Dag   	   |     Les      	      |     Tijd     	     |           Jam            |       Locatie        	        |
 |:----------:|:-------------------:|:------------------:|:------------------------:|:-----------------------------:|
 | Maandag 	  |     Licht gevorderden 	     |  20:00 - 21:30 	   |      21:30 - 22:30       | Deken Roesstraat 2g 	 |
+| Maandag    |     Acro Bootcamp          | 18:30 - 19:30 <br> <em>of</em> 21:00 - 22:00 <br> <span style="font-size:smaller">(tijdslot nog niet definitief)</span> |      -      | Daphne Schippersbrug   |
 | Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |            -             |   Amsterdamsestraatweg 3  	   |
 | Woensdag 	 |    Beginners	     |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
 | Donderdag  | Gevorderden 	 |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
@@ -79,7 +80,19 @@ Aanmelden proefles September
 <br>
 <br>
 
-**Instapeisen**
+## Acro Bootcamp
+
+Wil jij een sterkere acrobaat worden? Doe mee met onze nieuwe Acro Bootcamp op maandag! Deze training is speciaal gericht op het sterker maken van acrobaten. De oefeningen zijn afgestemd op de specifieke behoeften van acrobaten en soms gebruiken we elkaars lichamen als gewicht om de spieren extra uit te dagen!
+
+We zijn nu op zoek naar acrobaten die interesse hebben om deze bootcamp te volgen. De eerste serie loopt van september tot en met december.
+
+<strong>Tijdslot nog niet definitief:</strong> Maandag 18:30 - 19:30 <em>of</em> 21:00 - 22:00
+
+Laat het ons weten als je interesse hebt!
+
+<a href="https://app.clubcollect.com/forms/nl/op-de-kop/pre-registration-acro-bootcamp" target="_blank" class="btn">Schrijf je in voor Acro Bootcamp</a>
+
+## Instapeisen
 
 Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
 
