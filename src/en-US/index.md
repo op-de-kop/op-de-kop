@@ -72,20 +72,19 @@ Sign up for a trial class in September</strong>
 
 </div>
 
-
 ## Acro Bootcamp
 
 Do you want to become a stronger acrobat? Join our new Acro Bootcamp on Mondays! This training is focused on building strength specifically for acrobats. The exercises are tailored to the needs of acrobats, and sometimes we use each other's bodies as weights to challenge the muscles even more!
 
 We are currently looking for acrobats interested in attending this bootcamp. The first series will run from September through December.
 
-<strong>Timeslot not yet definitive:</strong> Monday 18:30 - 19:30 <em>or</em> 21:00 - 22:00
+<strong>Time</strong> Monday  21:00 - 22:00
 
 Let us know if you are interested!
 
 <a href="https://app.clubcollect.com/forms/nl/op-de-kop/pre-registration-acro-bootcamp" target="_blank" class="btn">Sign up for Acro Bootcamp</a>
 
-
+<a href="https://app.clubcollect.com/forms/nl/op-de-kop/acro-bootcamp" target="_blank" class="btn">Single class</a>
 
 ## Entry Requirements:
 
@@ -144,5 +143,7 @@ Holders of the U-pas can also use the pass for a discount on the class.
 We give 25% discount on the courses for everyone who needs it.
 
 
+<br>
+<br>
 <br>
 <br>

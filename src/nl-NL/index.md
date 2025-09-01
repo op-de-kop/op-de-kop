@@ -86,11 +86,14 @@ Wil jij een sterkere acrobaat worden? Doe mee met onze nieuwe Acro Bootcamp op m
 
 We zijn nu op zoek naar acrobaten die interesse hebben om deze bootcamp te volgen. De eerste serie loopt van september tot en met december.
 
-<strong>Tijdslot nog niet definitief:</strong> Maandag 18:30 - 19:30 <em>of</em> 21:00 - 22:00
+<strong>Tijden</strong> Maandag 21:00 - 22:00
 
 Laat het ons weten als je interesse hebt!
 
 <a href="https://app.clubcollect.com/forms/nl/op-de-kop/pre-registration-acro-bootcamp" target="_blank" class="btn">Schrijf je in voor Acro Bootcamp</a>
+
+
+<a href="https://app.clubcollect.com/forms/nl/op-de-kop/acro-bootcamp" target="_blank" class="btn"> Losse les</a>
 
 ## Instapeisen
 
