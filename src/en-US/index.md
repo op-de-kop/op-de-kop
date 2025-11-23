@@ -47,6 +47,16 @@ layout: "layouts/home.html"
 
 The new season starts in the week of January 5th, 2026 and runs until Thursday April 23rd, 2026.
 
+**Annual Presentation**
+
+We finish this series with an annual lesson presentation in a theater on Thursday April 23rd, 2026. Wednesday April 22nd is the dress rehearsal for all participants.
+
+In the final weeks we’ll work together with a theatre maker to create a short show that showcases what we’ve learned.
+<br>
+<br>
+
+<br>
+
 Sign up now for the classes!  
 <details>
 <summary>
@@ -68,7 +78,7 @@ Sign up for a trial class in January</strong>
 | Wednesday  |    Handstand class	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	  |
 | Wednesday  |       Beginners	        |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
 | Thursday   |     Advanced	      |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
-| Thursday   |   Highly advanced 	    |   20:00 - 21:30    |        21:30 - 22:30       |           t.b.a.  	          |
+
 
 </div>
 
@@ -111,14 +121,6 @@ For the intermediate and Advanced classes, we have a set of tricks as entry requ
 - [Flag](https://app.skillzones.nl/public/library/video/94)
 - [Standing on shoulders](https://app.skillzones.nl/public/library/video/93)
 - [Camel](https://app.skillzones.nl/public/library/video/91)
-
-***Highly advanced***
-
-For the advanced level, you register with a fixed partner. With your partner, we expect you to be working on skills like hand-to-hand or other tricks at a comparable level.
-
-In these lessons, you will work with your own partner on your own tricks. We provide sufficient guidance and inspiration to help you learn the tricks at a higher level!
-
-If you are unsure about your level or do not currently have a partner, please contact info@op-de-kop.nl.
 
 
 **Costs**

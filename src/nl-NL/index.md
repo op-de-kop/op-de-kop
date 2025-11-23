@@ -50,6 +50,12 @@ Het nieuwe seizoen start in de week van 5 januari 2026 en loopt tot en met donde
 
 Schrijf je nu in voor de lessen!
 
+**Lespresentatie**
+
+We sluiten deze serie af met een lespresentatie in een theater op donderdag 23 april 2026. Woensdag 22 april is de generale repetitie voor alle deelnemers.
+
+De laatste weken werken we samen met een theatermaker aan het maken van een voorstelling waarin we laten zien wat we geleerd hebben.
+
 
 <details>
 <summary>
@@ -72,7 +78,6 @@ Aanmelden proefles Januari
 | Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |            -             |   Amsterdamsestraatweg 3  	   |
 | Woensdag 	 |    Beginners	     |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
 | Donderdag  | Gevorderden 	 |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
-| Donderdag  |  Ver gevorderden 	  |   20:00 - 21:30    |            21:30 - 22:30             |           n.t.b.  	           |
 
 </div>
 
@@ -122,16 +127,6 @@ Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks al
 
 <br>
 <br>
-
-***ver-gevorderden***
-
-Voor de ver gevorderde schrijf je je in met en vaste partner. Met je partner verwachten we dat je qua niveau zeker met hand to hand bezig bent. Of andere truuks op vergelijkbaar niveau.
-
-
-In deze lessen werk je met je eigen partner aan je eigen truuks. We zorgen voor voldoende begeleiding en inspiratie om de truuks op hoger niveau te leren!
-
-
-Twijfel je over je niveau of heb je nu geen partner, neem dan even contact op met info@op-de-kop.nl.
 
 **Kosten**
 
