@@ -43,15 +43,15 @@ layout: "layouts/home.html"
 [//]: # ()
 
 
-## Season 2025
+## Season 2026
 
-The new season starts on September 1st, 2025 and runs until Thursday December 18th, 2025.
+The new season starts in the week of January 5th, 2026 and runs until Thursday April 23rd, 2026.
 
 Sign up now for the classes!  
 <details>
 <summary>
  <strong class="cursor-pointer">
-Sign up for a trial class in September</strong>
+Sign up for a trial class in January</strong>
 </summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/trial-class'></clubcollect-widget>
@@ -76,7 +76,7 @@ Sign up for a trial class in September</strong>
 
 Do you want to become a stronger acrobat? Join our new Acro Bootcamp on Mondays! This training is focused on building strength specifically for acrobats. The exercises are tailored to the needs of acrobats, and sometimes we use each other's bodies as weights to challenge the muscles even more!
 
-We are currently looking for acrobats interested in attending this bootcamp. The first series will run from September through December.
+We are currently looking for acrobats interested in attending this bootcamp. The next series will run from January through April.
 
 <strong>Time</strong> Monday  21:00 - 22:00
 
@@ -123,7 +123,7 @@ If you are unsure about your level or do not currently have a partner, please co
 
 **Costs**
 
-For the 2025 season:
+For the 2026 season (prices unchanged):
 - Acro classes: €200
 - Handstand classes: €150
 

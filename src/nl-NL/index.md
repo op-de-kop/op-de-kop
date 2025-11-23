@@ -42,11 +42,11 @@ layout: "layouts/home.html"
 [//]: # (Iedere week weer uniek omdat iedere week andere docenten komen.)
 
 
-## Seizoen 2025
+## Seizoen 2026
 
 Lesrooster:
 
-Het nieuwe seizoen start op 1 september 2025 en loopt tot en met donderdag 18 december 2025.
+Het nieuwe seizoen start in de week van 5 januari 2026 en loopt tot en met donderdag 23 april 2026.
 
 Schrijf je nu in voor de lessen!
 
@@ -54,7 +54,7 @@ Schrijf je nu in voor de lessen!
 <details>
 <summary>
  <strong class="cursor-pointer">
-Aanmelden proefles September
+Aanmelden proefles Januari
 </strong>
 </summary>
 
@@ -84,7 +84,7 @@ Aanmelden proefles September
 
 Wil jij een sterkere acrobaat worden? Doe mee met onze nieuwe Acro Bootcamp op maandag! Deze training is speciaal gericht op het sterker maken van acrobaten. De oefeningen zijn afgestemd op de specifieke behoeften van acrobaten en soms gebruiken we elkaars lichamen als gewicht om de spieren extra uit te dagen!
 
-We zijn nu op zoek naar acrobaten die interesse hebben om deze bootcamp te volgen. De eerste serie loopt van september tot en met december.
+We zijn nu op zoek naar acrobaten die interesse hebben om deze bootcamp te volgen. De volgende serie loopt van januari tot en met april.
 
 <strong>Tijden</strong> Maandag 21:00 - 22:00
 
@@ -135,7 +135,7 @@ Twijfel je over je niveau of heb je nu geen partner, neem dan even contact op me
 
 **Kosten**
 
-Voor het seizoen 2025:
+Voor het seizoen 2026 (prijzen onveranderd):
 - Acro lessen: €200
 - Handstandlessen: €150
 
