@@ -72,7 +72,7 @@ body {
     font-family: var(--font-primary);
     line-height: 1.6;
     color: var(--text-primary);
-    background-color: var(--neutral-light);
+    background-color: var(--neutral-white);
     margin: 0;
     padding: 0;
     font-size: 16px;
@@ -499,6 +499,18 @@ main ul li::before {
     box-shadow: var(--shadow-md);
     overflow: hidden;
     margin: var(--space-xl) 0;
+}
+
+/* Horizontal scroll for mobile */
+@media (max-width: 768px) {
+    .courses-table {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    .courses-table table {
+        min-width: 600px;
+    }
 }
 
 .courses-table table {
