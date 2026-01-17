@@ -1,22 +1,63 @@
 <head>
+  <!-- Meta Tags -->
   <title>Op De Kop: acrobatiekvereniging in Utrecht</title>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Utrechtse acrobatiekvereniging - leer acrobatiek in een en veilige omgeving. Voor alle niveaus." />
+  <meta name="keywords" content="acrobatiek, Utrecht, sport, training, gymnastiek, community" />
+  
+  <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest" />
+  
+  <!-- Preload Critical Resources -->
+  <link rel="preload" href="/static/css/style.css" as="style">
+  <link rel="preload" href="/static/css/tailwind.min.css" as="style">
+  
+  <!-- Stylesheets -->
   <link href="/static/css/tailwind.min.css" rel="stylesheet" />
   <link href="/static/css/style.css" rel="stylesheet" />
 
-  <style>
-    @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+  <!-- Modern Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-    .font-josefin {
-      font-family: "Josefin Sans", sans-serif;
+  <!-- Custom Typography Styles -->
+  <style>
+    :root {
+      --font-system: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      --font-modern: 'Inter', var(--font-system);
+      --font-heading: 'Manrope', var(--font-system);
+    }
+
+    .font-modern {
+      font-family: var(--font-modern);
+    }
+    
+    .font-heading {
+      font-family: var(--font-heading);
+    }
+
+    /* Performance optimizations */
+    img {
+      loading: lazy;
+    }
+    
+    /* Reduce motion for accessibility */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
     }
   </style>
+  
+  <!-- Map Dependencies -->
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
@@ -27,9 +68,28 @@
     src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
     crossorigin=""
-    type="module"
+    defer
   ></script>
-  <script src="/static/js/main.js" type="module"></script>
+  
+  <!-- JavaScript -->
+  <script src="/static/js/main.js" type="module" defer></script>
   <script async src='https://app.clubcollect.com/widgets.js'></script>
 
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsClub",
+    "name": "Op De Kop",
+    "description": "Utrechtse acrobatiekvereniging",
+    "url": "https://op-de-kop.nl",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Amsterdamsestraatweg 3",
+      "addressLocality": "Utrecht",
+      "addressCountry": "NL"
+    },
+    "sport": "Acrobatics"
+  }
+  </script>
 </head>

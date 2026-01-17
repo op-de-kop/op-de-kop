@@ -1,142 +1,280 @@
-{% extends "layouts/base.html" %} {% block content %}
-<div >
+{% extends "layouts/base.html" %}
 
-  <div class="container mx-auto px-4 py-16 max-w-2xl" style="height: 500px">
-    <div class="relative w-full overflow-hidden">
+{% block content %}
+<!-- Hero Section with Modern Carousel -->
+<section class="hero-section">
+  <div class="container">
+    <div class="hero-carousel relative overflow-hidden rounded-2xl shadow-2xl">
       <!-- Carousel wrapper -->
-      <div id="carousel-items" class="flex transition-transform duration-500 ease-in-out">
-        <!-- Carousel items -->
-        <div class="carousel-item min-w-full text-white h-96 flex items-center justify-center">
-          <img src="/static/images/home/OP-DE-KOP-25-04-41.webp" alt="">
+      <div id="carousel-items" class="flex transition-transform duration-700 ease-out">
+        <!-- Carousel items with modern overlays -->
+        <div class="carousel-item relative min-w-full h-96 md:h-[500px]">
+          <img src="/static/images/home/OP-DE-KOP-25-04-41.webp" 
+               alt="Acrobatics Training" 
+               class="w-full h-full object-cover">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-black/20 to-transparent">
+            <div class="absolute bottom-8 left-8 text-white">
+              <h3 class="text-2xl md:text-3xl font-bold mb-2">Join Our Community</h3>
+              <p class="text-lg opacity-90">Experience the art of acrobatics</p>
+            </div>
+          </div>
         </div>
-        <div class="carousel-item min-w-full h-96 flex items-center justify-center">
-          <img src="/static/images/home/img_1.webp" alt="Slide Image" class="w-full h-full object-cover lg:object-center">
+        
+        <div class="carousel-item relative min-w-full h-96 md:h-[500px]">
+          <img src="/static/images/home/img_1.webp" 
+               alt="Acrobatics Performance" 
+               class="w-full h-full object-cover">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-black/20 to-transparent">
+            <div class="absolute bottom-8 left-8 text-white">
+              <h3 class="text-2xl md:text-3xl font-bold mb-2">Learn & Grow</h3>
+              <p class="text-lg opacity-90">From beginners to advanced performers</p>
+            </div>
+          </div>
         </div>
-
-
-
-<!--        <div class="carousel-item min-w-full bg-green-500 text-white h-64 flex items-center justify-center">-->
-<!--          <img src="/static/images/img.png" alt="">-->
-
-<!--        </div>-->
-        <div class="carousel-item min-w-full h-96 flex items-center justify-center">
-          <img src="/static/images/home/img.webp" alt="Slide Image" class="w-full h-full object-cover lg:object-center">
+        
+        <div class="carousel-item relative min-w-full h-96 md:h-[500px]">
+          <img src="/static/images/home/img.webp" 
+               alt="Acrobatics Community" 
+               class="w-full h-full object-cover">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-black/20 to-transparent">
+            <div class="absolute bottom-8 left-8 text-white">
+              <h3 class="text-2xl md:text-3xl font-bold mb-2">Build Strength</h3>
+              <p class="text-lg opacity-90">Physical and mental development</p>
+            </div>
+          </div>
         </div>
       </div>
 
-      <!-- Prev/Next Buttons -->
-      <button id="prevBtn" class="absolute top-1/2 left-4 -translate-y-1/2 bg-gray-800 text-white px-4 py-2 rounded-full">
-        Prev
+      <!-- Modern Navigation Controls -->
+      <button id="prevBtn" 
+              class="absolute top-1/2 left-4 -translate-y-1/2 bg-white/20 backdrop-blur-sm hover:bg-white/30 text-white w-12 h-12 rounded-full flex items-center justify-center transition-all duration-300 group">
+        <svg class="w-5 h-5 transform group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+        </svg>
       </button>
-      <button id="nextBtn" class="absolute top-1/2 right-4 -translate-y-1/2 bg-gray-800 text-white px-4 py-2 rounded-full">
-        Next
+      
+      <button id="nextBtn" 
+              class="absolute top-1/2 right-4 -translate-y-1/2 bg-white/20 backdrop-blur-sm hover:bg-white/30 text-white w-12 h-12 rounded-full flex items-center justify-center transition-all duration-300 group">
+        <svg class="w-5 h-5 transform group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+        </svg>
       </button>
 
-      <!-- Slide Indicators -->
-      <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex space-x-2">
-        <button class="indicator w-3 h-3 bg-gray-300 rounded-full" data-slide="0"></button>
-        <button class="indicator w-3 h-3 bg-gray-300 rounded-full" data-slide="1"></button>
-        <button class="indicator w-3 h-3 bg-gray-300 rounded-full" data-slide="2"></button>
+      <!-- Modern Slide Indicators -->
+      <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 flex space-x-3">
+        <button class="indicator w-3 h-3 bg-white/50 rounded-full transition-all duration-300 hover:bg-white/80" data-slide="0"></button>
+        <button class="indicator w-3 h-3 bg-white/50 rounded-full transition-all duration-300 hover:bg-white/80" data-slide="1"></button>
+        <button class="indicator w-3 h-3 bg-white/50 rounded-full transition-all duration-300 hover:bg-white/80" data-slide="2"></button>
       </div>
     </div>
 
-<!--    <div>Foto's: <a href="https://ikbenvince.nl">ikbenvince.nl</a></div>-->
-    <div>Fotos: ikbenvince.nl</div>
-  </div>
-  <style>
-    /* For smooth transitions */
-    .carousel-item {
-      transition: transform 0.5s ease-in-out;
-    }
-  </style>
-  <script>
-    const carouselItems = document.getElementById('carousel-items');
-    const indicators = document.querySelectorAll('.indicator');
-    let currentIndex = 0;
-
-    function updateCarousel(index) {
-      const offset = index * -100;
-      carouselItems.style.transform = `translateX(${offset}%)`;
-
-      indicators.forEach((indicator, i) => {
-        indicator.classList.toggle('bg-gray-800', i === index);
-        indicator.classList.toggle('bg-gray-300', i !== index);
-      });
-    }
-
-    document.getElementById('prevBtn').addEventListener('click', () => {
-      currentIndex = (currentIndex > 0) ? currentIndex - 1 : indicators.length - 1;
-      updateCarousel(currentIndex);
-    });
-
-    document.getElementById('nextBtn').addEventListener('click', () => {
-      currentIndex = (currentIndex < indicators.length - 1) ? currentIndex + 1 : 0;
-      updateCarousel(currentIndex);
-    });
-
-    indicators.forEach(indicator => {
-      indicator.addEventListener('click', (e) => {
-        const index = parseInt(e.target.getAttribute('data-slide'));
-        currentIndex = index;
-        updateCarousel(currentIndex);
-      });
-    });
-
-    updateCarousel(currentIndex); // Initialize carousel
-  </script>
-</div>
-
-<div class=" grid">
-  <div class="mx-10 py-3 md:max-w-2xl justify-self-center text-center">
-    <div>Follow us on</div>
-
-      <div class="row flex  text-sm align-center">
-        <a
-                class=" my-auto"
-                href="https://whatsapp.com/channel/0029VaiLJSzIN9ikmdkuNf3H">
-        <img
-                src="/static/images/icons/whatsapp-svgrepo-com.svg"
-                class=" w-12 h-12 my-auto"
-        />
-        </a>
-        <a href="https://www.instagram.com/acro_opdekop">
-          <img
-                  src="/static/images/icons/instagram-logo.svg"
-                  class=" w-16 h-16 ml-5"
-          />
-        </a>
-      </div>
-
-  </div>
-</div>
-
-
-<section class="mb-3 mt-8">
-  <div class="app-red text-white grid">
-    <div class="mx-10 py-10 md:max-w-2xl justify-self-center">
-      <div>{{"op_de_kop" | i18n}}</div>
-      <div class="mt-3">{{"lessons_for_everyone" | i18n}}</div>
+    <!-- Photo Credit -->
+    <div class="text-center mt-4 text-sm text-gray-600">
+      Foto's: <a href="https://ikbenvince.nl" class="text-red-600 hover:text-red-800 font-medium">ikbenvince.nl</a>
     </div>
   </div>
-  <div class="mt-10 mx-8 justify-center flex font-bold">
-    {{"interested" | i18n}}
-  </div>
+</section>
 
-  <div class="justify-center flex mt-8">
-    <a href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=nl">
-      <button
-        class="text-white rounded justify-center subscribe-button px-4 py-2"
-      >
-        {{"subscribe" | i18n}}
-      </button>
-    </a>
+<!-- Main Content Section -->
+<section class="content-section py-16">
+  <div class="container-sm">
+    <div class="prose prose-lg max-w-none">
+      {{ content | safe }}
+    </div>
   </div>
 </section>
 
-<section class="mb-3 mt-8 mx-8 grid home-content">
-  <div class="md:max-w-2xl justify-self-center">{{content | safe }}</div>
+<!-- Call-to-Action Section -->
+<section class="cta-section py-16 bg-gradient-to-br from-red-50 to-orange-50">
+  <div class="container text-center">
+    <div class="max-w-3xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
+        Ready to Start Your Acrobatics Journey?
+      </h2>
+      <p class="text-xl text-gray-600 mb-8">
+        Join our welcoming community and discover the joy of acrobatics. Classes for all levels available.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        <a href="/{{locale}}/courses" 
+           class="btn btn-primary text-lg px-8 py-4">
+          View Classes
+        </a>
+        <a href="/{{locale}}/open_training" 
+           class="btn btn-secondary text-lg px-8 py-4">
+          Try Open Training
+        </a>
+      </div>
+    </div>
+  </div>
 </section>
 
-<section class="mt-8 mb-8 flex">{% include "partials/map.html" %}</section>
+<!-- Features Section -->
+<section class="features-section py-16">
+  <div class="container">
+    <div class="grid md:grid-cols-3 gap-8">
+      <div class="feature-card text-center">
+        <div class="w-16 h-16 bg-gradient-to-br from-red-500 to-red-600 rounded-full flex items-center justify-center mx-auto mb-6">
+          <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
+          </svg>
+        </div>
+        <h3 class="text-xl font-semibold mb-4">Community</h3>
+        <p class="text-gray-600">Join a supportive community of acrobatics enthusiasts from all backgrounds and skill levels.</p>
+      </div>
+      
+      <div class="feature-card text-center">
+        <div class="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-6">
+          <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+          </svg>
+        </div>
+        <h3 class="text-xl font-semibold mb-4">Experienced Volunteers</h3>
+        <p class="text-gray-600">Learn from experienced instructors with structured classes designed for progressive skill development.</p>
+      </div>
+      
+      <div class="feature-card text-center">
+        <div class="w-16 h-16 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-6">
+          <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+        </div>
+        <h3 class="text-xl font-semibold mb-4">Safe Environment</h3>
+        <p class="text-gray-600">Practice in a safe, well-equipped environment with proper supervision and safety protocols.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Social Media Section -->
+<section class="social-section py-12 bg-gray-50">
+  <div class="container text-center">
+    <h3 class="text-2xl font-bold text-gray-800 mb-8">Follow Us</h3>
+    <div class="flex justify-center space-x-6">
+      <a href="https://whatsapp.com/channel/0029VaiLJSzIN9ikmdkuNf3H" 
+         class="social-link">
+        <img src="/static/images/icons/whatsapp-svgrepo-com.svg" 
+             alt="WhatsApp" 
+             class="w-12 h-12" />
+      </a>
+      <a href="https://www.instagram.com/acro_opdekop" 
+         class="social-link">
+        <img src="/static/images/icons/instagram-logo.svg" 
+             alt="Instagram" 
+             class="w-16 h-16" />
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- About Section with Better Contrast -->
+<section class="about-section py-16 bg-white">
+  <div class="container">
+    <div class="max-w-4xl mx-auto text-center">
+      <div class="about-content mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-8">About Op De Kop</h2>
+        <div class="prose prose-lg max-w-none">
+          <p class="text-xl text-gray-700 leading-relaxed mb-6">{{"op_de_kop" | i18n}}</p>
+          <p class="text-lg text-gray-600 leading-relaxed">{{"lessons_for_everyone" | i18n}}</p>
+        </div>
+      </div>
+      
+      <div class="cta-content">
+        <p class="text-xl font-semibold text-gray-800 mb-8">{{"interested" | i18n}}</p>
+        <a href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=nl" 
+           class="btn btn-primary text-lg px-8 py-4 inline-flex items-center space-x-2">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z"></path>
+          </svg>
+          <span>{{"subscribe" | i18n}}</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Map Section -->
+<section class="map-section py-16">
+  <div class="container">
+    {% include "partials/map.html" %}
+  </div>
+</section>
+
+<style>
+.hero-section {
+  padding: 2rem 0;
+}
+
+.hero-carousel {
+  background: var(--neutral-white);
+  position: relative;
+}
+
+.carousel-item {
+  transition: transform 0.7s ease-out;
+}
+
+.carousel-item img {
+  transition: transform 0.3s ease-out;
+}
+
+.carousel-item:hover img {
+  transform: scale(1.02);
+}
+
+.indicator.active {
+  background-color: white !important;
+  transform: scale(1.2);
+}
+
+.feature-card {
+  padding: 2rem;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+.content-section {
+  background: linear-gradient(135deg, rgba(248, 250, 252, 0.8) 0%, rgba(241, 245, 249, 0.8) 100%);
+}
+
+.prose {
+  color: var(--text-primary);
+}
+
+.prose h2 {
+  color: var(--primary-red);
+  font-family: var(--font-display);
+}
+
+.prose p {
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.social-link:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+</style>
 
 {% endblock %}

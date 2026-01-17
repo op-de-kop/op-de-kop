@@ -126,11 +126,6 @@ Holders of the U-pas can also use the pass for a discount on the class.
 
 
 
-**Discounts**
-
-We give 25% discount on the courses for everyone who needs it.
-
-
 <br>
 <br>
 <br>

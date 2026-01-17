@@ -1,51 +1,129 @@
-<header class="sticky top-0 ">
-    <nav class="md:grid gap-4 mb-3 navbar">
-        <ul class="pb-3 text-xl md:text-3xl md:border-b-4 flex flex-row mt-3">
-            <li class="mr-4 ml-4">
-                <span>
-                    <a class="hover:underline focus:underline" href="/{{locale}}/">Home</a>
-                </span>
-            </li>
-            <li class="mr-4">
-                <span>
-                    <a class="hover:underline focus:underline" href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=nl">Register</a>
-                </span>
-            </li>
-            <li class="mr-4">
-                <span>
-                    <a class="hover:underline focus:underline" href="/{{locale}}/open_training">Open Training</a>
-                </span>
-            </li>
-            <li class="mr-4">
-                <span>
-                    <a class="hover:underline focus:underline" href="/{{locale}}/workshops">Workshops</a>
-                </span>
-            </li>
-            <li class="mr-9">
-                <span>
-                    <a class="hover:underline focus:underline" href="/{{locale}}/faq">
+<header class="navbar">
+    <nav class="container">
+        <div class="flex items-center justify-between py-4">
+            <!-- Mobile menu button -->
+            <button id="mobile-menu-toggle" class="md:hidden flex items-center justify-center w-10 h-10 rounded-lg bg-white bg-opacity-20 backdrop-blur-sm" aria-label="Toggle navigation">
+                <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
+            
+            <!-- Desktop Navigation -->
+            <ul id="nav-links" class="hidden md:flex items-center space-x-6 text-lg font-medium">
+                <li>
+                    <a href="/{{locale}}/" class="nav-link">
+                        <svg class="w-5 h-5 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path>
+                        </svg>
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=nl" class="nav-link">
+                        <svg class="w-5 h-5 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z"></path>
+                        </svg>
+                        Register
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{locale}}/open_training" class="nav-link">
+                        <svg class="w-5 h-5 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+                        </svg>
+                        Open Training
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{locale}}/workshops" class="nav-link">
+                        <svg class="w-5 h-5 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                        </svg>
+                        Workshops
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{locale}}/faq" class="nav-link">
+                        <svg class="w-5 h-5 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
                         FAQ
                     </a>
-                </span>
-            </li>
-            <li class="mr-9 ml-auto">
-                <span>
-                    <a
-                            class="hover:underline focus:underline"
-                            href="/{{"en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}">{{"English" if locale == "nl-NL" else "Nederlands"}}</a>
-                </span>
-            </li>
-        </ul>
+                </li>
+            </ul>
+            
+            <!-- Language Toggle -->
+            <div class="flex items-center">
+                <a href="/{{"en-US" if locale == "nl-NL" else "nl-NL"}}/{{page.fileSlug if page.fileSlug != locale }}" 
+                   class="flex items-center space-x-2 bg-white bg-opacity-20 backdrop-blur-sm px-3 py-2 rounded-lg text-white font-medium hover:bg-opacity-30 transition-all duration-300">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129"></path>
+                    </svg>
+                    <span>{{"EN" if locale == "nl-NL" else "NL"}}</span>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Mobile Navigation Menu -->
+        <div id="mobile-menu" class="md:hidden hidden bg-white bg-opacity-10 backdrop-blur-sm rounded-lg mt-4 p-4">
+            <ul class="space-y-4">
+                <li>
+                    <a href="/{{locale}}/" class="flex items-center space-x-3 text-white text-lg font-medium py-2">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path>
+                        </svg>
+                        <span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=nl" class="flex items-center space-x-3 text-white text-lg font-medium py-2">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z"></path>
+                        </svg>
+                        <span>Register</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{locale}}/open_training" class="flex items-center space-x-3 text-white text-lg font-medium py-2">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+                        </svg>
+                        <span>Open Training</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{locale}}/workshops" class="flex items-center space-x-3 text-white text-lg font-medium py-2">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                        </svg>
+                        <span>Workshops</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/{{locale}}/faq" class="flex items-center space-x-3 text-white text-lg font-medium py-2">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        <span>FAQ</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
     </nav>
 </header>
-<div class="w-100 flex md:justify-center">
-    <a href="/{{locale}}">
-        <img src="/static/images/logo.svg" class="rounded-2xl md:w-80"/>
-    </a>
-</div>
-<a href="/{{locale}}">
-    <div class="p-3 grid center place-items-center font-josefin">
-        <h2 class="text-xl md:text-2xl">Utrechtse</h2>
-        <h1 class="text-4xl md:text-4xl">Acrobatiekvereniging</h1>
+
+<!-- Brand Section with Modern Design -->
+<section class="brand-section">
+    <div class="container text-center">
+        <a href="/{{locale}}/" class="inline-block group">
+            <img src="/static/images/logo.svg" 
+                 alt="Op De Kop Logo" 
+                 class="mx-auto mb-6 transition-transform duration-300 group-hover:scale-105"/>
+        </a>
+        <div class="brand-text">
+            <h2 class="text-xl md:text-2xl text-gray-600 font-light mb-2">Utrechtse</h2>
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-800 tracking-tight">Acrobatiekvereniging</h1>
+            <div class="mt-4 w-24 h-1 bg-gradient-to-r from-transparent via-red-500 to-transparent mx-auto rounded-full"></div>
+        </div>
     </div>
-</a>
+</section>

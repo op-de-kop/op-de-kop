@@ -1,25 +1,224 @@
-<footer class="m-4 flex items-center flex-col grid grid-cols-3 gap-4">
-  <nav class="col-span-2 mt-auto md:ml-20">
-    <ul>
-      <li>Questions: info@op-de-kop.nl</li>
-      <li>
-        <a
-          href="/static/docs/Lesvoorwaarden op de kop 2021-09-26.pdf"
-          class="underline hover:text-red-500 focus:underline"
-          >download {{"terms_and_conditions" | i18n}}</a
-        >
-      </li>
-      <li class="mt-2">
-        <a href="/{{locale}}/members">
-          <img
-            src="/static/images/icons/members.svg"
-            class="rounded-2xl md:w-6"
-          />
-        </a>
-      </li>
-    </ul>
-  </nav>
-  <div class="col-span-1">
-    <img src="/static/images/logo.svg" class="object-contain rounded-2xl m-2" />
+<footer class="footer-modern">
+  <div class="container">
+    <!-- Main Footer Content -->
+    <div class="footer-content">
+      <div class="grid md:grid-cols-3 gap-8 items-start">
+        
+        <!-- Contact Information -->
+        <div class="footer-section">
+          <h3 class="footer-heading">Contact</h3>
+          <div class="footer-links">
+            <a href="mailto:info@op-de-kop.nl" class="footer-link">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+              </svg>
+              <span>info@op-de-kop.nl</span>
+            </a>
+            <div class="footer-text">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+              <span>Amsterdamsestraatweg 3, Utrecht</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="footer-section">
+          <h3 class="footer-heading">Quick Links</h3>
+          <div class="footer-links">
+            <a href="/{{locale}}/courses" class="footer-link">
+              <span>Courses</span>
+            </a>
+            <a href="/{{locale}}/open_training" class="footer-link">
+              <span>Open Training</span>
+            </a>
+            <a href="/{{locale}}/workshops" class="footer-link">
+              <span>Workshops</span>
+            </a>
+            <a href="/{{locale}}/faq" class="footer-link">
+              <span>FAQ</span>
+            </a>
+            <a href="/static/docs/Lesvoorwaarden op de kop 2021-09-26.pdf" 
+               class="footer-link" 
+               target="_blank"
+               rel="noopener noreferrer">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+              </svg>
+              <span>Terms and Conditions</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Brand & Social -->
+        <div class="footer-section text-center md:text-right">
+          <div class="footer-logo">
+            <img src="/static/images/logo.svg" 
+                 alt="Op De Kop Logo" 
+                 class="footer-logo-img" />
+          </div>
+          <div class="footer-social">
+            <a href="/{{locale}}/members" 
+               class="footer-social-link" 
+               aria-label="Members Area">
+              <img src="/static/images/icons/members.svg" 
+                   alt="Members" 
+                   class="w-8 h-8" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer Bottom -->
+    <div class="footer-bottom">
+      <div class="footer-bottom-content">
+        <p class="footer-copyright">
+          © 2026 Op De Kop. All rights reserved.
+        </p>
+        <div class="footer-meta">
+          <span class="text-sm">Utrechtse Acrobatiekvereniging</span>
+        </div>
+      </div>
+    </div>
   </div>
 </footer>
+
+<style>
+.footer-modern {
+  background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+  color: #d1d5db;
+  margin-top: auto;
+}
+
+.footer-content {
+  padding: 3rem 0 2rem 0;
+}
+
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.footer-heading {
+  color: #f9fafb;
+  font-weight: 600;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-heading);
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.footer-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #d1d5db;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.footer-link:hover {
+  color: #db1735;
+  transform: translateX(4px);
+}
+
+.footer-text {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #9ca3af;
+  font-size: 0.95rem;
+}
+
+.footer-logo {
+  margin-bottom: 1rem;
+}
+
+.footer-logo-img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+  margin: 0 auto;
+}
+
+.footer-logo-img:hover {
+  transform: scale(1.05);
+}
+
+.footer-social {
+  display: flex;
+  justify-content: center;
+  md:justify-content: flex-end;
+}
+
+.footer-social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 0.75rem;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.footer-social-link:hover {
+  background: rgba(219, 23, 53, 0.2);
+  transform: translateY(-2px);
+}
+
+.footer-bottom {
+  padding: 1.5rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-bottom-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .footer-bottom-content {
+    flex-direction: row;
+    gap: 0;
+  }
+}
+
+.footer-copyright {
+  color: #9ca3af;
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+.footer-meta {
+  color: #6b7280;
+  font-size: 0.875rem;
+}
+
+@media (max-width: 768px) {
+  .footer-section:last-child {
+    text-align: center;
+  }
+  
+  .footer-logo-img {
+    margin: 0 auto;
+  }
+}
+</style>

@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ locale }}" dir="{{ dir }}">
   {% include "partials/head.html" %}
-  <body
-    class="bg-gray-100 font-sm md:font-base font-normal page-{{page.fileSlug}}"
-  >
+  <body class="font-modern min-h-screen flex flex-col page-{{page.fileSlug}}">
     {% include "partials/header.html" %}
-    <main>{% block content %}{% endblock %}</main>
+    <main class="flex-1">{% block content %}{% endblock %}</main>
     {% include "partials/footer.html" %}
   </body>
 </html>
