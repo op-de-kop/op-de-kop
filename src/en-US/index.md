@@ -74,7 +74,6 @@ Sign up for a trial class in January</strong>
 |   Day   	  |         Lesson         |        Time        |      Jam      |       Location               |
 |:----------:|:----------------------:|:------------------:|:-------------:|:-----------------------------:|
 | Monday 	  |      Intermediate 	       |  20:00 - 21:30 	   | 21:30 - 22:30 | Deken Roesstraat 2g  	  |
-| Monday    |     Acro Bootcamp        | 18:30 - 19:30 <br> <em>or</em> 21:00 - 22:00 <br> <span style="font-size:smaller">(timeslot not yet definitive)</span> |      -      | Daphne Schippersbrug   |
 | Wednesday  |    Handstand class	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	  |
 | Wednesday  |       Beginners	        |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
 | Thursday   |     Advanced	      |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
@@ -82,19 +81,6 @@ Sign up for a trial class in January</strong>
 
 </div>
 
-## Acro Bootcamp
-
-Do you want to become a stronger acrobat? Join our new Acro Bootcamp on Mondays! This training is focused on building strength specifically for acrobats. The exercises are tailored to the needs of acrobats, and sometimes we use each other's bodies as weights to challenge the muscles even more!
-
-We are currently looking for acrobats interested in attending this bootcamp. The next series will run from January through April.
-
-<strong>Time</strong> Monday  21:00 - 22:00
-
-Let us know if you are interested!
-
-<a href="https://app.clubcollect.com/forms/nl/op-de-kop/pre-registration-acro-bootcamp" target="_blank" class="btn">Sign up for Acro Bootcamp</a>
-
-<a href="https://app.clubcollect.com/forms/nl/op-de-kop/acro-bootcamp" target="_blank" class="btn">Single class</a>
 
 ## Entry Requirements:
 
