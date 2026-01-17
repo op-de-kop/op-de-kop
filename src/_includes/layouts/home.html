@@ -1,10 +1,9 @@
 {% extends "layouts/base.html" %}
 
 {% block content %}
-<!-- Hero Section with Modern Carousel -->
+ <!-- Hero Section with Modern Carousel -->
 <section class="hero-section">
-  <div class="container">
-    <div class="hero-carousel relative overflow-hidden rounded-2xl shadow-2xl">
+  <div class="hero-carousel relative overflow-hidden rounded-2xl shadow-2xl mx-auto">
       <!-- Carousel wrapper -->
       <div id="carousel-items" class="flex transition-transform duration-700 ease-out">
         <!-- Carousel items with modern overlays -->
@@ -12,10 +11,10 @@
           <img src="/static/images/home/OP-DE-KOP-25-04-41.webp" 
                alt="Acrobatics Training" 
                class="w-full h-full object-cover">
-          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent">
-            <div class="absolute bottom-8 left-8 text-white bg-black/30 backdrop-blur-sm p-4 rounded-lg">
-              <h3 class="text-2xl md:text-3xl font-bold mb-2 drop-shadow-lg">Join Our Community</h3>
-              <p class="text-lg opacity-90 drop-shadow-md">Experience the art of acrobatics</p>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
+            <div class="absolute bottom-8 left-8">
+              <h3 class="text-2xl md:text-3xl font-bold mb-2 bg-black/90 text-white px-4 py-2 rounded-lg">Join Our Community</h3>
+              <p class="text-lg bg-black/90 text-white px-4 py-2 rounded-lg">Experience the art of acrobatics</p>
             </div>
           </div>
         </div>
@@ -24,10 +23,10 @@
           <img src="/static/images/home/img_1.webp" 
                alt="Acrobatics Performance" 
                class="w-full h-full object-cover">
-          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent">
-            <div class="absolute bottom-8 left-8 text-white bg-black/30 backdrop-blur-sm p-4 rounded-lg">
-              <h3 class="text-2xl md:text-3xl font-bold mb-2 drop-shadow-lg">Learn & Grow</h3>
-              <p class="text-lg opacity-90 drop-shadow-md">From beginners to advanced performers</p>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
+            <div class="absolute bottom-8 left-8">
+              <h3 class="text-2xl md:text-3xl font-bold mb-2 bg-black/90 text-white px-4 py-2 rounded-lg">Learn & Grow</h3>
+              <p class="text-lg bg-black/90 text-white px-4 py-2 rounded-lg">From beginners to advanced performers</p>
             </div>
           </div>
         </div>
@@ -36,10 +35,10 @@
           <img src="/static/images/home/img.webp" 
                alt="Acrobatics Community" 
                class="w-full h-full object-cover">
-          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent">
-            <div class="absolute bottom-8 left-8 text-white bg-black/30 backdrop-blur-sm p-4 rounded-lg">
-              <h3 class="text-2xl md:text-3xl font-bold mb-2 drop-shadow-lg">Build Strength</h3>
-              <p class="text-lg opacity-90 drop-shadow-md">Physical and mental development</p>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
+            <div class="absolute bottom-8 left-8">
+              <h3 class="text-2xl md:text-3xl font-bold mb-2 bg-black/90 text-white px-4 py-2 rounded-lg">Build Strength</h3>
+              <p class="text-lg bg-black/90 text-white px-4 py-2 rounded-lg">Physical and mental development</p>
             </div>
           </div>
         </div>
@@ -67,14 +66,13 @@
         <button class="indicator w-3 h-3 bg-white/50 rounded-full transition-all duration-300 hover:bg-white/80" data-slide="2"></button>
       </div>
     </div>
+    
 
+</section>
     <!-- Photo Credit -->
-    <div class="text-center mt-4 text-sm text-gray-600">
+    <div class="text-center mt-1 text-sm text-gray-600 max-w-[600px] mx-auto">
       Foto's: <a href="https://ikbenvince.nl" class="text-red-600 hover:text-red-800 font-medium">ikbenvince.nl</a>
     </div>
-  </div>
-</section>
-
 <!-- Main Content Section -->
 <section class="content-section py-16">
   <div class="container-sm">
@@ -212,6 +210,8 @@
 .hero-carousel {
   background: var(--neutral-white);
   position: relative;
+  max-width: 600px !important;
+  margin: 0 auto !important;
 }
 
 .carousel-item {
