@@ -47,6 +47,8 @@ layout: "layouts/home.html"
 
 The new season starts in the week of January 5th, 2026 and runs until Thursday April 23rd, 2026.
 
+<div id="workshop-announcement" style="display: none;">
+
 ## ✨ Special Workshop: Acro Dance Lifts 👯🪩
 
 **Get ready to swing and be swung around!** Lindy hop is all about moving together, timing, and energy. Combine this with acrobatics, and this course will teach you dynamic dance lifts and playful variations.
@@ -59,6 +61,17 @@ The new season starts in the week of January 5th, 2026 and runs until Thursday A
 - **Prerequisites:** For bases - being able to lift and hold your partner in cradle pose comfortably. For flyers - being able to hold a plank for 30 seconds.
 - **Sign up:** [https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts](https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts)
 - **Note!** Sign up with a partner. Don't have a partner yet? [Join this WhatsApp group](https://chat.whatsapp.com/JDqY4RbdI3l0yDv5lDyjhc) to find someone!
+
+</div>
+
+<script>
+// Show workshop announcement only before February 25, 2026
+const workshopDeadline = new Date('2026-02-25');
+const today = new Date();
+if (today < workshopDeadline) {
+    document.getElementById('workshop-announcement').style.display = 'block';
+}
+</script>
 
 **Annual Presentation**
 
