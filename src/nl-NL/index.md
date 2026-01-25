@@ -48,6 +48,19 @@ Lesrooster:
 
 Het nieuwe seizoen start in de week van 5 januari 2026 en loopt tot en met donderdag 23 april 2026.
 
+## ✨ Speciale korte cursus: Acro Dance Lifts 👯🪩
+
+**Maak je klaar om te swingen en rondgezwaaid te worden!** Lindy hop draait om samen bewegen, timing en energie. Combineer dit met acrobatiek, en deze cursus leert je dynamische danslifts en speelse variaties.
+
+- **Data:** Woensdagen: 25 februari, 4, 11, 18 maart
+- **Tijd:** 20:00-22:00
+- **Locatie:** Diedom
+- **Kosten:** €95 per persoon
+- **Instructeurs:** <a href="https://www.instagram.com/mike_sonder_" target="_blank">Mike</a> en <a href="https://www.instagram.com/nacarusa/" target="_blank">Nathalia</a>. Bekijk hun instagram's om te zien waar je aan begint!
+- **Vereisten:** Voor bases - je partner comfortabel kunnen tillen en vasthouden in cradle pose. Voor flyers - 30 seconden een plank kunnen houden.
+- **Aanmelden:** [https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts](https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts)
+- **Let op!** Meld je aan met een partner. Heb je nog geen partner? [Doe mee in deze WhatsApp groep](https://chat.whatsapp.com/JDqY4RbdI3l0yDv5lDyjhc) om iemand te vinden!
+
 Schrijf je nu in voor de lessen!
 
 **Lespresentatie**
