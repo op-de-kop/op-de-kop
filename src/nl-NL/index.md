@@ -48,7 +48,6 @@ Lesrooster:
 
 Het nieuwe seizoen start in de week van 5 januari 2026 en loopt tot en met donderdag 23 april 2026.
 
-<div id="workshop-announcement" style="display: none;">
 
 ## ✨ Speciale korte cursus: Acro Dance Lifts 👯🪩
 
@@ -63,24 +62,19 @@ Het nieuwe seizoen start in de week van 5 januari 2026 en loopt tot en met donde
 - **Aanmelden:** [https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts](https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts)
 - **Let op!** Meld je aan met een partner. Heb je nog geen partner? [Doe mee in deze WhatsApp groep](https://chat.whatsapp.com/JDqY4RbdI3l0yDv5lDyjhc) om iemand te vinden!
 
-</div>
 
-<script>
-// Show workshop announcement only before February 25, 2026
-const workshopDeadline = new Date('2026-02-25');
-const today = new Date();
-if (today < workshopDeadline) {
-    document.getElementById('workshop-announcement').style.display = 'block';
-}
-</script>
+<br>
+<br>
 
-Schrijf je nu in voor de lessen!
+<br>
 
-**Lespresentatie**
+## Lespresentatie
 
 We sluiten deze serie af met een lespresentatie in een theater op donderdag 23 april 2026. Woensdag 22 april is de generale repetitie voor alle deelnemers.
 
 De laatste weken werken we samen met een theatermaker aan het maken van een voorstelling waarin we laten zien wat we geleerd hebben.
+
+Schrijf je nu in voor de lessen!
 
 
 <details>
