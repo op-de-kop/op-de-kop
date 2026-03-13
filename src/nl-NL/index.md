@@ -96,7 +96,7 @@ Aanmelden proefles Januari
 | Maandag 	  |     Licht gevorderden 	     |  20:00 - 21:30 	   |      21:30 - 22:30       | Deken Roesstraat 2g 	 |
 | Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |            -             |   Amsterdamsestraatweg 3  	   |
 | Woensdag 	 |    Beginners	     |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
-| Donderdag  | Gevorderden 	 |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
+| Donderdag  | Gevorderden 	 |   19:30 - 21:00    |      21:00 - 22:00       |   Amsterdamsestraatweg 3  	   |
 
 </div>
 
