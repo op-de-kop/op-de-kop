@@ -7,7 +7,7 @@ layout: 'layouts/blank.html'
 
 ## Lesrooster:
 
-Dit lesrooster gaat van start in de week van 5 januari 2026 en loopt tot en met donderdag 23 april 2026.
+Dit lesrooster gaat van start in de week van 4 mei 2026 en loopt tot en met 2 juli 2026.
 
 <div class="courses-table">
 

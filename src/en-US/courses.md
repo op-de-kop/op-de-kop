@@ -5,7 +5,7 @@ layout: 'layouts/blank.html'
 
 ## Timetable:
 
-This timetable starts in the week of January 5th, 2026 and runs until Thursday April 23rd, 2026.
+This timetable starts in the week of May 4th, 2026 and runs until July 2nd, 2026.
 
 <div class="courses-table">
 

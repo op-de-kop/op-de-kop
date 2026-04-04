@@ -45,26 +45,8 @@ layout: "layouts/home.html"
 
 ## Season 2026
 
-The new season starts in the week of January 5th, 2026 and runs until Thursday April 23rd, 2026.
+The new season starts in the week of May 4th, 2026 and runs until July 2nd, 2026.
 
-
-## ✨ Special Workshop: Acro Dance Lifts 👯🪩
-
-**Get ready to swing and be swung around!** Lindy hop is all about moving together, timing, and energy. Combine this with acrobatics, and this course will teach you dynamic dance lifts and playful variations.
-
-- **Dates:** Wednesdays: Feb 25, March 4, 11, 18
-- **Time:** 20:00-22:00
-- **Location:** Diedom
-- **Cost:** €95 per person
-- **Instructors:** <a href="https://www.instagram.com/mike_sonder_" target="_blank">Mike</a> and <a href="https://www.instagram.com/nacarusa/" target="_blank">Nathalia</a>. Check out their instagrams to see what you're in for!
-- **Prerequisites:** For bases - being able to lift and hold your partner in cradle pose comfortably. For flyers - being able to hold a plank for 30 seconds.
-- **Sign up:** [https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts](https://app.clubcollect.com/forms/nl/op-de-kop/dance-lifts)
-- **Note!** Sign up with a partner. Don't have a partner yet? [Join this WhatsApp group](https://chat.whatsapp.com/JDqY4RbdI3l0yDv5lDyjhc) to find someone!
-
-
-<br>
-<br>
-<br>
 
 ## Annual Presentations
 
@@ -80,7 +62,7 @@ Sign up now for the classes!
 <details>
 <summary>
  <strong class="cursor-pointer">
-Sign up for a trial class in January</strong>
+Sign up for a trial class in May</strong>
 </summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/trial-class'></clubcollect-widget>
