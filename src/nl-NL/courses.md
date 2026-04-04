@@ -36,7 +36,7 @@ Voor het seizoen 2026 zijn de kosten:
 ## Aanmelding
 
 
-Op dit moment zijn we bezig om een nieuw administratiesysteem in te richten. Daarom kun je nu nog niet officieel aanmelden. Maar als je geintereseerd bent, vul dan alvast onderstaand in. dan houden we je op de hoogte!
+Vul onderstaand formulier in om je in te schrijven voor een van onze lessen:
 
 
 

@@ -11,7 +11,6 @@ This timetable starts in the week of May 4th, 2026 and runs until July 2nd, 2026
 
 |   Day   	  |         Lesson         |     Time            |      Jam      |       Location               |
 |:----------:|:----------------------:|:------------------:|:-------------:|:-----------------------------:|
-| Monday 	  | Aerial silk beginners	 |  20:00 - 21:30 	   |       -       |           t.b.a. 	          |
 | Monday 	  |      Intermedate 	       |  20:00 - 21:30 	   | 21:30 - 22:30 | Burg. Fockema Andrealaan 9A 	  |
 | Wednesday  |    Handstand class	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	  |
 | Wednesday  |       Beginners	        | 20:00 - 21:30      | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
@@ -30,7 +29,7 @@ For the 2026 season, the costs are:
 
 ## Registration
 
-We are currently setting up a new administration system. Therefore, you cannot officially register yet. But if you are interested, please fill in the form below and we will keep you informed!
+To enroll in one of our classes, please fill in the form below to register:
 
 <div class="justify-center flex mt-8">
     <a href="https://app.clubbase.io/signup/8609e150-fd51-4bfb-b043-925d380da915?locale=en" target="_blank">
