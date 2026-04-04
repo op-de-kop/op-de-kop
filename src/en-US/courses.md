@@ -24,9 +24,9 @@ This timetable starts in the week of May 4th, 2026 and runs until July 2nd, 2026
 
 To participate in one of the lessons, you can become a member of the association. Membership is for an indefinite period. There is a notice period of 3 months.
 
-For the 2026 season, the costs are (unchanged):
-- Acro classes: €200
-- Handstand classes: €150
+For the 2026 season, the costs are:
+- Acro classes: €112.50 (9 lessons × €12.50)
+- Handstand classes: €90 (9 lessons × €10)
 
 ## Registration
 

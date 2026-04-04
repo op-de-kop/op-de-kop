@@ -28,9 +28,9 @@ Om mee te doen aan een van de lessen kun je lid worden van de vereniging. Lidmaa
 
 [//]: # (Voor het seizoen 2024-2025 is de contributie 500 euro &#40;350 als je alleen de handstandles volgt&#41;.)
 
-Voor het seizoen 2026 zijn de kosten (onveranderd):
-- Acro lessen: €200
-- Handstandlessen: €150
+Voor het seizoen 2026 zijn de kosten:
+- Acro lessen: €112,50 (9 lessen × €12,50)
+- Handstandlessen: €90 (9 lessen × €10)
 
 
 ## Aanmelding
