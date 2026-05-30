@@ -42,6 +42,20 @@ layout: "layouts/home.html"
 [//]: # (Iedere week weer uniek omdat iedere week andere docenten komen.)
 
 
+## Ze zijn terug! 🎉
+
+Zondag 20 juni zijn Inez en ik terug in Utrecht voor een dag vol Icarians, whips & danslifts.
+
+Alle info en aanmelden:
+
+<div class="workshop-signup my-8 text-center">
+  <img src="/static/images/workshop-june-20.png" alt="ACRO Workshop 20 juni – Karel & Inez – Icarians, Whippops, Dance Acro & H2H" class="w-full max-w-sm mx-auto rounded-xl shadow-lg block">
+  <a href="https://app.clubcollect.com/forms/nl/op-de-kop/workshops-20-june-with-inez-and-karel" target="_blank" rel="noopener noreferrer"
+     class="inline-block mt-6 px-8 py-4 bg-red-600 hover:bg-red-700 text-white font-bold text-lg rounded-xl shadow-md transition-colors">
+    Aanmelden
+  </a>
+</div>
+
 ## Seizoen 2026
 
 Lesrooster:

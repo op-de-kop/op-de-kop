@@ -43,6 +43,20 @@ layout: "layouts/home.html"
 [//]: # ()
 
 
+## They are coming back! 🎉
+
+Sunday June 20th Inez and I are back in Utrecht for another day full of Icarians, whips & dance lifts.
+
+All info and sign up here:
+
+<div class="workshop-signup my-8 text-center">
+  <img src="/static/images/workshop-june-20.png" alt="ACRO Workshop June 20th – Karel & Inez – Icarians, Whippops, Dance Acro & H2H" class="w-full max-w-sm mx-auto rounded-xl shadow-lg block">
+  <a href="https://app.clubcollect.com/forms/nl/op-de-kop/workshops-20-june-with-inez-and-karel" target="_blank" rel="noopener noreferrer"
+     class="inline-block mt-6 px-8 py-4 bg-red-600 hover:bg-red-700 text-white font-bold text-lg rounded-xl shadow-md transition-colors">
+    Sign up now
+  </a>
+</div>
+
 ## Season 2026
 
 The new season starts in the week of May 4th, 2026 and runs until July 2nd, 2026.
