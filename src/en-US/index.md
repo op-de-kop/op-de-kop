@@ -43,36 +43,13 @@ layout: "layouts/home.html"
 [//]: # ()
 
 
-## They are coming back! 🎉
-
-Sunday June 20th Inez and I are back in Utrecht for another day full of Icarians, whips & dance lifts.
-
-All info and sign up here:
-
-<div class="workshop-signup my-8 text-center">
-  <img src="/static/images/workshop-june-20.png" alt="ACRO Workshop June 20th – Karel & Inez – Icarians, Whippops, Dance Acro & H2H" class="w-full max-w-sm mx-auto rounded-xl shadow-lg block">
-  <a href="https://app.clubcollect.com/forms/nl/op-de-kop/workshops-20-june-with-inez-and-karel" target="_blank" rel="noopener noreferrer"
-     class="inline-block mt-6 px-8 py-4 bg-red-600 hover:bg-red-700 text-white font-bold text-lg rounded-xl shadow-md transition-colors">
-    Sign up now
-  </a>
-</div>
-
 ## Season 2026
 
 The new season starts in the week of May 4th, 2026 and runs until July 2nd, 2026.
 
+> **Registration will open before July 18th!**
 
-## Annual Presentations
-
-We finish this series with an annual lesson presentation in a theater on Thursday April 23rd, 2026. Wednesday April 22nd is the dress rehearsal for all participants.
-
-In the final weeks we’ll work together with a theatre maker to create a short show that showcases what we’ve learned.
-<br>
-<br>
-
-<br>
-
-Sign up now for the classes!  
+Sign up now for the classes!
 <details>
 <summary>
  <strong class="cursor-pointer">
@@ -86,12 +63,14 @@ Sign up for a trial class in May</strong>
 
 <div class="courses-table mt-8">
 
-|   Day   	  |         Lesson         |        Time        |      Jam      |       Location               |
-|:----------:|:----------------------:|:------------------:|:-------------:|:-----------------------------:|
-| Monday 	  |      Intermediate 	       |  20:00 - 21:30 	   | 21:30 - 22:30 | Deken Roesstraat 2g  	  |
-| Wednesday  |    Handstand class	    | 18:45 - 19:45    	 |       -       |   Amsterdamsestraatweg 3  	  |
-| Wednesday  |       Beginners	        |   20:00 - 21:30    | 21:30 - 22:30 |   Amsterdamsestraatweg 3  	  |
-| Thursday   |     Advanced	      |   19:30 - 21:00    | 21:00 - 22:00 |   Amsterdamsestraatweg 3  	  |
+|    Day    |             Lesson              |      Time      |      Jam      |        Location        |
+|:---------:|:-------------------------------:|:--------------:|:-------------:|:----------------------:|
+| Monday    | Advanced                        | 20:00 - 21:30  | 21:30 - 22:30 | Deken Roesstraat       |
+| Monday    | Advanced+ *(prereq: working on h2h)* | 19:30 - 21:30  | 21:30 - 22:30 | TBD                    |
+| Wednesday | Beginners                       | 20:00 - 21:30  | 21:30 - 22:00 | Schoolstraat           |
+| Wednesday | Beginners+ *(some experience)*  | 20:00 - 21:30  | 21:30 - 22:00 | Amsterdamsestraatweg 3 |
+| Thursday  | Handstand class                 | 18:45 - 19:45  | -             | Amsterdamsestraatweg 3 |
+| Thursday  | Advanced                        | 20:00 - 21:30  | 21:30 - 22:30 | Amsterdamsestraatweg 3 |
 
 
 </div>
@@ -99,9 +78,9 @@ Sign up for a trial class in May</strong>
 
 ## Entry Requirements:
 
-For the intermediate and Advanced classes, we have a set of tricks as entry requirements. We expect everyone attending these classes to be able to perform these tricks without needing instruction.
+For the Advanced and Advanced+ classes, we have a set of tricks as entry requirements. We expect everyone attending these classes to be able to perform these tricks without needing instruction.
 
-***Intermediate***
+***Advanced***
 - [Standing on shins](https://app.skillzones.nl/public/library/video/442)
 - [Bird -> shoulder stand in hands](https://app.skillzones.nl/public/library/video/443)
 - [Chair](https://app.skillzones.nl/public/library/video/445)
@@ -113,15 +92,8 @@ For the intermediate and Advanced classes, we have a set of tricks as entry requ
 <br>
 
 
-***Advanced***
-- [Standing in hands](https://app.skillzones.nl/public/library/video/99)
-- [Sidestar](https://app.skillzones.nl/public/library/video/98)
-- [4 Step](https://app.skillzones.nl/public/library/video/97)
-- [Star](https://app.skillzones.nl/public/library/video/96)
-- [Ninja star](https://app.skillzones.nl/public/library/video/95)
-- [Flag](https://app.skillzones.nl/public/library/video/94)
-- [Standing on shoulders](https://app.skillzones.nl/public/library/video/93)
-- [Camel](https://app.skillzones.nl/public/library/video/91)
+***Advanced+***
+- Be able to practise standing h2h
 
 
 **Costs**

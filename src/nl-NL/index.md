@@ -42,32 +42,13 @@ layout: "layouts/home.html"
 [//]: # (Iedere week weer uniek omdat iedere week andere docenten komen.)
 
 
-## Ze zijn terug! 🎉
-
-Zondag 20 juni zijn Inez en ik terug in Utrecht voor een dag vol Icarians, whips & danslifts.
-
-Alle info en aanmelden:
-
-<div class="workshop-signup my-8 text-center">
-  <img src="/static/images/workshop-june-20.png" alt="ACRO Workshop 20 juni – Karel & Inez – Icarians, Whippops, Dance Acro & H2H" class="w-full max-w-sm mx-auto rounded-xl shadow-lg block">
-  <a href="https://app.clubcollect.com/forms/nl/op-de-kop/workshops-20-june-with-inez-and-karel" target="_blank" rel="noopener noreferrer"
-     class="inline-block mt-6 px-8 py-4 bg-red-600 hover:bg-red-700 text-white font-bold text-lg rounded-xl shadow-md transition-colors">
-    Aanmelden
-  </a>
-</div>
-
 ## Seizoen 2026
 
 Lesrooster:
 
 Het nieuwe seizoen start in de week van 4 mei 2026 en loopt tot en met 2 juli 2026.
 
-
-## Lespresentatie
-
-We sluiten deze serie af met een lespresentatie in een theater op donderdag 23 april 2026. Woensdag 22 april is de generale repetitie voor alle deelnemers.
-
-De laatste weken werken we samen met een theatermaker aan het maken van een voorstelling waarin we laten zien wat we geleerd hebben.
+> **Inschrijving opent voor 18 juli!**
 
 Schrijf je nu in voor de lessen!
 
@@ -86,12 +67,14 @@ Aanmelden proefles Mei
 
 <div class="courses-table mt-8">
 
-|  Dag   	   |     Les      	      |     Tijd     	     |           Jam            |       Locatie        	        |
-|:----------:|:-------------------:|:------------------:|:------------------------:|:-----------------------------:|
-| Maandag 	  |     Licht gevorderden 	     |  20:00 - 21:30 	   |      21:30 - 22:30       | Deken Roesstraat 2g 	 |
-| Woensdag 	 |    Handstandles	    | 18:45 - 19:45    	 |            -             |   Amsterdamsestraatweg 3  	   |
-| Woensdag 	 |    Beginners	     |   20:00 - 21:30    |      21:30 - 22:30       |   Amsterdamsestraatweg 3  	   |
-| Donderdag  | Gevorderden 	 |   19:30 - 21:00    |      21:00 - 22:00       |   Amsterdamsestraatweg 3  	   |
+|  Dag       |           Les           |      Tijd      |       Jam        |         Locatie          |
+|:----------:|:-----------------------:|:--------------:|:----------------:|:------------------------:|
+| Maandag    | Gevorderden             | 20:00 - 21:30  | 21:30 - 22:30    | Deken Roesstraat         |
+| Maandag    | Gevorderden+ *(vereiste: werken aan h2h)* | 19:30 - 21:30  | 21:30 - 22:30    | Nader te bepalen         |
+| Woensdag   | Beginners               | 20:00 - 21:30  | 21:30 - 22:00    | Schoolstraat             |
+| Woensdag   | Beginners+ *(enige ervaring)* | 20:00 - 21:30  | 21:30 - 22:00    | Amsterdamsestraatweg 3   |
+| Donderdag  | Handstandles            | 18:45 - 19:45  | -                | Amsterdamsestraatweg 3   |
+| Donderdag  | Gevorderden             | 20:00 - 21:30  | 21:30 - 22:30    | Amsterdamsestraatweg 3   |
 
 </div>
 
@@ -102,9 +85,9 @@ Aanmelden proefles Mei
 
 ## Instapeisen
 
-Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
+Voor de Gevorderden en Gevorderden+ lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
 
-***Licht gevorderden***
+***Gevorderden***
 - [Staan op schenen](https://app.skillzones.nl/public/library/video/442)
 - [Snoek -> bolk (aka bird -> shoulderstand in hands)](https://app.skillzones.nl/public/library/video/443)
 - [Stoel / chair (in verschillende varianten)](https://app.skillzones.nl/public/library/video/445)
@@ -115,15 +98,8 @@ Voor de Licht gevorderden en gevorderden lessen hanteren we een aantal truuks al
 <br>
 <br>
 
-***Gevorderden***
-- [Standing in hands](https://app.skillzones.nl/public/library/video/99)
-- [Sidestar](https://app.skillzones.nl/public/library/video/98)
-- [4 Step](https://app.skillzones.nl/public/library/video/97)
-- [Star](https://app.skillzones.nl/public/library/video/96)
-- [Ninja star](https://app.skillzones.nl/public/library/video/95)
-- [Flag](https://app.skillzones.nl/public/library/video/94)
-- [Standing on shoulders](https://app.skillzones.nl/public/library/video/93)
-- [Camel](https://app.skillzones.nl/public/library/video/91)
+***Gevorderden+***
+- Staande h2h kunnen oefenen
 
 <br>
 <br>
