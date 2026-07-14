@@ -33,6 +33,9 @@ Payment:
 Entry is €5 per person. If you are doing a course with Op de Kop you can join for free.
 Paying can be done in cash, or (preferably) through a payment request.
 
+If you attend jams regularly, consider getting a **yearly jam membership** — it gives you free access to every Op de Kop jam for a year.
+[**Get a jam membership**](https://app.clubcollect.com/signup/0d1cb95e-e049-47d7-8992-246bc9018be2)
+
 Registration:
 
 Registration is not needed.

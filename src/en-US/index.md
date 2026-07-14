@@ -45,16 +45,16 @@ layout: "layouts/home.html"
 
 ## Season 2026
 
-The new season starts in the week of May 4th, 2026 and runs until July 2nd, 2026.
+The new season starts August 31st, 2026 and runs until Christmas.
 
-> **Registration will open before July 18th!**
+> **Registration is now open!**
 
-Sign up now for the classes!
+<a href="https://app.clubcollect.com/signup/d82f60e9-7ccd-4af3-b5fd-403426d6ffd0" class="btn btn-primary no-underline mt-4">Sign up for the classes</a>
+
+<p class="mt-6 text-gray-600">Not sure what you're getting into? Want to try it out before committing to a full season? You can sign up for a trial class first!</p>
+
 <details>
-<summary>
- <strong class="cursor-pointer">
-Sign up for a trial class in May</strong>
-</summary>
+<summary class="btn btn-secondary">Sign up for a trial class</summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/trial-class'></clubcollect-widget>
 
@@ -65,9 +65,9 @@ Sign up for a trial class in May</strong>
 
 |    Day    |             Lesson              |      Time      |      Jam      |        Location        |
 |:---------:|:-------------------------------:|:--------------:|:-------------:|:----------------------:|
-| Monday    | Advanced                        | 20:00 - 21:30  | 21:30 - 22:30 | Deken Roesstraat       |
-| Monday    | Advanced+ *(prereq: working on h2h)* | 19:30 - 21:30  | 21:30 - 22:30 | TBD                    |
-| Wednesday | Beginners                       | 20:00 - 21:30  | 21:30 - 22:00 | Schoolstraat           |
+| Monday    | Advanced+ *(prereq: working on h2h)* | 19:30 - 21:30  | 21:30 - 22:30 | Deken Roesstraat       |
+| Tuesday   | Intermediate                    | 20:00 - 21:30  | 21:30 - 22:30 | Oude Kerkstraat 2      |
+| Wednesday | Beginners                       | 19:30 - 21:00  | 21:00 - 21:30 | Schoolstraat           |
 | Wednesday | Beginners+ *(some experience)*  | 20:00 - 21:30  | 21:30 - 22:00 | Amsterdamsestraatweg 3 |
 | Thursday  | Handstand class                 | 18:45 - 19:45  | -             | Amsterdamsestraatweg 3 |
 | Thursday  | Advanced                        | 20:00 - 21:30  | 21:30 - 22:30 | Amsterdamsestraatweg 3 |

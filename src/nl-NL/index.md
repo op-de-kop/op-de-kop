@@ -46,19 +46,16 @@ layout: "layouts/home.html"
 
 Lesrooster:
 
-Het nieuwe seizoen start in de week van 4 mei 2026 en loopt tot en met 2 juli 2026.
+Het nieuwe seizoen start op 31 augustus 2026 en loopt tot kerst.
 
-> **Inschrijving opent voor 18 juli!**
+> **Inschrijving is nu open!**
 
-Schrijf je nu in voor de lessen!
+<a href="https://app.clubcollect.com/signup/d82f60e9-7ccd-4af3-b5fd-403426d6ffd0" class="btn btn-primary no-underline mt-4">Inschrijven voor de lessen</a>
 
+<p class="mt-6 text-gray-600">Weet je niet zeker wat je te wachten staat? Wil je het eerst uitproberen voordat je je voor een heel seizoen inschrijft? Je kunt je aanmelden voor een proefles!</p>
 
 <details>
-<summary>
- <strong class="cursor-pointer">
-Aanmelden proefles Mei
-</strong>
-</summary>
+<summary class="btn btn-secondary">Aanmelden proefles</summary>
 
 <clubcollect-widget force-display='true' type='form-page' path='nl/op-de-kop/registration-trial-class'></clubcollect-widget>
 
@@ -69,9 +66,9 @@ Aanmelden proefles Mei
 
 |  Dag       |           Les           |      Tijd      |       Jam        |         Locatie          |
 |:----------:|:-----------------------:|:--------------:|:----------------:|:------------------------:|
-| Maandag    | Gevorderden             | 20:00 - 21:30  | 21:30 - 22:30    | Deken Roesstraat         |
-| Maandag    | Gevorderden+ *(vereiste: werken aan h2h)* | 19:30 - 21:30  | 21:30 - 22:30    | Nader te bepalen         |
-| Woensdag   | Beginners               | 20:00 - 21:30  | 21:30 - 22:00    | Schoolstraat             |
+| Maandag    | Gevorderden+ *(vereiste: werken aan h2h)* | 19:30 - 21:30  | 21:30 - 22:30    | Deken Roesstraat         |
+| Dinsdag    | Licht gevorderd         | 20:00 - 21:30  | 21:30 - 22:30    | Oude Kerkstraat 2        |
+| Woensdag   | Beginners               | 19:30 - 21:00  | 21:00 - 21:30    | Schoolstraat             |
 | Woensdag   | Beginners+ *(enige ervaring)* | 20:00 - 21:30  | 21:30 - 22:00    | Amsterdamsestraatweg 3   |
 | Donderdag  | Handstandles            | 18:45 - 19:45  | -                | Amsterdamsestraatweg 3   |
 | Donderdag  | Gevorderden             | 20:00 - 21:30  | 21:30 - 22:30    | Amsterdamsestraatweg 3   |

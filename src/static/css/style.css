@@ -397,6 +397,19 @@ main ul li::before {
     color: var(--neutral-white);
 }
 
+/* Details/Summary styled as button */
+details > summary.btn {
+    list-style: none;
+    cursor: pointer;
+    display: inline-flex;
+}
+details > summary.btn::-webkit-details-marker {
+    display: none;
+}
+details > summary.btn::marker {
+    display: none;
+}
+
 /* Subscribe Button - Modern Redesign */
 .subscribe-button {
     background: linear-gradient(135deg, var(--primary-red) 0%, var(--accent-orange) 100%);

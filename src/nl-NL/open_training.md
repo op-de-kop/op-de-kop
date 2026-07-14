@@ -30,6 +30,9 @@ Betaling:
 Toegang is €5 per persoon. Als je een cursus doet bij Op de Kop kun je gratis meedoen.
 Betalen kan contant, of (bij voorkeur) via een betaalverzoek.
 
+Kom je regelmatig naar de jams? Overweeg dan een **jaarlijks jam-lidmaatschap** — daarmee heb je een jaar lang gratis toegang tot alle Op de Kop jams.
+[**Aanmelden voor een jam-lidmaatschap**](https://app.clubcollect.com/signup/0d1cb95e-e049-47d7-8992-246bc9018be2)
+
 Aanmelding:
 
 Aanmelden is niet nodig
