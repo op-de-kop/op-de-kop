@@ -65,10 +65,10 @@ The new season starts August 31st, 2026 and runs until Christmas.
 
 |    Day    |             Lesson              |      Time      |      Jam      |        Location        |
 |:---------:|:-------------------------------:|:--------------:|:-------------:|:----------------------:|
-| Monday    | Advanced+ *(prereq: working on h2h)* | 19:30 - 21:30  | 21:30 - 22:30 | Deken Roesstraat       |
+| Monday    | Advanced+                       | 19:30 - 21:30  | 21:30 - 22:30 | Deken Roesstraat       |
 | Tuesday   | Intermediate                    | 20:00 - 21:30  | 21:30 - 22:30 | Oude Kerkstraat 2      |
 | Wednesday | Beginners                       | 19:30 - 21:00  | 21:00 - 21:30 | Schoolstraat           |
-| Wednesday | Beginners+ *(some experience)*  | 20:00 - 21:30  | 21:30 - 22:00 | Amsterdamsestraatweg 3 |
+| Wednesday | Beginners+                      | 20:00 - 21:30  | 21:30 - 22:00 | Amsterdamsestraatweg 3 |
 | Thursday  | Handstand class                 | 18:45 - 19:45  | -             | Amsterdamsestraatweg 3 |
 | Thursday  | Advanced                        | 20:00 - 21:30  | 21:30 - 22:30 | Amsterdamsestraatweg 3 |
 
@@ -78,22 +78,47 @@ The new season starts August 31st, 2026 and runs until Christmas.
 
 ## Entry Requirements:
 
-For the Advanced and Advanced+ classes, we have a set of tricks as entry requirements. We expect everyone attending these classes to be able to perform these tricks without needing instruction.
+For our classes we have a set of tricks as entry requirements. We expect everyone attending these classes to be able to perform these tricks without needing instruction.
+
+***Beginners+***
+- 30sec handstand against the wall or with a spotter
+- [Star](https://app.skillzones.nl/public/library/video/444)
+- [Bird to shoulderstand](https://app.skillzones.nl/public/library/video/443)
+- [Chair](https://app.skillzones.nl/public/library/video/445)
+- Flag
+- [Standing on shoulders](https://app.skillzones.nl/public/library/video/446)
+
+<br>
+
+***Intermediate***
+- 45sec handstand against the wall or with a spotter
+- Pop bird to bird
+- Star to straddle bat and back
+- Ninja star
+- Diamond
+- Tempo to sitting on shoulders
+- Standing on shoulders, base can walk
+
+<br>
 
 ***Advanced***
-- [Standing on shins](https://app.skillzones.nl/public/library/video/442)
-- [Bird -> shoulder stand in hands](https://app.skillzones.nl/public/library/video/443)
-- [Chair](https://app.skillzones.nl/public/library/video/445)
-- [Star](https://app.skillzones.nl/public/library/video/444)
-- [Standing on shoulders (spotter allowed)](https://app.skillzones.nl/public/library/video/446)
-- Handstand to the wall or with a spotter
+- 60sec handstand against the wall or with a spotter
+- Icarian bird to bird
+- F2h l-base with spotter
+- H2h l-base with spotter
+- 4-step
+- Tarzan
+- Hand off / princess down
+- Standing on shoulders, base can walk
 
 <br>
-<br>
-
 
 ***Advanced+***
-- Be able to practise standing h2h
+- Solid h2h l-base
+- Solid f2h l-base
+- F2h s-base
+- H2h s-base (working on / with spotter)
+- Standing sidestar
 
 
 **Costs**

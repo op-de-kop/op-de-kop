@@ -66,10 +66,10 @@ Het nieuwe seizoen start op 31 augustus 2026 en loopt tot kerst.
 
 |  Dag       |           Les           |      Tijd      |       Jam        |         Locatie          |
 |:----------:|:-----------------------:|:--------------:|:----------------:|:------------------------:|
-| Maandag    | Gevorderden+ *(vereiste: werken aan h2h)* | 19:30 - 21:30  | 21:30 - 22:30    | Deken Roesstraat         |
+| Maandag    | Gevorderden+            | 19:30 - 21:30  | 21:30 - 22:30    | Deken Roesstraat         |
 | Dinsdag    | Licht gevorderd         | 20:00 - 21:30  | 21:30 - 22:30    | Oude Kerkstraat 2        |
 | Woensdag   | Beginners               | 19:30 - 21:00  | 21:00 - 21:30    | Schoolstraat             |
-| Woensdag   | Beginners+ *(enige ervaring)* | 20:00 - 21:30  | 21:30 - 22:00    | Amsterdamsestraatweg 3   |
+| Woensdag   | Beginners+              | 20:00 - 21:30  | 21:30 - 22:00    | Amsterdamsestraatweg 3   |
 | Donderdag  | Handstandles            | 18:45 - 19:45  | -                | Amsterdamsestraatweg 3   |
 | Donderdag  | Gevorderden             | 20:00 - 21:30  | 21:30 - 22:30    | Amsterdamsestraatweg 3   |
 
@@ -82,21 +82,47 @@ Het nieuwe seizoen start op 31 augustus 2026 en loopt tot kerst.
 
 ## Instapeisen
 
-Voor de Gevorderden en Gevorderden+ lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
+Voor de lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit dat iedereen die de les deze truuks kan uitvoeren zonder een uitleg te krijgen.
+
+***Beginners+***
+- 30sec handstand tegen de muur of met spotter
+- [Kaars / Star](https://app.skillzones.nl/public/library/video/444)
+- [Snoek naar bolk](https://app.skillzones.nl/public/library/video/443)
+- [Stoel](https://app.skillzones.nl/public/library/video/445)
+- Vlag
+- [Staan op schouders](https://app.skillzones.nl/public/library/video/446)
+
+<br>
+
+***Licht gevorderd***
+- 45sec handstand tegen de muur of met spotter
+- Pop bird to bird
+- Star naar straddle bat en terug
+- Ninja star
+- Ruitje
+- Tempo naar zitten op schouders
+- Staan op schouders, base kan lopen
+
+<br>
 
 ***Gevorderden***
-- [Staan op schenen](https://app.skillzones.nl/public/library/video/442)
-- [Snoek -> bolk (aka bird -> shoulderstand in hands)](https://app.skillzones.nl/public/library/video/443)
-- [Stoel / chair (in verschillende varianten)](https://app.skillzones.nl/public/library/video/445)
-- [Kaars / Star](https://app.skillzones.nl/public/library/video/444)
-- [Staan op schouders met spotter](https://app.skillzones.nl/public/library/video/446)
-- Handstand tegen muur / met spotter
+- 60sec handstand tegen de muur of met spotter
+- Icarian bird to bird
+- f2h l-base met spot
+- h2h l-base met spot
+- 4-step
+- Tarzan
+- Afdragen / princes down
+- Staan op schouders, base kan lopen
 
 <br>
-<br>
 
-***Gevorderden+***
-- Staande h2h kunnen oefenen
+***Ver gevorderden***
+- Solid h2h l-base
+- Solid f2h l-base
+- F2h s-base
+- H2h s-base (working on / met spotter)
+- Hoge vlinder
 
 <br>
 <br>
