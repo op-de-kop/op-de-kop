@@ -80,6 +80,11 @@ The new season starts August 31st, 2026 and runs until Christmas.
 
 For our classes we have a set of tricks as entry requirements. We expect everyone attending these classes to be able to perform these tricks without needing instruction.
 
+**Beginners**
+- Enthusiasm!!
+- No prior experience required, we all had our first class once!
+
+
 ***Beginners+***
 - 30sec handstand against the wall or with a spotter
 - [Star](https://app.skillzones.nl/public/library/video/444)

@@ -94,6 +94,10 @@ Voor de lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit da
 
 <br>
 
+**Beginners**
+- Enthousiasme
+- Geen ervaring nodig! We hebben allemaal ooit onze eerste les gehad
+
 ***Licht gevorderd***
 - 45sec handstand tegen de muur of met spotter
 - Pop bird to bird
