@@ -73,6 +73,8 @@ Het nieuwe seizoen start op 31 augustus 2026 en loopt tot kerst.
 | Donderdag  | Handstandles            | 18:45 - 19:45  | -                | Amsterdamsestraatweg 3   |
 | Donderdag  | Gevorderden             | 20:00 - 21:30  | 21:30 - 22:30    | Amsterdamsestraatweg 3   |
 
+<p class="schedule-notice">Alle lessen zijn voor iedereen vanaf 16 jaar.</p>
+
 </div>
 
 <br>

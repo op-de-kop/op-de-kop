@@ -72,6 +72,7 @@ The new season starts August 31st, 2026 and runs until Christmas.
 | Thursday  | Handstand class                 | 18:45 - 19:45  | -             | Amsterdamsestraatweg 3 |
 | Thursday  | Advanced                        | 20:00 - 21:30  | 21:30 - 22:30 | Amsterdamsestraatweg 3 |
 
+<p class="schedule-notice">All classes are for ages 16 and up.</p>
 
 </div>
 

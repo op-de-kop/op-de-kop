@@ -560,6 +560,18 @@ details > summary.btn::marker {
     border-bottom: none;
 }
 
+/* Age notice shown directly under the class schedule */
+.courses-table .schedule-notice {
+    margin: var(--space-md) 0 0;
+    padding: var(--space-sm) var(--space-md);
+    font-size: 0.95rem;
+    line-height: 1.4;
+    color: var(--text-primary);
+    background: var(--primary-red-light);
+    border-left: 3px solid var(--primary-red);
+    border-radius: var(--radius-sm);
+}
+
 /* Animation Classes */
 @keyframes fadeInUp {
     from {
