@@ -42,11 +42,16 @@ layout: "layouts/home.html"
 [//]: # (Iedere week weer uniek omdat iedere week andere docenten komen.)
 
 
-## Seizoen 2026
+## Seizoen voorjaar 2027
 
 Lesrooster:
 
-Het nieuwe seizoen start op 31 augustus 2026 en loopt tot kerst.
+Het nieuwe seizoen start in januari 2027 en loopt tot en met april 2027.
+
+**Lespresentatie**
+
+We sluiten deze serie af met een lespresentatie in een theater in de week van 19 april 2027. De precieze datum volgt nog!
+De laatste weken werken we samen met een theatermaker aan het maken van een voorstelling waarin we laten zien wat we geleerd hebben.
 
 > **Inschrijving is nu open!**
 
@@ -135,7 +140,7 @@ Voor de lessen hanteren we een aantal truuks als instapeis. We gaan ervan uit da
 
 **Kosten**
 
-Voor het seizoen 2026 (prijzen onveranderd):
+Voor het seizoen voorjaar 2027 (prijzen onveranderd):
 - Acro lessen: €200
 - Handstandlessen: €150
 

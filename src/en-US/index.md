@@ -43,9 +43,14 @@ layout: "layouts/home.html"
 [//]: # ()
 
 
-## Season 2026
+## Season spring 2027
 
-The new season starts August 31st, 2026 and runs until Christmas.
+The new season starts in January 2027 and runs through April 2027.
+
+**Class presentation**
+
+We will end this series with a class presentation in a theater in the week of April 19th, 2027. The exact date will be announced soon!
+During the last weeks we will work with a theater maker to create a show in which we present what we have learned.
 
 > **Registration is now open!**
 
@@ -129,7 +134,7 @@ For our classes we have a set of tricks as entry requirements. We expect everyon
 
 **Costs**
 
-For the 2026 season (prices unchanged):
+For the spring 2027 season (prices unchanged):
 - Acro classes: €200
 - Handstand classes: €150
 
